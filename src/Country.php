@@ -10,7 +10,7 @@ use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Contracts\Database\Eloquent\Castable;
 use Orpheus\LaravelCountries\Casts\CountryCast;
 
-class Country implements Arrayable, Castable, Jsonable, JsonSerializable
+class Country implements Arrayable, Jsonable, JsonSerializable
 {
     use Macroable {
         __callStatic as protected macroCallStatic;
@@ -216,16 +216,5 @@ class Country implements Arrayable, Castable, Jsonable, JsonSerializable
     public function jsonSerialize()
     {
         return $this->toArray();
-    }
-
-    /**
-     * Get the name of the caster class to use when casting from / to this cast target.
-     *
-     * @param  array  $arguments
-     * @return class-string<CastsAttributes|CastsInboundAttributes>|CastsAttributes|CastsInboundAttributes
-     */
-    public static function castUsing(array $arguments)
-    {
-        return CountryCast::class;
     }
 }
