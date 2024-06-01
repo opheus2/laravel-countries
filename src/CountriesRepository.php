@@ -32,7 +32,7 @@ class CountriesRepository
      */
     public function getByAlpha2Code($code)
     {
-        return $this->searchItem('cca2', strtoupper($code));
+        return $this->searchItem('cca2', mb_strtoupper($code));
     }
 
     /**
@@ -43,7 +43,7 @@ class CountriesRepository
      */
     public function getByAlpha3Code($code)
     {
-        return $this->searchItem('cca3', strtoupper($code));
+        return $this->searchItem('cca3', mb_strtoupper($code));
     }
 
     /**

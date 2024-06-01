@@ -4,7 +4,6 @@ namespace Orpheus\LaravelCountries\Tests;
 
 class CountryCastTest extends LaravelCountriesTestCase
 {
-
     /** @var \Orpheus\LaravelCountries\Country $country */
     protected $country;
 

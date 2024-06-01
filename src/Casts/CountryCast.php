@@ -2,7 +2,6 @@
 
 namespace Orpheus\LaravelCountries\Casts;
 
-use Illuminate\Database\Eloquent\Model;
 use Illuminate\Contracts\Database\Eloquent\CastsAttributes;
 use Orpheus\LaravelCountries\Facades\Countries;
 

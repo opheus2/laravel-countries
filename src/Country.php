@@ -2,10 +2,20 @@
 
 namespace Orpheus\LaravelCountries;
 
+use JsonSerializable;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Traits\Macroable;
+use Illuminate\Contracts\Support\Jsonable;
+use Illuminate\Contracts\Support\Arrayable;
+use Illuminate\Contracts\Database\Eloquent\Castable;
+use Orpheus\LaravelCountries\Casts\CountryCast;
 
-class Country
+class Country implements Arrayable, Castable, Jsonable, JsonSerializable
 {
+    use Macroable {
+        __callStatic as protected macroCallStatic;
+    }
+
     protected $attributes = [];
 
     public function __construct(array $attributes)
@@ -102,5 +112,120 @@ class Country
                 'symbol' => $currency['symbol']
             ]);
         }, array_keys($this->attributes['currencies']), $this->attributes['currencies']));
+    }
+
+    /**
+     * Get the instance as an array.
+     *
+     * @return array
+     */
+    public function toArray()
+    {
+        return [
+            'name' => $this->getCommonName(),
+            'alpha2Code' => $this->getAlpha2Code(),
+            'alpha3Code' => $this->getAlpha3Code(),
+            'numericCode' => $this->getNumericCode(),
+            'officialName' => $this->getOfficialName(),
+            'commonName' => $this->getCommonName(),
+            'currency' => $this->getCurrency(),
+        ];
+    }
+
+    /**
+     * Get the instance as JSON.
+     *
+     * @param  int  $options
+     * @return string
+     */
+    public function toJson($options = 0)
+    {
+        return json_encode($this->toArray(), $options);
+    }
+
+    /**
+     * Dynamically retrieve attributes on the country.
+     *
+     * @param  string  $key
+     * @return mixed
+     */
+    public function __get($key)
+    {
+        return $this->attributes[$key];
+    }
+
+    /**
+     * Dynamically set attributes on the country.
+     *
+     * @param  string  $key
+     * @param  mixed  $value
+     * @return void
+     */
+    public function __set($key, $value)
+    {
+        $this->attributes[$key] = $value;
+    }
+
+    /**
+     * Determine if an attribute exists on the country.
+     *
+     * @param  string  $key
+     * @return bool
+     */
+    public function __isset($key)
+    {
+        return isset($this->attributes[$key]);
+    }
+
+
+    /**
+     * Handle dynamic method calls into the country.
+     *
+     * @param  string  $method
+     * @param  array  $parameters
+     * @return mixed
+     */
+    public function __call($method, $parameters)
+    {
+        return $this->macroCallStatic($method, $parameters);
+    }
+
+    /**
+     * Dynamically handle calls to the class.
+     *
+     * @param  string  $method
+     * @param  array  $parameters
+     * @return mixed
+     *
+     * @throws \BadMethodCallException
+     */
+    public static function __callStatic($method, $parameters)
+    {
+        if (static::hasMacro($method)) {
+            return static::macroCallStatic($method, $parameters);
+        }
+
+        throw new \BadMethodCallException("Method {$method} does not exist.");
+    }
+
+    /**
+     * Serialize the object to its JSON representation.
+     *
+     * @return array
+     */
+    public function jsonSerialize()
+    {
+        return $this->toArray();
+    }
+
+    /**
+     * Get the name of the caster class to use when casting from / to this cast target.
+     *
+     * @param  array  $arguments
+     * @return class-string<CastsAttributes|CastsInboundAttributes>|CastsAttributes|CastsInboundAttributes
+     */
+    public static function castUsing(array $arguments)
+    {
+        return CountryCast::class;
     }
 }

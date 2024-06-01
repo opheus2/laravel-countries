@@ -4,7 +4,6 @@ namespace Orpheus\LaravelCountries\Tests;
 
 class CountryTest extends LaravelCountriesTestCase
 {
-
     /** @var \Orpheus\LaravelCountries\Country $country */
     protected $country;
 

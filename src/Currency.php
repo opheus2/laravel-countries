@@ -2,7 +2,11 @@
 
 namespace Orpheus\LaravelCountries;
 
-class Currency
+use Illuminate\Contracts\Support\Arrayable;
+use Illuminate\Contracts\Support\Jsonable;
+use JsonSerializable;
+
+class Currency implements Arrayable, Jsonable, JsonSerializable
 {
     protected $name;
     protected $code;
@@ -63,7 +67,7 @@ class Currency
         );
     }
 
-    public function __toArray()
+    public function toArray()
     {
         return [
             'name' => $this->name,
@@ -72,8 +76,19 @@ class Currency
         ];
     }
 
-    public function __toJson()
+    /**
+     * Get the instance as JSON.
+     *
+     * @param  int  $options
+     * @return string
+     */
+    public function toJson($options = 0)
     {
-        return json_encode($this->__toArray());
+        return json_encode($this->toArray(), $options);
+    }
+
+    public function jsonSerialize()
+    {
+        return $this->toArray();
     }
 }

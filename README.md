@@ -6,6 +6,42 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 This package gives you access effortlessly to data from every country.
+Laravel 7 above is supported.
+
+Original [package](https://github.com/patricksamson/laravel-countries) by [Patrick Samson](https://github.com/patricksamson) is not actively maintained anymore, so I decided to fork it.
+
+## Features
+- Get a country by its 2-letters, 3-letters or 3-digits ISO3166 code.
+- Get a list of countries by their region or sub region.
+- Get a list of countries by their currency.
+- Get a list of countries as a simple PHP array for dropdowns.
+- Country
+  - Get the 2-letters ISO3166 code.
+  - Get the 3-letters ISO3166 code.
+  - Get the 3-digits ISO3166 code.
+  - Get the official name.
+  - Get the common name.
+  - Get a Currency object.
+  - Get a collection of Currency objects.
+- Currency
+  - Get the currency code.
+  - Get the currency name.
+  - Get the currency symbol.
+- CountryCast
+  - A custom Eloquent cast to store a Country object in the database.
+
+
+- Coming Soon
+  - Get a list of countries by their language.
+  - Get a list of countries by their calling code.
+  - Get a list of countries by their time zone.
+  - Get a list of countries by their top level domain.
+  - Get a list of countries by their continent.
+  - Get a country flag by its 2-letters ISO3166 code. (size, type, style, etc.)
+  - blade components for country dropdowns
+  - blade components for country flags
+  - Get Google Maps URL for a country
+
 
 ## Install
 
@@ -73,9 +109,60 @@ $countries = \Countries::getListForDropdown('cca3', false, 'fra');
 ]
 ```
 
+### Macros
+
+This package implements the Laravel `Macroable` trait, allowing macros and mixins on both `Country`.
+
+Example use case:
+
+```php
+use Orpheus\LaravelCountries\Country;
+
+Country::macro(
+    'getFlag',
+    fn () => sprintf('https://www.countryflags.io/%s/flat/64.png', $this->getAlpha2Code())
+);
+
+$country = \Countries::getByAlpha3Code('CAN');
+$flag = $country->getFlag();
+
+// Output: https://www.countryflags.io/CA/flat/64.png
+```
+
+### Mixins
+
+Along with Macros, Mixins are also supported. This allows merging another classes methods into the Country.
+
+Define the mixin class:
+
+```php
+
+class CustomCountry
+{
+    public function getFlag(): string
+    {
+        return sprintf('https://www.countryflags.io/%s/flat/64.png', $this->getAlpha2Code());
+    }
+}
+```
+
+Register the mixin, by passing an instance of the class:
+
+```php
+Country::mixin(new CustomCountry);
+```
+
+The methods from the custom class will be available:
+
+```php
+$country = \Countries::getByAlpha3Code('CAN');
+$flag = $country->getFlag();
+```
+
 ## Credits
 
-- [Patrick Samson][link-author]
+- [Orpheus][link-author] for the fork.
+- [Patrick Samson](https://github.com/patricksamson) for the initial package.
 - [Mohammed Le Doze](https://github.com/mledoze) for compiling all this data in [this repository](https://github.com/mledoze/countries).
 - [All Contributors][link-contributors]
 
@@ -85,10 +172,10 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/Orpheus/laravel-countries.svg
 [ico-license]: https://img.shields.io/packagist/l/Orpheus/laravel-countries.svg
-[ico-github-action]: https://github.com/patricksamson/laravel-countries/workflows/Run%20Tests%20-%20Current/badge.svg?branch=master
+[ico-github-action]: https://github.com/opheus2/laravel-countries/workflows/Run%20Tests%20-%20Current/badge.svg?branch=master
 [ico-downloads]: https://img.shields.io/packagist/dt/Orpheus/laravel-countries.svg
 
-[link-packagist]: https://packagist.org/packages/Orpheus/laravel-countries
-[link-downloads]: https://packagist.org/packages/Orpheus/laravel-countries
-[link-author]: https://github.com/Orpheus
+[link-packagist]: https://packagist.org/packages/opheus2/laravel-countries
+[link-downloads]: https://packagist.org/packages/opheus2/laravel-countries
+[link-author]: https://github.com/opheus2
 [link-contributors]: ../../contributors

@@ -1,12 +1,12 @@
 <?php
 
 /**
-* PHP var_export() with short array syntax (square brackets) indented 2 spaces.
-*
-* NOTE: The only issue is when a string value has `=>\n[`, it will get converted to `=> [`
-* @link https://www.php.net/manual/en/function.var-export.php
-*/
-function short_var_export($expression, $return=false)
+ * PHP var_export() with short array syntax (square brackets) indented 2 spaces.
+ *
+ * NOTE: The only issue is when a string value has `=>\n[`, it will get converted to `=> [`
+ * @link https://www.php.net/manual/en/function.var-export.php
+ */
+function short_var_export($expression, $return = false)
 {
     $export = var_export($expression, true);
     $patterns = [
@@ -18,9 +18,9 @@ function short_var_export($expression, $return=false)
     $export = preg_replace(array_keys($patterns), array_values($patterns), $export);
     if ((bool)$return) {
         return $export;
-    } else {
-        echo $export;
     }
+    echo $export;
+
 }
 
 // The data source can be directly from the repo in GitHub, or locally through Composer.
