@@ -1,6 +1,12 @@
-name: "Run Tests - Laravel 7"
 
-on: [push, pull_request]
+name: "Run Tests - Laravel 9"
+
+on:
+  push:
+  pull_request:
+  schedule:
+    # Every Sunday at 03:58
+    - cron: '58 3 * * 0'
 
 jobs:
   test:
@@ -9,16 +15,12 @@ jobs:
     strategy:
       fail-fast: true
       matrix:
-        php: [7.4, 7.3]
-        laravel: [7.*, 6.*, 5.8.*]
+        php: [ 8.2, 8.1, 8.0]
+        laravel: [10.*]
         dependency-version: [prefer-stable]
         include:
-          - laravel: 7.*
-            testbench: 5.*
-          - laravel: 6.*
-            testbench: 4.*
-          - laravel: 5.8.*
-            testbench: 3.8.*
+          - laravel: 10.*
+            testbench: 8.*
 
     name: P${{ matrix.php }} - L${{ matrix.laravel }} - ${{ matrix.dependency-version }}
 
@@ -41,7 +43,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          composer require "laravel/framework:${{ matrix.laravel }}" "orchestra/testbench:${{ matrix.testbench }}" "symfony/console:>=4.3.4" --no-interaction --no-update
+          composer require "laravel/framework:${{ matrix.laravel }}" "orchestra/testbench:${{ matrix.testbench }}" --no-interaction --no-update
           composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction
       - name: Execute tests
         run: vendor/bin/phpunit
