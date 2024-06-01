@@ -1,6 +1,8 @@
 <?php
 
-namespace Lykegenes\LaravelCountries;
+namespace Orpheus\LaravelCountries;
+
+use Illuminate\Support\Collection;
 
 class Country
 {
@@ -52,11 +54,53 @@ class Country
     }
 
     /**
+     * Get this country's common name.
+     *
+     * @return string   The country's common name
+     */
+    public function getCommonName()
+    {
+        return $this->attributes['name']['common'];
+    }
+
+    /**
      * Get this country's attributes.
      * @return array All of this country's attributes.
      */
     public function getAttributes()
     {
         return $this->attributes;
+    }
+
+    /**
+     * Get this country's currency.
+     *
+     * @return Currency  The Country's currency class.
+     */
+    public function getCurrency()
+    {
+        $code = array_keys($this->attributes['currencies'])[0];
+
+        return Currency::make([
+            'code' => $code,
+            'name' => $this->attributes['currencies'][$code]['name'],
+            'symbol' => $this->attributes['currencies'][$code]['symbol']
+        ]);
+    }
+
+    /**
+     * Get this country's currencies.
+     *
+     * @return Collection<Currency>  The Country's currencies collection.
+     */
+    public function getCurrencies()
+    {
+        return collect(array_map(function ($code, $currency) {
+            return Currency::make([
+                'code' => $code,
+                'name' => $currency['name'],
+                'symbol' => $currency['symbol']
+            ]);
+        }, array_keys($this->attributes['currencies']), $this->attributes['currencies']));
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lykegenes\LaravelCountries;
+namespace Orpheus\LaravelCountries;
 
 use Exception;
 
@@ -125,7 +125,7 @@ class CountriesRepository
      *
      * @param  string $columnKey The column to filter
      * @param  mixed $input     The value to filter for
-     * @return Lykegenes\LaravelCountries\Country|null  The matching country or null
+     * @return Orpheus\LaravelCountries\Country|null  The matching country or null
      */
     protected function searchItem($columnKey, $input)
     {
@@ -144,7 +144,7 @@ class CountriesRepository
      *
      * @param  string $columnKey The column to filter
      * @param  mixed $input     The value to filter for
-     * @return Lykegenes\LaravelCountries\Country|null  The matching country or null
+     * @return Orpheus\LaravelCountries\Country|null  The matching country or null
      */
     protected function searchArray($columnKey, $input)
     {

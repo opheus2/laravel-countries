@@ -1,6 +1,6 @@
 <?php
 
-namespace Lykegenes\LaravelCountries\Tests;
+namespace Orpheus\LaravelCountries\Tests;
 
 class CountriesRepositoryTest extends LaravelCountriesTestCase
 {
@@ -8,11 +8,11 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
     public function it_gets_country_from_alpha2_code()
     {
         $country = $this->countries->getByAlpha2Code('CA');
-        $this->assertInstanceOf(\Lykegenes\LaravelCountries\Country::class, $country);
+        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
         $this->assertEquals('Canada', $country->getOfficialName());
 
         $country = $this->countries->getByAlpha2Code('ca');
-        $this->assertInstanceOf(\Lykegenes\LaravelCountries\Country::class, $country);
+        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
         $this->assertEquals('Canada', $country->getOfficialName());
     }
 
@@ -20,11 +20,11 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
     public function it_gets_country_from_alpha3_code()
     {
         $country = $this->countries->getByAlpha3Code('CAN');
-        $this->assertInstanceOf(\Lykegenes\LaravelCountries\Country::class, $country);
+        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
         $this->assertEquals('Canada', $country->getOfficialName());
 
         $country = $this->countries->getByAlpha3Code('can');
-        $this->assertInstanceOf(\Lykegenes\LaravelCountries\Country::class, $country);
+        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
         $this->assertEquals('Canada', $country->getOfficialName());
     }
 
@@ -33,7 +33,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
     {
         $country = $this->countries->getByNumericCode(124);
 
-        $this->assertInstanceOf(\Lykegenes\LaravelCountries\Country::class, $country);
+        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
         $this->assertEquals('Canada', $country->getOfficialName());
     }
 
@@ -43,7 +43,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $results = $this->countries->getByRegion(\Countries::$REGION_AMERICAS);
         $codes = array_column($results, 'cca2');
 
-        $this->assertContainsOnlyInstancesOf(\Lykegenes\LaravelCountries\Country::class, $results);
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
         $this->assertArrayHasKey('CA', $results);
         $this->assertArrayNotHasKey('FR', $results);
     }
@@ -54,7 +54,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $results = $this->countries->getBySubregion('North America');
         $codes = array_column($results, 'cca2');
 
-        $this->assertContainsOnlyInstancesOf(\Lykegenes\LaravelCountries\Country::class, $results);
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
         $this->assertArrayHasKey('CA', $results);
         $this->assertArrayNotHasKey('FR', $results);
     }
@@ -64,7 +64,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
     {
         $results = $this->countries->getByCurrency('CAD');
 
-        $this->assertContainsOnlyInstancesOf(\Lykegenes\LaravelCountries\Country::class, $results);
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
         $this->assertArrayHasKey('CA', $results);
         $this->assertArrayNotHasKey('FR', $results);
     }

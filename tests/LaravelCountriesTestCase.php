@@ -1,11 +1,11 @@
 <?php
 
-namespace Lykegenes\LaravelCountries\Tests;
+namespace Orpheus\LaravelCountries\Tests;
 
 abstract class LaravelCountriesTestCase extends \Orchestra\Testbench\TestCase
 {
     /**
-     * @var Lykegenes\LaravelCountries\CountriesRepository
+     * @var Orpheus\LaravelCountries\CountriesRepository
      */
     protected $countries;
 
@@ -26,14 +26,14 @@ abstract class LaravelCountriesTestCase extends \Orchestra\Testbench\TestCase
     protected function getPackageProviders($app)
     {
         return [
-            \Lykegenes\LaravelCountries\ServiceProvider::class,
+            \Orpheus\LaravelCountries\ServiceProvider::class,
         ];
     }
 
     protected function getPackageAliases($app)
     {
         return [
-            'Countries' => \Lykegenes\LaravelCountries\Facades\Countries::class,
+            'Countries' => \Orpheus\LaravelCountries\Facades\Countries::class,
         ];
     }
 }

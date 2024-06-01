@@ -12,7 +12,7 @@ This package gives you access effortlessly to data from every country.
 Via Composer
 
 ``` bash
-composer require lykegenes/laravel-countries
+composer require Orpheus/laravel-countries
 ```
 
 ## Usage
@@ -75,12 +75,12 @@ $countries = \Countries::getListForDropdown('cca3', false, 'fra');
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/lykegenes/laravel-countries.svg
-[ico-license]: https://img.shields.io/packagist/l/lykegenes/laravel-countries.svg
+[ico-version]: https://img.shields.io/packagist/v/Orpheus/laravel-countries.svg
+[ico-license]: https://img.shields.io/packagist/l/Orpheus/laravel-countries.svg
 [ico-github-action]: https://github.com/patricksamson/laravel-countries/workflows/Run%20Tests%20-%20Current/badge.svg?branch=master
-[ico-downloads]: https://img.shields.io/packagist/dt/lykegenes/laravel-countries.svg
+[ico-downloads]: https://img.shields.io/packagist/dt/Orpheus/laravel-countries.svg
 
-[link-packagist]: https://packagist.org/packages/lykegenes/laravel-countries
-[link-downloads]: https://packagist.org/packages/lykegenes/laravel-countries
-[link-author]: https://github.com/lykegenes
+[link-packagist]: https://packagist.org/packages/Orpheus/laravel-countries
+[link-downloads]: https://packagist.org/packages/Orpheus/laravel-countries
+[link-author]: https://github.com/Orpheus
 [link-contributors]: ../../contributors

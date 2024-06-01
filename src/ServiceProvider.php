@@ -1,6 +1,6 @@
 <?php
 
-namespace Lykegenes\LaravelCountries;
+namespace Orpheus\LaravelCountries;
 
 /**
  * @codeCoverageIgnore
@@ -18,7 +18,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
             __DIR__.'/config/laravel-countries.php', 'laravel-countries'
         );
 
-        $this->app->singleton('countries', \Lykegenes\LaravelCountries\CountriesRepository::class);
+        $this->app->singleton('countries', \Orpheus\LaravelCountries\CountriesRepository::class);
     }
 
     public function boot()

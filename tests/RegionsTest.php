@@ -1,6 +1,6 @@
 <?php
 
-namespace Lykegenes\LaravelCountries\Tests;
+namespace Orpheus\LaravelCountries\Tests;
 
 class RegionsTest extends LaravelCountriesTestCase
 {

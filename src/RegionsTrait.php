@@ -1,6 +1,6 @@
 <?php
 
-namespace Lykegenes\LaravelCountries;
+namespace Orpheus\LaravelCountries;
 
 trait RegionsTrait
 {
