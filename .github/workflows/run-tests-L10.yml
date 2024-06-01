@@ -1,12 +1,7 @@
 
-name: "Run Tests - Laravel 9"
+name: "Run Tests - Laravel 10"
 
-on:
-  push:
-  pull_request:
-  schedule:
-    # Every Sunday at 03:58
-    - cron: '58 3 * * 0'
+on: [push, pull_request]
 
 jobs:
   test:
