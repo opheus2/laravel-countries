@@ -7,8 +7,6 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Traits\Macroable;
 use Illuminate\Contracts\Support\Jsonable;
 use Illuminate\Contracts\Support\Arrayable;
-use Illuminate\Contracts\Database\Eloquent\Castable;
-use Orpheus\LaravelCountries\Casts\CountryCast;
 
 class Country implements Arrayable, Jsonable, JsonSerializable
 {
