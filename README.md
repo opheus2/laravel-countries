@@ -12,7 +12,7 @@ This package gives you access effortlessly to data from every country.
 Via Composer
 
 ``` bash
-composer require Orpheus/laravel-countries
+composer require opheus2/laravel-countries
 ```
 
 ## Usage
@@ -45,6 +45,14 @@ $country->getAlpha2Code();      // 'CA'
 $country->getAlpha3Code();      // 'CAN'
 $country->getNumericCode();     // 124
 $country->getOfficialName();    // 'Canada'
+$country->getCommonName();      // 'Canada' 
+$country->getCurrency();        // The first Currency object
+$country->getCurrencies();      // A collection of Currency objects
+
+$currency = $country->getCurrency();
+$currency->getCode();           // 'CAD'
+$currency->getName();           // 'Canadian dollar'
+$currency->getSymbol();         // '$'
 
 $country->getAttributes();      // An array of all the raw attributes.
 ```
