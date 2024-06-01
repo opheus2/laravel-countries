@@ -4,22 +4,15 @@ on: [push, pull_request]
 
 jobs:
   test:
+
     runs-on: ubuntu-latest
     strategy:
       fail-fast: true
       matrix:
-        php: [8.2, 8.1, 8.0, 7.4, 7.3, 7.2, 7.1, 7.0]
-        laravel: [11.*, 10.*, 9.*, 8.*, 7.*, 6.*, 5.8.*]
+        php: [7.4, 7.3]
+        laravel: [7.*, 6.*, 5.8.*]
         dependency-version: [prefer-stable]
         include:
-          - laravel: 11.*
-            testbench: 9.*
-          - laravel: 10.*
-            testbench: 8.*
-          - laravel: 9.*
-            testbench: 7.*
-          - laravel: 8.*
-            testbench: 6.*
           - laravel: 7.*
             testbench: 5.*
           - laravel: 6.*
