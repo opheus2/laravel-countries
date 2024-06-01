@@ -21,12 +21,7 @@ class CountryCast implements CastsAttributes
         $this->isoCodeVersion = $isoCodeVersion;
     }
 
-    /**
-     * Cast the given value.
-     *
-     * @param  array<string, mixed>  $attributes
-     */
-    public function get(Model $model, string $key, $value, array $attributes)
+    public function get($model, string $key, $value, array $attributes)
     {
         if (is_null($value)) {
             return null;
