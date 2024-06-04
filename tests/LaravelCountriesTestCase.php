@@ -5,7 +5,7 @@ namespace Orpheus\LaravelCountries\Tests;
 abstract class LaravelCountriesTestCase extends \Orchestra\Testbench\TestCase
 {
     /**
-     * @var Orpheus\LaravelCountries\CountriesRepository
+     * @var \Orpheus\LaravelCountries\CountriesRepository $countries
      */
     protected $countries;
 

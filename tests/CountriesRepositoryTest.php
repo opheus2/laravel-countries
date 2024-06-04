@@ -70,6 +70,57 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
     }
 
     /** @test */
+    public function it_gets_all_countries()
+    {
+        $results = $this->countries->getAll();
+
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
+    }
+
+    /** @test */
+    public function it_gets_all_countries_as_collections()
+    {
+        $results = $this->countries->getAll([], true);
+
+        $this->assertInstanceOf(\Illuminate\Support\Collection::class, $results);
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
+        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $results->first());
+    }
+
+    /** @test */
+    public function it_gets_only_filtered_countries_by_cca2()
+    {
+        $results = $this->countries->getAll(['MT', 'CA'], true);
+
+        $this->assertInstanceOf(\Illuminate\Support\Collection::class, $results);
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
+        $this->assertEquals(2, $results->count());
+        $this->assertTrue('Malta' === ($results->first())->getCommonName());
+    }
+
+    /** @test */
+    public function it_gets_only_filtered_countries_by_cca3()
+    {
+        $results = $this->countries->getAll(['MLT', 'CAN'], true);
+
+        $this->assertInstanceOf(\Illuminate\Support\Collection::class, $results);
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
+        $this->assertEquals(2, $results->count());
+        $this->assertTrue('Malta' === ($results->first())->getCommonName());
+    }
+    
+    /** @test */
+    public function it_gets_only_filtered_countries_by_ccn3()
+    {
+        $results = $this->countries->getAll(['470', '124'], true);
+
+        $this->assertInstanceOf(\Illuminate\Support\Collection::class, $results);
+        $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
+        $this->assertEquals(2, $results->count());
+        $this->assertTrue('Malta' === ($results->first())->getCommonName());
+    }
+
+    /** @test */
     public function it_returns_list_form_dropdown()
     {
         // Test the key parameter

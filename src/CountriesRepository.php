@@ -3,6 +3,7 @@
 namespace Orpheus\LaravelCountries;
 
 use Exception;
+use Illuminate\Support\Collection;
 
 class CountriesRepository
 {
@@ -82,7 +83,7 @@ class CountriesRepository
     /**
      * Get all the countries using this currency.
      *
-     * @param  string $region The currency code
+     * @param  string $currency The currency code
      * @return array   An array of the matching countries.
      */
     public function getByCurrency($currency)
@@ -92,6 +93,53 @@ class CountriesRepository
         });
 
         return $this->castArrayToCountries($results);
+    }
+
+    /**
+     * Get all the countries.
+     *
+     * @param  array $countries An array of country codes to filter the results.
+     * @return array|Collection   An array of the matching countries.
+     */
+    public function getAll(array $countries = [], bool $asCollection = false)
+    {
+        $foundCountries = [];
+        foreach ($countries as $country) {
+            if (is_int($country) || is_numeric($country)) {
+                /** @var Country|null $foundCountry */
+                $foundCountry = $this->searchItem('ccn3', $country);
+                if ($foundCountry) {
+                    $foundCountries[$foundCountry->getNumericCode()] = $foundCountry;
+                }
+
+                continue;
+            }
+
+            if (mb_strlen($country) === 2) {
+                /** @var Country|null $foundCountry */
+                $foundCountry = $this->searchItem('cca2', $country);
+                if ($foundCountry) {
+                    $foundCountries[$foundCountry->getAlpha2Code()] = $foundCountry;
+                }
+
+                continue;
+            }
+
+            if (mb_strlen($country) === 3) {
+                /** @var Country|null $foundCountry */
+                $foundCountry = $this->searchItem('cca3', $country);
+                if ($foundCountry) {
+                    $foundCountries[$foundCountry->getAlpha3Code()] = $foundCountry;
+                }
+
+                continue;
+            }
+        }
+
+        if (empty($foundCountries)) {
+            $foundCountries = $this->castArrayToCountries($this->data);
+        }
+        return $asCollection ? collect($foundCountries) : $foundCountries;
     }
 
     /**
@@ -109,9 +157,9 @@ class CountriesRepository
         $size = count($this->data);
         for ($i = 0; $i < $size; $i++) {
             // Try to get the translated names, if they are present
-            $names = ($localization === null || ! isset($this->data[$i]['translations'][$localization]))
-                    ? $this->data[$i]['name']
-                    : $this->data[$i]['translations'][$localization];
+            $names = ($localization === null || !isset($this->data[$i]['translations'][$localization]))
+                ? $this->data[$i]['name']
+                : $this->data[$i]['translations'][$localization];
 
             // Set this country in the list to either it's Official or common name
             $list[$this->data[$i][$key]] = $official ? $names['official'] : $names['common'];
