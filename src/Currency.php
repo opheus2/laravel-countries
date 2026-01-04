@@ -20,6 +20,25 @@ class Currency implements Arrayable, Jsonable, JsonSerializable
     }
 
     /**
+     * Create a new instance of Currency
+     *
+     * @param array $data
+     * @return void
+     */
+    public static function make(array $data)
+    {
+        if (!isset($data['code'], $data['name'], $data['symbol'])) {
+            throw new \InvalidArgumentException('The currency data is invalid.');
+        }
+
+        return new static(
+            $data['code'],
+            $data['name'],
+            $data['symbol']
+        );
+    }
+
+    /**
      * Get the currency's name.
      *
      * @return string   The currency's name
@@ -49,24 +68,6 @@ class Currency implements Arrayable, Jsonable, JsonSerializable
         return $this->symbol;
     }
 
-    public function __toString()
-    {
-        return $this->name;
-    }
-
-    public static function make(array $data)
-    {
-        if (!isset($data['code'], $data['name'], $data['symbol'])) {
-            throw new \InvalidArgumentException('The currency data is invalid.');
-        }
-
-        return new static(
-            $data['code'],
-            $data['name'],
-            $data['symbol']
-        );
-    }
-
     public function toArray()
     {
         return [
@@ -76,19 +77,18 @@ class Currency implements Arrayable, Jsonable, JsonSerializable
         ];
     }
 
-    /**
-     * Get the instance as JSON.
-     *
-     * @param  int  $options
-     * @return string
-     */
     public function toJson($options = 0)
     {
         return json_encode($this->toArray(), $options);
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return $this->toArray();
+    }
+
+    public function __toString()
+    {
+        return $this->name;
     }
 }

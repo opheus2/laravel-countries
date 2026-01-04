@@ -21,7 +21,7 @@ use Orpheus\LaravelCountries\RegionsTrait;
  * @method static Array<\Orpheus\LaravelCountries\Country> getBySubregion(string $subregion)
  * @method static Array<\Orpheus\LaravelCountries\Country> getByCurrency(string $currency)
  * @method static Array<\Orpheus\LaravelCountries\Country> getAll(array $countries = [], bool $asCollection = false)
- * @method static \Orpheus\LaravelCountries\CountriesRepository getListForDropdown(string $key = 'alpha3Code', bool $official = false, string $localization = 'en')
+ * @method static \Orpheus\LaravelCountries\CountriesRepository getListForDropdown(string $key = 'cca3', bool $official = false, string $localization = 'en')
  * @method static \Orpheus\LaravelCountries\CountriesRepository getRawData()
  */
 class Countries extends Facade

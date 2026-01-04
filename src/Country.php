@@ -126,7 +126,7 @@ class Country implements Arrayable, Jsonable, JsonSerializable
             'numericCode' => $this->getNumericCode(),
             'officialName' => $this->getOfficialName(),
             'commonName' => $this->getCommonName(),
-            'currency' => $this->getCurrency(),
+            'currency' => $this->getCurrency()->toArray(),
         ];
     }
 
@@ -211,7 +211,7 @@ class Country implements Arrayable, Jsonable, JsonSerializable
      *
      * @return array
      */
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return $this->toArray();
     }
