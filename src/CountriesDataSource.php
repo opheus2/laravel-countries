@@ -5823,6 +5823,10 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => false,
     'currencies' => [
+      'NOK' => [
+        'name' => 'Norwegian krone',
+        'symbol' => 'kr',
+      ],
     ],
     'idd' => [
       'root' => '+4',
@@ -8680,10 +8684,6 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => true,
     'currencies' => [
-      'CUC' => [
-        'name' => 'Cuban convertible peso',
-        'symbol' => '$',
-      ],
       'CUP' => [
         'name' => 'Cuban peso',
         'symbol' => '$',
@@ -12468,6 +12468,10 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => true,
     'currencies' => [
+      'USD' => [
+        'name' => 'United States dollar',
+        'symbol' => '$',
+      ],
     ],
     'idd' => [
       'root' => '+6',
@@ -15554,6 +15558,10 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => false,
     'currencies' => [
+      'AUD' => [
+        'name' => 'Australian dollar',
+        'symbol' => '$',
+      ],
     ],
     'idd' => [
       'root' => '',
@@ -31601,7 +31609,7 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => true,
     'currencies' => [
-      'SLL' => [
+      'SLE' => [
         'name' => 'Sierra Leonean leone',
         'symbol' => 'Le',
       ],
@@ -40156,9 +40164,9 @@ class CountriesDataSource
         'name' => 'South African rand',
         'symbol' => 'Rs',
       ],
-      'ZWB' => [
-        'name' => 'Zimbabwean bonds',
-        'symbol' => '$',
+      'ZWG' => [
+        'name' => 'Zimbabwe Gold',
+        'symbol' => 'ZiG',
       ],
     ],
     'idd' => [
