@@ -1739,6 +1739,18 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => false,
     'currencies' => [
+      'USD' => [
+        'name' => 'United States dollar',
+        'symbol' => '$',
+      ],
+      'GBP' => [
+        'name' => 'British Pound',
+        'symbol' => '£',
+      ],
+      'EUR' => [
+        'name' => 'Euro',
+        'symbol' => '€',
+      ],
     ],
     'idd' => [
       'root' => '',
