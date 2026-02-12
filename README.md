@@ -26,15 +26,17 @@ composer require opheus2/laravel-countries
 Replace deprecated method calls:
 
 ```php
+use Orpheus\LaravelCountries\Facades\Countries;
+
 // Before (deprecated)
-$country = \Countries::getByAlpha2Code('CA');
-$country = \Countries::getByAlpha3Code('CAN');
-$country = \Countries::getByNumericCode(124);
+$country = Countries::getByAlpha2Code('CA');
+$country = Countries::getByAlpha3Code('CAN');
+$country = Countries::getByNumericCode(124);
 
 // After
-$country = \Countries::getByCode('CA');
-$country = \Countries::getByCode('CAN');
-$country = \Countries::getByCode(124);
+$country = Countries::getByCode('CA');
+$country = Countries::getByCode('CAN');
+$country = Countries::getByCode(124);
 ```
 
 The deprecated methods still function but will emit `E_USER_DEPRECATED` warnings and will be removed in a future major release.
@@ -46,102 +48,124 @@ The deprecated methods still function but will emit `E_USER_DEPRECATED` warnings
 The `getByCode()` method auto-detects the code type:
 
 ```php
-$country = \Countries::getByCode('CA');    // 2-letter (cca2)
-$country = \Countries::getByCode('CAN');   // 3-letter (cca3) or CIOC
-$country = \Countries::getByCode(124);     // Numeric (ccn3)
-$country = \Countries::getByCode('124');   // Numeric as string
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$country = Countries::getByCode('CA');    // 2-letter (cca2)
+$country = Countries::getByCode('CAN');   // 3-letter (cca3) or CIOC
+$country = Countries::getByCode(124);     // Numeric (ccn3)
+$country = Countries::getByCode('124');   // Numeric as string
 ```
 
 ### Search by Name
 
 ```php
+use Orpheus\LaravelCountries\Facades\Countries;
+
 // Partial match (searches common, official, and native names)
-$countries = \Countries::getByName('united');
+$countries = Countries::getByName('united');
 
 // Exact match on common or official name
-$countries = \Countries::getByFullName('Canada');
-$countries = \Countries::getByFullName('United States of America');
+$countries = Countries::getByFullName('Canada');
+$countries = Countries::getByFullName('United States of America');
 ```
 
 ### Search by Language
 
 ```php
+use Orpheus\LaravelCountries\Facades\Countries;
+
 // By language code
-$countries = \Countries::getByLanguage('fra');
+$countries = Countries::getByLanguage('fra');
 
 // By language name (partial match)
-$countries = \Countries::getByLanguage('French');
-$countries = \Countries::getByLanguage('Spanish');
+$countries = Countries::getByLanguage('French');
+$countries = Countries::getByLanguage('Spanish');
 ```
 
 ### Search by Capital
 
 ```php
-$countries = \Countries::getByCapital('Ottawa');
-$countries = \Countries::getByCapital('Wash');   // Partial match
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$countries = Countries::getByCapital('Ottawa');
+$countries = Countries::getByCapital('Wash');   // Partial match
 ```
 
 ### Search by Demonym
 
 ```php
-$countries = \Countries::getByDemonym('Canadian');
-$countries = \Countries::getByDemonym('peruvian');  // Case-insensitive
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$countries = Countries::getByDemonym('Canadian');
+$countries = Countries::getByDemonym('peruvian');  // Case-insensitive
 ```
 
 ### Search by Translation
 
 ```php
-$countries = \Countries::getByTranslation('Alemania');   // Germany in Spanish
-$countries = \Countries::getByTranslation('Saksamaa');    // Germany in Estonian
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$countries = Countries::getByTranslation('Alemania');   // Germany in Spanish
+$countries = Countries::getByTranslation('Saksamaa');    // Germany in Estonian
 ```
 
 ### Search by Currency
 
 ```php
-$countries = \Countries::getByCurrency('CAD');              // By currency code
-$countries = \Countries::getByCurrency('Canadian dollar');  // By currency name
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$countries = Countries::getByCurrency('CAD');              // By currency code
+$countries = Countries::getByCurrency('Canadian dollar');  // By currency name
 ```
 
 ### Filter by Region / Subregion
 
 ```php
-$countries = \Countries::getByRegion(\Countries::$REGION_AFRICA);
-$countries = \Countries::getByRegion(\Countries::$REGION_AMERICAS);
-$countries = \Countries::getByRegion(\Countries::$REGION_ANTARCTIC);
-$countries = \Countries::getByRegion(\Countries::$REGION_ASIA);
-$countries = \Countries::getByRegion(\Countries::$REGION_EUROPE);
-$countries = \Countries::getByRegion(\Countries::$REGION_OCEANIA);
+use Orpheus\LaravelCountries\Facades\Countries;
 
-$countries = \Countries::getBySubregion('Northern Europe');
+$countries = Countries::getByRegion(Countries::$REGION_AFRICA);
+$countries = Countries::getByRegion(Countries::$REGION_AMERICAS);
+$countries = Countries::getByRegion(Countries::$REGION_ANTARCTIC);
+$countries = Countries::getByRegion(Countries::$REGION_ASIA);
+$countries = Countries::getByRegion(Countries::$REGION_EUROPE);
+$countries = Countries::getByRegion(Countries::$REGION_OCEANIA);
+
+$countries = Countries::getBySubregion('Northern Europe');
 ```
 
 ### Filter by Independence Status
 
 ```php
-$independent    = \Countries::getIndependent(true);
-$nonIndependent = \Countries::getIndependent(false);
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$independent    = Countries::getIndependent(true);
+$nonIndependent = Countries::getIndependent(false);
 ```
 
 ### Get All Countries
 
 ```php
-$all = \Countries::getAll();
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$all = Countries::getAll();
 
 // As a Laravel Collection
-$collection = \Countries::getAll([], true);
+$collection = Countries::getAll([], true);
 
 // Filtered by codes (mixed types supported)
-$filtered = \Countries::getAll(['CA', 'USA', '276']);
+$filtered = Countries::getAll(['CA', 'USA', '276']);
 ```
 
 ### Dropdown List Helper
 
 ```php
+use Orpheus\LaravelCountries\Facades\Countries;
+
 // Default: keyed by cca3, common name
-$list = \Countries::getListForDropdown();
+$list = Countries::getListForDropdown();
 
 // Custom key, official name, translated
-$list = \Countries::getListForDropdown('cca2', true, 'fra');
+$list = Countries::getListForDropdown('cca2', true, 'fra');
 
 // Returns: ['CA' => 'Canada', 'US' => "Les états-unis d'Amérique", ...]
 ```
@@ -149,7 +173,9 @@ $list = \Countries::getListForDropdown('cca2', true, 'fra');
 ### Country Object
 
 ```php
-$country = \Countries::getByCode('CAN');
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$country = Countries::getByCode('CAN');
 
 $country->getAlpha2Code();      // 'CA'
 $country->getAlpha3Code();      // 'CAN'
@@ -201,19 +227,23 @@ The `Country` class implements Laravel's `Macroable` trait:
 
 ```php
 use Orpheus\LaravelCountries\Country;
+use Orpheus\LaravelCountries\Facades\Countries;
 
 Country::macro('getFlag', fn () => sprintf(
     'https://flagcdn.com/w320/%s.png',
     strtolower($this->getAlpha2Code())
 ));
 
-$country = \Countries::getByCode('CAN');
+$country = Countries::getByCode('CAN');
 $country->getFlag(); // 'https://flagcdn.com/w320/ca.png'
 ```
 
 ### Mixins
 
 ```php
+use Orpheus\LaravelCountries\Country;
+use Orpheus\LaravelCountries\Facades\Countries;
+
 class CustomCountry
 {
     public function getFlag(): \Closure
@@ -227,14 +257,16 @@ class CustomCountry
 
 Country::mixin(new CustomCountry);
 
-$country = \Countries::getByCode('CAN');
+$country = Countries::getByCode('CAN');
 $country->getFlag(); // 'https://flagcdn.com/w320/ca.png'
 ```
 
 ### Raw Data Access
 
 ```php
-$rawData = \Countries::getRawData(); // Full array of all country data
+use Orpheus\LaravelCountries\Facades\Countries;
+
+$rawData = Countries::getRawData(); // Full array of all country data
 ```
 
 ## Configuration
