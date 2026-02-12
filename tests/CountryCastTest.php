@@ -11,7 +11,7 @@ class CountryCastTest extends LaravelCountriesTestCase
     {
         parent::setUp();
 
-        $this->country = $this->countries->getByAlpha2Code('CA');
+        $this->country = $this->countries->getByCode('CA');
     }
 
 

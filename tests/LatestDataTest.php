@@ -17,9 +17,9 @@ class LatestDataTest extends LaravelCountriesTestCase
 
     public function test_it_loads_data_from_json()
     {
-        $country = $this->countries->getByAlpha2Code('CA');
+        $country = $this->countries->getByCode('CA');
         $this->assertEquals('Canada', $country->getOfficialName());
 
-        $this->assertNull($this->countries->getByAlpha2Code('JP'));
+        $this->assertNull($this->countries->getByCode('JP'));
     }
 }

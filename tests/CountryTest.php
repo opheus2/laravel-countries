@@ -11,7 +11,7 @@ class CountryTest extends LaravelCountriesTestCase
     {
         parent::setUp();
 
-        $this->country = $this->countries->getByAlpha2Code('CA');
+        $this->country = $this->countries->getByCode('CA');
     }
 
     public function test_it_gets_alpha2_code()
@@ -51,7 +51,7 @@ class CountryTest extends LaravelCountriesTestCase
 
     public function test_it_gets_all_currencies()
     {
-        $country = $this->countries->getByAlpha2Code('SH');
+        $country = $this->countries->getByCode('SH');
         $currencies = $country->getCurrencies();
 
         $this->assertCount(2, $currencies);
