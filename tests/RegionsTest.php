@@ -4,8 +4,7 @@ namespace Orpheus\LaravelCountries\Tests;
 
 class RegionsTest extends LaravelCountriesTestCase
 {
-    /** @test */
-    public function it_makes_sure_regions_names_have_not_changed()
+    public function test_it_makes_sure_regions_names_have_not_changed()
     {
         $africa = $this->countries->getByRegion(\Countries::$REGION_AFRICA);
         $americas = $this->countries->getByRegion(\Countries::$REGION_AMERICAS);

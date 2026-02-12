@@ -15,8 +15,7 @@ class LatestDataTest extends LaravelCountriesTestCase
         $app['config']->set('laravel-countries.countries_json_path', './tests/data/canada-only.json');
     }
 
-    /** @test */
-    public function it_loads_data_from_json()
+    public function test_it_loads_data_from_json()
     {
         $country = $this->countries->getByAlpha2Code('CA');
         $this->assertEquals('Canada', $country->getOfficialName());

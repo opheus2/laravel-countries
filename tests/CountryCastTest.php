@@ -15,8 +15,7 @@ class CountryCastTest extends LaravelCountriesTestCase
     }
 
 
-    /** @test */
-    public function it_casts_country_to_alpha2_code()
+    public function test_it_casts_country_to_alpha2_code()
     {
         $cast = new \Orpheus\LaravelCountries\Casts\CountryCast('alpha2');
 
@@ -24,8 +23,7 @@ class CountryCastTest extends LaravelCountriesTestCase
         $this->assertEquals($this->country, $cast->get(null, 'key', 'CA', []));
     }
 
-    /** @test */
-    public function it_casts_country_to_alpha3_code()
+    public function test_it_casts_country_to_alpha3_code()
     {
         $cast = new \Orpheus\LaravelCountries\Casts\CountryCast('alpha3');
 
@@ -33,8 +31,7 @@ class CountryCastTest extends LaravelCountriesTestCase
         $this->assertEquals($this->country, $cast->get(null, 'key', 'CAN', []));
     }
 
-    /** @test */
-    public function it_casts_country_to_numeric_code()
+    public function test_it_casts_country_to_numeric_code()
     {
         $cast = new \Orpheus\LaravelCountries\Casts\CountryCast('numeric');
 

@@ -14,38 +14,32 @@ class CountryTest extends LaravelCountriesTestCase
         $this->country = $this->countries->getByAlpha2Code('CA');
     }
 
-    /** @test */
-    public function it_gets_alpha2_code()
+    public function test_it_gets_alpha2_code()
     {
         $this->assertEquals('CA', $this->country->getAlpha2Code());
     }
 
-    /** @test */
-    public function it_gets_alpha3_code()
+    public function test_it_gets_alpha3_code()
     {
         $this->assertEquals('CAN', $this->country->getAlpha3Code());
     }
 
-    /** @test */
-    public function it_gets_numeric_code()
+    public function test_it_gets_numeric_code()
     {
         $this->assertEquals(124, $this->country->getNumericCode());
     }
 
-    /** @test */
-    public function it_gets_official_name()
+    public function test_it_gets_official_name()
     {
         $this->assertEquals('Canada', $this->country->getOfficialName());
     }
 
-    /** @test */
-    public function it_gets_common_name()
+    public function test_it_gets_common_name()
     {
         $this->assertEquals('Canada', $this->country->getCommonName());
     }
 
-    /** @test */
-    public function it_gets_currency()
+    public function test_it_gets_currency()
     {
         $currency = $this->country->getCurrency();
 
@@ -55,8 +49,7 @@ class CountryTest extends LaravelCountriesTestCase
         $this->assertEquals('$', $currency->getSymbol());
     }
 
-    /** @test */
-    public function it_gets_all_currencies()
+    public function test_it_gets_all_currencies()
     {
         $country = $this->countries->getByAlpha2Code('SH');
         $currencies = $country->getCurrencies();

@@ -4,8 +4,7 @@ namespace Orpheus\LaravelCountries\Tests;
 
 class CountriesRepositoryTest extends LaravelCountriesTestCase
 {
-    /** @test */
-    public function it_gets_country_from_alpha2_code()
+    public function test_it_gets_country_from_alpha2_code()
     {
         $country = $this->countries->getByAlpha2Code('CA');
         $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
@@ -16,8 +15,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertEquals('Canada', $country->getOfficialName());
     }
 
-    /** @test */
-    public function it_gets_country_from_alpha3_code()
+    public function test_it_gets_country_from_alpha3_code()
     {
         $country = $this->countries->getByAlpha3Code('CAN');
         $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
@@ -28,8 +26,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertEquals('Canada', $country->getOfficialName());
     }
 
-    /** @test */
-    public function it_gets_country_from_numeric_code()
+    public function test_it_gets_country_from_numeric_code()
     {
         $country = $this->countries->getByNumericCode(124);
 
@@ -37,8 +34,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertEquals('Canada', $country->getOfficialName());
     }
 
-    /** @test */
-    public function it_gets_countries_by_region()
+    public function test_it_gets_countries_by_region()
     {
         $results = $this->countries->getByRegion(\Countries::$REGION_AMERICAS);
         $codes = array_column($results, 'cca2');
@@ -48,8 +44,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertArrayNotHasKey('FR', $results);
     }
 
-    /** @test */
-    public function it_gets_countries_by_subregion()
+    public function test_it_gets_countries_by_subregion()
     {
         $results = $this->countries->getBySubregion('North America');
         $codes = array_column($results, 'cca2');
@@ -59,8 +54,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertArrayNotHasKey('FR', $results);
     }
 
-    /** @test */
-    public function it_gets_countries_by_currency()
+    public function test_it_gets_countries_by_currency()
     {
         $results = $this->countries->getByCurrency('CAD');
 
@@ -69,16 +63,14 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertArrayNotHasKey('FR', $results);
     }
 
-    /** @test */
-    public function it_gets_all_countries()
+    public function test_it_gets_all_countries()
     {
         $results = $this->countries->getAll();
 
         $this->assertContainsOnlyInstancesOf(\Orpheus\LaravelCountries\Country::class, $results);
     }
 
-    /** @test */
-    public function it_gets_all_countries_as_collections()
+    public function test_it_gets_all_countries_as_collections()
     {
         $results = $this->countries->getAll([], true);
 
@@ -87,8 +79,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $results->first());
     }
 
-    /** @test */
-    public function it_gets_only_filtered_countries_by_cca2()
+    public function test_it_gets_only_filtered_countries_by_cca2()
     {
         $results = $this->countries->getAll(['MT', 'CA'], true);
 
@@ -98,8 +89,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertTrue('Malta' === ($results->first())->getCommonName());
     }
 
-    /** @test */
-    public function it_gets_only_filtered_countries_by_cca3()
+    public function test_it_gets_only_filtered_countries_by_cca3()
     {
         $results = $this->countries->getAll(['MLT', 'CAN'], true);
 
@@ -109,8 +99,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertTrue('Malta' === ($results->first())->getCommonName());
     }
     
-    /** @test */
-    public function it_gets_only_filtered_countries_by_ccn3()
+    public function test_it_gets_only_filtered_countries_by_ccn3()
     {
         $results = $this->countries->getAll(['470', '124'], true);
 
@@ -120,8 +109,7 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
         $this->assertTrue('Malta' === ($results->first())->getCommonName());
     }
 
-    /** @test */
-    public function it_returns_list_form_dropdown()
+    public function test_it_returns_list_form_dropdown()
     {
         // Test the key parameter
         $results = $this->countries->getListForDropdown('cca2');
