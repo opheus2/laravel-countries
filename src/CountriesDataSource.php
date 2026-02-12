@@ -58,7 +58,19 @@ class CountriesDataSource
       'pap' => 'Papiamento',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'أروبا',
+        'common' => 'أروبا',
+      ],
+      'bre' => [
+        'official' => 'Aruba',
+        'common' => 'Aruba',
+      ],
       'ces' => [
+        'official' => 'Aruba',
+        'common' => 'Aruba',
+      ],
+      'cym' => [
         'official' => 'Aruba',
         'common' => 'Aruba',
       ],
@@ -83,6 +95,10 @@ class CountriesDataSource
         'common' => 'Aruba',
       ],
       'hun' => [
+        'official' => 'Aruba',
+        'common' => 'Aruba',
+      ],
+      'ind' => [
         'official' => 'Aruba',
         'common' => 'Aruba',
       ],
@@ -126,7 +142,15 @@ class CountriesDataSource
         'official' => 'Aruba',
         'common' => 'Aruba',
       ],
+      'srp' => [
+        'official' => 'Аруба',
+        'common' => 'Аруба',
+      ],
       'swe' => [
+        'official' => 'Aruba',
+        'common' => 'Aruba',
+      ],
+      'tur' => [
         'official' => 'Aruba',
         'common' => 'Aruba',
       ],
@@ -218,9 +242,21 @@ class CountriesDataSource
       'tuk' => 'Turkmen',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية أففانستان الإسلامية',
+        'common' => 'أفغانستان',
+      ],
+      'bre' => [
+        'official' => 'Republik Islamek Afghanistan',
+        'common' => 'Afghanistan',
+      ],
       'ces' => [
         'official' => 'Afghánská islámská republika',
         'common' => 'Afghánistán',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Islamaidd Affganistan',
+        'common' => 'Affganistan',
       ],
       'deu' => [
         'official' => 'Islamische Republik Afghanistan',
@@ -245,6 +281,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Afganisztáni Iszlám Köztársaság',
         'common' => 'Afganisztán',
+      ],
+      'ind' => [
+        'official' => 'Republik Islam Afganistan',
+        'common' => 'Afganistan',
       ],
       'ita' => [
         'official' => 'Repubblica islamica dell\'Afghanistan',
@@ -286,9 +326,17 @@ class CountriesDataSource
         'official' => 'República Islámica de Afganistán',
         'common' => 'Afganistán',
       ],
+      'srp' => [
+        'official' => 'Исламска Република Авганистан',
+        'common' => 'Авганистан',
+      ],
       'swe' => [
         'official' => 'Islamiska republiken Afghanistan',
         'common' => 'Afghanistan',
+      ],
+      'tur' => [
+        'official' => 'Afganistan İslam Cumhuriyeti',
+        'common' => 'Afganistan',
       ],
       'urd' => [
         'official' => 'اسلامی جمہوریہ افغانستان',
@@ -375,8 +423,20 @@ class CountriesDataSource
       'por' => 'Portuguese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'أنغولا',
+        'common' => 'جمهورية أنغولا',
+      ],
+      'bre' => [
+        'official' => 'Republik Angola',
+        'common' => 'Angola',
+      ],
       'ces' => [
         'official' => 'Angolská republika',
+        'common' => 'Angola',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Angola',
         'common' => 'Angola',
       ],
       'deu' => [
@@ -401,6 +461,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Angola',
+        'common' => 'Angola',
+      ],
+      'ind' => [
+        'official' => 'Republik Angola',
         'common' => 'Angola',
       ],
       'ita' => [
@@ -443,8 +507,16 @@ class CountriesDataSource
         'official' => 'República de Angola',
         'common' => 'Angola',
       ],
+      'srp' => [
+        'official' => 'Република Ангола',
+        'common' => 'Ангола',
+      ],
       'swe' => [
         'official' => 'Republiken Angola',
+        'common' => 'Angola',
+      ],
+      'tur' => [
+        'official' => 'Angola Cumhuriyeti',
         'common' => 'Angola',
       ],
       'urd' => [
@@ -528,7 +600,19 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'أنغويلا',
+        'common' => 'أنغويلا',
+      ],
+      'bre' => [
+        'official' => 'Anguilla',
+        'common' => 'Anguilla',
+      ],
       'ces' => [
+        'official' => 'Anguilla',
+        'common' => 'Anguilla',
+      ],
+      'cym' => [
         'official' => 'Anguilla',
         'common' => 'Anguilla',
       ],
@@ -553,6 +637,10 @@ class CountriesDataSource
         'common' => 'Angvila',
       ],
       'hun' => [
+        'official' => 'Anguilla',
+        'common' => 'Anguilla',
+      ],
+      'ind' => [
         'official' => 'Anguilla',
         'common' => 'Anguilla',
       ],
@@ -596,7 +684,15 @@ class CountriesDataSource
         'official' => 'Anguila',
         'common' => 'Anguilla',
       ],
+      'srp' => [
+        'official' => 'Ангвила',
+        'common' => 'Ангвила',
+      ],
       'swe' => [
+        'official' => 'Anguilla',
+        'common' => 'Anguilla',
+      ],
+      'tur' => [
         'official' => 'Anguilla',
         'common' => 'Anguilla',
       ],
@@ -655,7 +751,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -680,9 +776,21 @@ class CountriesDataSource
       'swe' => 'Swedish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر أولاند',
+        'common' => 'جزر أولاند',
+      ],
+      'bre' => [
+        'official' => 'Inizi Åland',
+        'common' => 'Åland',
+      ],
       'ces' => [
         'official' => 'Ålandské ostrovy',
         'common' => 'Ålandy',
+      ],
+      'cym' => [
+        'official' => 'Åland Islands',
+        'common' => 'Åland Islands',
       ],
       'deu' => [
         'official' => 'Åland-Inseln',
@@ -707,6 +815,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Åland-szigetek',
         'common' => 'Åland-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Åland',
+        'common' => 'Aland',
       ],
       'ita' => [
         'official' => 'Isole Åland',
@@ -748,8 +860,16 @@ class CountriesDataSource
         'official' => 'Islas Åland',
         'common' => 'Alandia',
       ],
+      'srp' => [
+        'official' => 'Оландска Острва',
+        'common' => 'Оландска Острва',
+      ],
       'swe' => [
         'official' => 'Åland',
+        'common' => 'Åland',
+      ],
+      'tur' => [
+        'official' => 'Åland Adaları',
         'common' => 'Åland',
       ],
       'urd' => [
@@ -832,9 +952,21 @@ class CountriesDataSource
       'sqi' => 'Albanian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ألبانيا',
+        'common' => 'ألبانيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Albania',
+        'common' => 'Albania',
+      ],
       'ces' => [
         'official' => 'Albánská republika',
         'common' => 'Albánie',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Albania',
+        'common' => 'Albania',
       ],
       'deu' => [
         'official' => 'Republik Albanien',
@@ -859,6 +991,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Albán Köztársaság',
         'common' => 'Albánia',
+      ],
+      'ind' => [
+        'official' => 'Republik Albania',
+        'common' => 'Albania',
       ],
       'ita' => [
         'official' => 'Repubblica d\'Albania',
@@ -900,9 +1036,17 @@ class CountriesDataSource
         'official' => 'República de Albania',
         'common' => 'Albania',
       ],
+      'srp' => [
+        'official' => 'Република Албанија',
+        'common' => 'Албанија',
+      ],
       'swe' => [
         'official' => 'Republiken Albanien',
         'common' => 'Albanien',
+      ],
+      'tur' => [
+        'official' => 'Arnavutluk Cumhuriyeti',
+        'common' => 'Arnavutluk',
       ],
       'urd' => [
         'official' => 'جمہوریہ البانیا',
@@ -963,7 +1107,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -987,8 +1131,20 @@ class CountriesDataSource
       'cat' => 'Catalan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'إمارة أندورا',
+        'common' => 'أندورا',
+      ],
+      'bre' => [
+        'official' => 'Priñselezh Andorra',
+        'common' => 'Andorra',
+      ],
       'ces' => [
         'official' => 'Andorrské knížectví',
+        'common' => 'Andorra',
+      ],
+      'cym' => [
+        'official' => 'Tywysogaeth Andorra',
         'common' => 'Andorra',
       ],
       'deu' => [
@@ -1014,6 +1170,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Andorra',
         'common' => 'Andorra',
+      ],
+      'ind' => [
+        'official' => 'Kepangeranan Andora',
+        'common' => 'Andora',
       ],
       'ita' => [
         'official' => 'Principato di Andorra',
@@ -1055,8 +1215,16 @@ class CountriesDataSource
         'official' => 'Principado de Andorra',
         'common' => 'Andorra',
       ],
+      'srp' => [
+        'official' => 'Кнежевина Андора',
+        'common' => 'Андора',
+      ],
       'swe' => [
         'official' => 'Furstendömet Andorra',
+        'common' => 'Andorra',
+      ],
+      'tur' => [
+        'official' => 'Andorra Prensliği',
         'common' => 'Andorra',
       ],
       'urd' => [
@@ -1141,9 +1309,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الإمارات العربية المتحدة',
+        'common' => 'دولة الإمارات العربية المتحدة',
+      ],
+      'bre' => [
+        'official' => 'Emirelezhioù Arab Unanet',
+        'common' => 'Emirelezhioù Arab Unanet',
+      ],
       'ces' => [
         'official' => 'Spojené arabské emiráty',
-        'common' => 'Spojené arabské emiráty',
+        'common' => 'Arabské emiráty',
+      ],
+      'cym' => [
+        'official' => 'United Arab Emirates',
+        'common' => 'United Arab Emirates',
       ],
       'deu' => [
         'official' => 'Vereinigte Arabische Emirate',
@@ -1163,11 +1343,15 @@ class CountriesDataSource
       ],
       'hrv' => [
         'official' => 'Ujedinjeni Arapski Emirati',
-        'common' => 'Ujedinjeni Arapski Emirati',
+        'common' => 'Arapski Emirati',
       ],
       'hun' => [
         'official' => 'Egyesült Arab Emírségek',
         'common' => 'Egyesült Arab Emírségek',
+      ],
+      'ind' => [
+        'official' => 'Perserikatan Emirat Arab',
+        'common' => 'Emirat Arab',
       ],
       'ita' => [
         'official' => 'Emirati Arabi Uniti',
@@ -1191,7 +1375,7 @@ class CountriesDataSource
       ],
       'pol' => [
         'official' => 'Zjednoczone Emiraty Arabskie',
-        'common' => 'Zjednoczone Emiraty Arabskie',
+        'common' => 'Emiraty Arabskie',
       ],
       'por' => [
         'official' => 'Emirados Árabes Unidos',
@@ -1203,15 +1387,23 @@ class CountriesDataSource
       ],
       'slk' => [
         'official' => 'Spojené arabské emiráty',
-        'common' => 'Spojené arabské emiráty',
+        'common' => 'Arabské emiráty',
       ],
       'spa' => [
         'official' => 'Emiratos Árabes Unidos',
         'common' => 'Emiratos Árabes Unidos',
       ],
+      'srp' => [
+        'official' => 'Уједињени Арапски Емирати',
+        'common' => 'Уједињени Арапски Емирати',
+      ],
       'swe' => [
         'official' => 'Förenade Arabemiraten',
         'common' => 'Förenade Arabemiraten',
+      ],
+      'tur' => [
+        'official' => 'Birleşik Arap Emirlikleri',
+        'common' => 'Birleşik Arap Emirlikleri',
       ],
       'urd' => [
         'official' => 'متحدہ عرب امارات',
@@ -1299,9 +1491,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الأرجنتين',
+        'common' => 'الأرجنتين',
+      ],
+      'bre' => [
+        'official' => 'Republik Arc\'hantina',
+        'common' => 'Arc\'hantina',
+      ],
       'ces' => [
         'official' => 'Argentinská republika',
         'common' => 'Argentina',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth yr Ariannin',
+        'common' => 'Ariannin',
       ],
       'deu' => [
         'official' => 'Argentinische Republik',
@@ -1326,6 +1530,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Argentin Köztársaság',
         'common' => 'Argentína',
+      ],
+      'ind' => [
+        'official' => 'Republik Argentina',
+        'common' => 'Argentina',
       ],
       'ita' => [
         'official' => 'Repubblica Argentina',
@@ -1367,9 +1575,17 @@ class CountriesDataSource
         'official' => 'República Argentina',
         'common' => 'Argentina',
       ],
+      'srp' => [
+        'official' => 'Аргентинска Република',
+        'common' => 'Аргентина',
+      ],
       'swe' => [
         'official' => 'Republiken Argentina',
         'common' => 'Argentina',
+      ],
+      'tur' => [
+        'official' => 'Arjantin Cumhuriyeti',
+        'common' => 'Arjantin',
       ],
       'urd' => [
         'official' => 'جمہوریہ ارجنٹائن',
@@ -1456,9 +1672,21 @@ class CountriesDataSource
       'hye' => 'Armenian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية أرمينيا',
+        'common' => 'أرمينيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Armenia',
+        'common' => 'Armenia',
+      ],
       'ces' => [
         'official' => 'Arménská republika',
         'common' => 'Arménie',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Armenia',
+        'common' => 'Armenia',
       ],
       'deu' => [
         'official' => 'Republik Armenien',
@@ -1483,6 +1711,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Örményország',
         'common' => 'Örményország',
+      ],
+      'ind' => [
+        'official' => 'Republik Armenia',
+        'common' => 'Armenia',
       ],
       'ita' => [
         'official' => 'Repubblica di Armenia',
@@ -1524,9 +1756,17 @@ class CountriesDataSource
         'official' => 'República de Armenia',
         'common' => 'Armenia',
       ],
+      'srp' => [
+        'official' => 'Република Јерменија',
+        'common' => 'Јерменија',
+      ],
       'swe' => [
         'official' => 'Republiken Armenien',
         'common' => 'Armenien',
+      ],
+      'tur' => [
+        'official' => 'Ermenistan Cumhuriyeti',
+        'common' => 'Ermenistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ آرمینیا',
@@ -1617,9 +1857,21 @@ class CountriesDataSource
       'smo' => 'Samoan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'ساموا الأمريكية',
+        'common' => 'ساموا الأمريكية',
+      ],
+      'bre' => [
+        'official' => 'Samoa Amerikan',
+        'common' => 'Samoa Amerikan',
+      ],
       'ces' => [
         'official' => 'Americká Samoa',
         'common' => 'Americká Samoa',
+      ],
+      'cym' => [
+        'official' => 'American Samoa',
+        'common' => 'American Samoa',
       ],
       'deu' => [
         'official' => 'Amerikanisch-Samoa',
@@ -1644,6 +1896,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szamoa',
         'common' => 'Szamoa',
+      ],
+      'ind' => [
+        'official' => 'Samoa Amerika',
+        'common' => 'Samoa Amerika',
       ],
       'ita' => [
         'official' => 'Samoa americane',
@@ -1685,9 +1941,17 @@ class CountriesDataSource
         'official' => 'Samoa Americana',
         'common' => 'Samoa Americana',
       ],
+      'srp' => [
+        'official' => 'Америчка Самоа',
+        'common' => 'Америчка Самоа',
+      ],
       'swe' => [
         'official' => 'Amerikanska Samoa',
         'common' => 'Amerikanska Samoa',
+      ],
+      'tur' => [
+        'official' => 'Amerikan Samoası',
+        'common' => 'Amerikan Samoası',
       ],
       'urd' => [
         'official' => 'امریکی سمووا',
@@ -1744,7 +2008,7 @@ class CountriesDataSource
         'symbol' => '$',
       ],
       'GBP' => [
-        'name' => 'British Pound',
+        'name' => 'Pound sterling',
         'symbol' => '£',
       ],
       'EUR' => [
@@ -1767,9 +2031,21 @@ class CountriesDataSource
     'languages' => [
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'أنتارتيكا',
+        'common' => 'أنتارتيكا',
+      ],
+      'bre' => [
+        'official' => 'Antarktika',
+        'common' => 'Antarktika',
+      ],
       'ces' => [
         'official' => 'Antarktida',
         'common' => 'Antarktida',
+      ],
+      'cym' => [
+        'official' => 'Yr Antarctig',
+        'common' => 'Yr Antarctig',
       ],
       'deu' => [
         'official' => 'Antarktika',
@@ -1794,6 +2070,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Antarktisz',
         'common' => 'Antarktisz',
+      ],
+      'ind' => [
+        'official' => 'Antarktik',
+        'common' => 'Antartika',
       ],
       'ita' => [
         'official' => 'Antartide',
@@ -1835,9 +2115,17 @@ class CountriesDataSource
         'official' => 'Antártida',
         'common' => 'Antártida',
       ],
+      'srp' => [
+        'official' => 'Антарктик',
+        'common' => 'Антарктик',
+      ],
       'swe' => [
         'official' => 'Antarktis',
         'common' => 'Antarktis',
+      ],
+      'tur' => [
+        'official' => 'Antarktika',
+        'common' => 'Antarktika',
       ],
       'urd' => [
         'official' => 'انٹارکٹکا',
@@ -1893,7 +2181,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -1916,9 +2204,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مقاطعات وأقاليم ما وراء البحار الفرنسية',
+        'common' => 'أراض فرنسية جنوبية وأنتارتيكية',
+      ],
+      'bre' => [
+        'official' => 'Tiriad Douaroù Aostral hag Antarktikel Frañs',
+        'common' => 'Douaroù Aostral hag Antarktikel Frañs',
+      ],
       'ces' => [
         'official' => 'Teritorium Francouzská jižní a antarktická území',
         'common' => 'Francouzská jižní a antarktická území',
+      ],
+      'cym' => [
+        'official' => 'Territory of the French Southern and Antarctic Lands',
+        'common' => 'French Southern and Antarctic Lands',
       ],
       'deu' => [
         'official' => 'Gebiet der Französisch Süd- und Antarktisgebiete',
@@ -1943,6 +2243,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Francia déli és antarktiszi területek',
         'common' => 'Francia déli és antarktiszi területek',
+      ],
+      'ind' => [
+        'official' => 'Daratan Selatan dan Antarktika Prancis',
+        'common' => 'Daratan Selatan dan Antarktika Prancis',
       ],
       'ita' => [
         'official' => 'Territorio della australi e antartiche francesi Terre',
@@ -1984,9 +2288,17 @@ class CountriesDataSource
         'official' => 'Territorio del Francés Tierras australes y antárticas',
         'common' => 'Tierras Australes y Antárticas Francesas',
       ],
+      'srp' => [
+        'official' => 'Француске јужне и антарктичке земље',
+        'common' => 'Француске јужне и антарктичке земље',
+      ],
       'swe' => [
         'official' => 'Franska syd- och Antarktisterritorierna',
         'common' => 'Franska södra territorierna',
+      ],
+      'tur' => [
+        'official' => 'Fransız Güney ve Antarktika Toprakları',
+        'common' => 'Fransız Güney ve Antarktika Toprakları',
       ],
       'urd' => [
         'official' => 'سرزمینِ جنوبی فرانسیسیہ و انٹارکٹیکہ',
@@ -2065,9 +2377,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'أنتيغوا وباربودا',
+        'common' => 'أنتيغوا وباربودا',
+      ],
+      'bre' => [
+        'official' => 'Antigua ha Barbuda',
+        'common' => 'Antigua ha Barbuda',
+      ],
       'ces' => [
         'official' => 'Antigua a Barbuda',
         'common' => 'Antigua a Barbuda',
+      ],
+      'cym' => [
+        'official' => 'Antigwa a Barbiwda',
+        'common' => 'Antigwa a Barbiwda',
       ],
       'deu' => [
         'official' => 'Antigua und Barbuda',
@@ -2082,7 +2406,7 @@ class CountriesDataSource
         'common' => 'Antigua ja Barbuda',
       ],
       'fra' => [
-        'official' => 'Antigua -et-Barbuda',
+        'official' => 'Antigua-et-Barbuda',
         'common' => 'Antigua-et-Barbuda',
       ],
       'hrv' => [
@@ -2092,6 +2416,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Antigua és Barbuda',
         'common' => 'Antigua és Barbuda',
+      ],
+      'ind' => [
+        'official' => 'Antigua dan Barbuda',
+        'common' => 'Antigua dan Barbuda',
       ],
       'ita' => [
         'official' => 'Antigua e Barbuda',
@@ -2133,9 +2461,17 @@ class CountriesDataSource
         'official' => 'Antigua y Barbuda',
         'common' => 'Antigua y Barbuda',
       ],
+      'srp' => [
+        'official' => 'Антигва и Барбуда',
+        'common' => 'Антигва и Барбуда',
+      ],
       'swe' => [
         'official' => 'Antigua och Barbuda',
         'common' => 'Antigua och Barbuda',
+      ],
+      'tur' => [
+        'official' => 'Antigua ve Barbuda',
+        'common' => 'Antigua ve Barbuda',
       ],
       'urd' => [
         'official' => 'اینٹیگوا و باربوڈا',
@@ -2214,9 +2550,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'كومونولث أستراليا',
+        'common' => 'أستراليا',
+      ],
+      'bre' => [
+        'official' => 'Kenglad Aostralia',
+        'common' => 'Aostralia',
+      ],
       'ces' => [
         'official' => 'Australské společenství',
         'common' => 'Austrálie',
+      ],
+      'cym' => [
+        'official' => 'Cymanwlad Awstralia',
+        'common' => 'Awstralia',
       ],
       'deu' => [
         'official' => 'Commonwealth Australien',
@@ -2241,6 +2589,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ausztrál Államszövetség',
         'common' => 'Ausztrália',
+      ],
+      'ind' => [
+        'official' => 'Australia',
+        'common' => 'Australia',
       ],
       'ita' => [
         'official' => 'Commonwealth dell\'Australia',
@@ -2282,9 +2634,17 @@ class CountriesDataSource
         'official' => 'Mancomunidad de Australia',
         'common' => 'Australia',
       ],
+      'srp' => [
+        'official' => 'Комонвелт Аустралија',
+        'common' => 'Аустралија',
+      ],
       'swe' => [
         'official' => 'Australiska statsförbundet',
         'common' => 'Australien',
+      ],
+      'tur' => [
+        'official' => 'Avustralya Federal Devleti',
+        'common' => 'Avustralya',
       ],
       'urd' => [
         'official' => 'دولتِ مشترکہ آسٹریلیا',
@@ -2341,7 +2701,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -2362,12 +2722,24 @@ class CountriesDataSource
     'region' => 'Europe',
     'subregion' => 'Central Europe',
     'languages' => [
-      'bar' => 'Austro-Bavarian German',
+      'deu' => 'German',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية النمسا',
+        'common' => 'النمسا',
+      ],
+      'bre' => [
+        'official' => 'Republik Aostria',
+        'common' => 'Aostria',
+      ],
       'ces' => [
         'official' => 'Rakouská republika',
         'common' => 'Rakousko',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Awstria',
+        'common' => 'Awstria',
       ],
       'deu' => [
         'official' => 'Republik Österreich',
@@ -2392,6 +2764,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ausztria',
         'common' => 'Ausztria',
+      ],
+      'ind' => [
+        'official' => 'Republik Austria',
+        'common' => 'Austria',
       ],
       'ita' => [
         'official' => 'Repubblica d\'Austria',
@@ -2433,9 +2809,17 @@ class CountriesDataSource
         'official' => 'República de Austria',
         'common' => 'Austria',
       ],
+      'srp' => [
+        'official' => 'Република Аустрија',
+        'common' => 'Аустрија',
+      ],
       'swe' => [
         'official' => 'Republiken Österrike',
         'common' => 'Österrike',
+      ],
+      'tur' => [
+        'official' => 'Avusturya Cumhuriyeti',
+        'common' => 'Avusturya',
       ],
       'urd' => [
         'official' => 'جمہوریہ آسٹریا',
@@ -2486,10 +2870,6 @@ class CountriesDataSource
           'official' => 'Azərbaycan Respublikası',
           'common' => 'Azərbaycan',
         ],
-        'rus' => [
-          'official' => 'Азербайджанская Республика',
-          'common' => 'Азербайджан',
-        ],
       ],
     ],
     'tld' => [
@@ -2526,12 +2906,23 @@ class CountriesDataSource
     'subregion' => 'Western Asia',
     'languages' => [
       'aze' => 'Azerbaijani',
-      'rus' => 'Russian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية أذربيجان',
+        'common' => 'أذربيجان',
+      ],
+      'bre' => [
+        'official' => 'Republik Azerbaidjan',
+        'common' => 'Azerbaidjan',
+      ],
       'ces' => [
         'official' => 'Ázerbájdžánská republika',
         'common' => 'Ázerbájdžán',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Aserbaijan',
+        'common' => 'Aserbaijan',
       ],
       'deu' => [
         'official' => 'Republik Aserbaidschan',
@@ -2556,6 +2947,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Azerbajdzsán',
         'common' => 'Azerbajdzsán',
+      ],
+      'ind' => [
+        'official' => 'Republik Azerbaijan',
+        'common' => 'Azerbaijan',
       ],
       'ita' => [
         'official' => 'Repubblica dell\'Azerbaigian',
@@ -2597,9 +2992,17 @@ class CountriesDataSource
         'official' => 'República de Azerbaiyán',
         'common' => 'Azerbaiyán',
       ],
+      'srp' => [
+        'official' => 'Азербејџанска Република',
+        'common' => 'Азербејџан',
+      ],
       'swe' => [
         'official' => 'Republiken Azerbajdzjan',
         'common' => 'Azerbajdzjan',
+      ],
+      'tur' => [
+        'official' => 'Azerbaycan Cumhuriyeti',
+        'common' => 'Azerbaycan',
       ],
       'urd' => [
         'official' => 'جمہوریہ آذربائیجان',
@@ -2691,9 +3094,21 @@ class CountriesDataSource
       'run' => 'Kirundi',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بوروندي',
+        'common' => 'بوروندي',
+      ],
+      'bre' => [
+        'official' => 'Republik Burundi',
+        'common' => 'Burundi',
+      ],
       'ces' => [
         'official' => 'Burundská republika',
         'common' => 'Burundi',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Bwrwndi',
+        'common' => 'Bwrwndi',
       ],
       'deu' => [
         'official' => 'Republik Burundi',
@@ -2717,6 +3132,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Burundi',
+        'common' => 'Burundi',
+      ],
+      'ind' => [
+        'official' => 'Republik Burundi',
         'common' => 'Burundi',
       ],
       'ita' => [
@@ -2759,8 +3178,16 @@ class CountriesDataSource
         'official' => 'República de Burundi',
         'common' => 'Burundi',
       ],
+      'srp' => [
+        'official' => 'Република Бурунди',
+        'common' => 'Бурунди',
+      ],
       'swe' => [
         'official' => 'Republiken Burundi',
+        'common' => 'Burundi',
+      ],
+      'tur' => [
+        'official' => 'Burundi Cumhuriyeti',
         'common' => 'Burundi',
       ],
       'urd' => [
@@ -2829,7 +3256,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -2861,9 +3288,21 @@ class CountriesDataSource
       'nld' => 'Dutch',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة بلجيكا',
+        'common' => 'بلجيكا',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Belgia',
+        'common' => 'Belgia',
+      ],
       'ces' => [
         'official' => 'Belgické království',
         'common' => 'Belgie',
+      ],
+      'cym' => [
+        'official' => 'Teyrnas Gwlad Belg',
+        'common' => 'Gwlad Belg',
       ],
       'deu' => [
         'official' => 'Königreich Belgien',
@@ -2888,6 +3327,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Belga Királyság',
         'common' => 'Belgium',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Belgia',
+        'common' => 'Belgia',
       ],
       'ita' => [
         'official' => 'Regno del Belgio',
@@ -2929,9 +3372,17 @@ class CountriesDataSource
         'official' => 'Reino de Bélgica',
         'common' => 'Bélgica',
       ],
+      'srp' => [
+        'official' => 'Краљевина Белгија',
+        'common' => 'Белгија',
+      ],
       'swe' => [
         'official' => 'Konungariket Belgien',
         'common' => 'Belgien',
+      ],
+      'tur' => [
+        'official' => 'Belçika Krallığı',
+        'common' => 'Belçika',
       ],
       'urd' => [
         'official' => 'مملکتِ بلجئیم',
@@ -3016,8 +3467,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بنين',
+        'common' => 'بنين',
+      ],
+      'bre' => [
+        'official' => 'Republik Benin',
+        'common' => 'Benin',
+      ],
       'ces' => [
         'official' => 'Beninská republika',
+        'common' => 'Benin',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Benin',
         'common' => 'Benin',
       ],
       'deu' => [
@@ -3042,6 +3505,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Benini Köztársaság',
+        'common' => 'Benin',
+      ],
+      'ind' => [
+        'official' => 'Republik Benin',
         'common' => 'Benin',
       ],
       'ita' => [
@@ -3084,8 +3551,16 @@ class CountriesDataSource
         'official' => 'República de Benin',
         'common' => 'Benín',
       ],
+      'srp' => [
+        'official' => 'Република Бенин',
+        'common' => 'Бенин',
+      ],
       'swe' => [
         'official' => 'Republiken Benin',
+        'common' => 'Benin',
+      ],
+      'tur' => [
+        'official' => 'Benin Cumhuriyeti',
         'common' => 'Benin',
       ],
       'urd' => [
@@ -3169,9 +3644,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'بوركينا فاسو',
+        'common' => 'بوركينا فاسو',
+      ],
+      'bre' => [
+        'official' => 'Burkina Faso',
+        'common' => 'Burkina Faso',
+      ],
       'ces' => [
         'official' => 'Burkina Faso',
         'common' => 'Burkina Faso',
+      ],
+      'cym' => [
+        'official' => 'Bwrcina Ffaso',
+        'common' => 'Bwrcina Ffaso',
       ],
       'deu' => [
         'official' => 'Burkina Faso',
@@ -3196,6 +3683,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Burkina Faso',
         'common' => 'Burkina',
+      ],
+      'ind' => [
+        'official' => 'Burkina Faso',
+        'common' => 'Burkina Faso',
       ],
       'ita' => [
         'official' => 'Burkina Faso',
@@ -3237,7 +3728,15 @@ class CountriesDataSource
         'official' => 'Burkina Faso',
         'common' => 'Burkina Faso',
       ],
+      'srp' => [
+        'official' => 'Буркина Фасо',
+        'common' => 'Буркина Фасо',
+      ],
       'swe' => [
+        'official' => 'Burkina Faso',
+        'common' => 'Burkina Faso',
+      ],
+      'tur' => [
         'official' => 'Burkina Faso',
         'common' => 'Burkina Faso',
       ],
@@ -3326,9 +3825,21 @@ class CountriesDataSource
       'ben' => 'Bengali',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بنغلاديش الشعبية',
+        'common' => 'بنغلاديش',
+      ],
+      'bre' => [
+        'official' => 'Republik pobl Bangladesh',
+        'common' => 'Bangladesh',
+      ],
       'ces' => [
         'official' => 'Bangladéšská lidová republika',
         'common' => 'Bangladéš',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Pobl Bangladesh',
+        'common' => 'Bangladesh',
       ],
       'deu' => [
         'official' => 'Volksrepublik Bangladesch',
@@ -3352,6 +3863,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Banglades',
+        'common' => 'Banglades',
+      ],
+      'ind' => [
+        'official' => 'Republik Rakyat Banglades',
         'common' => 'Banglades',
       ],
       'ita' => [
@@ -3394,9 +3909,17 @@ class CountriesDataSource
         'official' => 'República Popular de Bangladesh',
         'common' => 'Bangladesh',
       ],
+      'srp' => [
+        'official' => 'Народна Република Бангладеш',
+        'common' => 'Бангладеш',
+      ],
       'swe' => [
         'official' => 'Folkrepubliken Bangladesh',
         'common' => 'Bangladesh',
+      ],
+      'tur' => [
+        'official' => 'Bangladeş Halk Cumhuriyeti',
+        'common' => 'Bangladeş',
       ],
       'urd' => [
         'official' => 'عوامی جمہوریہ بنگلہ دیش',
@@ -3479,9 +4002,21 @@ class CountriesDataSource
       'bul' => 'Bulgarian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بلغاريا',
+        'common' => 'بلغاريا',
+      ],
+      'bre' => [
+        'official' => 'Republik Bulgaria',
+        'common' => 'Bulgaria',
+      ],
       'ces' => [
         'official' => 'Bulharská republika',
         'common' => 'Bulharsko',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Bwlgaria',
+        'common' => 'Bwlgaria',
       ],
       'deu' => [
         'official' => 'Republik Bulgarien',
@@ -3506,6 +4041,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bolgár Köztársaság',
         'common' => 'Bulgária',
+      ],
+      'ind' => [
+        'official' => 'Republik Bulgaria',
+        'common' => 'Bulgaria',
       ],
       'ita' => [
         'official' => 'Repubblica di Bulgaria',
@@ -3547,9 +4086,17 @@ class CountriesDataSource
         'official' => 'República de Bulgaria',
         'common' => 'Bulgaria',
       ],
+      'srp' => [
+        'official' => 'Република Бугарска',
+        'common' => 'Бугарска',
+      ],
       'swe' => [
         'official' => 'Republiken Bulgarien',
         'common' => 'Bulgarien',
+      ],
+      'tur' => [
+        'official' => 'Bulgaristan Cumhuriyeti',
+        'common' => 'Bulgaristan',
       ],
       'urd' => [
         'official' => 'جمہوریہ بلغاریہ',
@@ -3605,7 +4152,7 @@ class CountriesDataSource
     'cca2' => 'BH',
     'ccn3' => '048',
     'cca3' => 'BHR',
-    'cioc' => 'BRN',
+    'cioc' => 'BHR',
     'independent' => true,
     'status' => 'officially-assigned',
     'unMember' => true,
@@ -3635,9 +4182,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة البحرين',
+        'common' => '‏البحرين',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Bahrein',
+        'common' => 'Bahrein',
+      ],
       'ces' => [
         'official' => 'Království Bahrajn',
         'common' => 'Bahrajn',
+      ],
+      'cym' => [
+        'official' => 'Teyrnas Bahrein',
+        'common' => 'Bahrain',
       ],
       'deu' => [
         'official' => 'Königreich Bahrain',
@@ -3662,6 +4221,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bahreini Királyság',
         'common' => 'Bahrein',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Bahrain',
+        'common' => 'Bahrain',
       ],
       'ita' => [
         'official' => 'Regno del Bahrain',
@@ -3703,9 +4266,17 @@ class CountriesDataSource
         'official' => 'Reino de Bahrein',
         'common' => 'Bahrein',
       ],
+      'srp' => [
+        'official' => 'Краљевина Бахреин',
+        'common' => 'Бахреин',
+      ],
       'swe' => [
         'official' => 'Konungariket Bahrain',
         'common' => 'Bahrain',
+      ],
+      'tur' => [
+        'official' => 'Bahreyn Krallığı',
+        'common' => 'Bahreyn',
       ],
       'urd' => [
         'official' => 'مملکتِ بحرین',
@@ -3789,9 +4360,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'كومنولث جزر البهاما',
+        'common' => 'باهاماس',
+      ],
+      'bre' => [
+        'official' => 'Kenglad ar Bahamas',
+        'common' => 'Bahamas',
+      ],
       'ces' => [
         'official' => 'Bahamské společenství',
         'common' => 'Bahamy',
+      ],
+      'cym' => [
+        'official' => 'Cymanwlad y Bahamas',
+        'common' => 'Bahamas',
       ],
       'deu' => [
         'official' => 'Commonwealth der Bahamas',
@@ -3816,6 +4399,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bahamai Közösség',
         'common' => 'Bahama-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Persemakmuran Bahama',
+        'common' => 'Bahama',
       ],
       'ita' => [
         'official' => 'Commonwealth delle Bahamas',
@@ -3857,9 +4444,17 @@ class CountriesDataSource
         'official' => 'Commonwealth de las Bahamas',
         'common' => 'Bahamas',
       ],
+      'srp' => [
+        'official' => 'Комонвелт Бахама',
+        'common' => 'Бахами',
+      ],
       'swe' => [
         'official' => 'Samväldet Bahamas',
         'common' => 'Bahamas',
+      ],
+      'tur' => [
+        'official' => 'Bahama Milletler Topluluğu',
+        'common' => 'Bahamalar',
       ],
       'urd' => [
         'official' => 'دولتِ مشترکہ بہاماس',
@@ -3871,8 +4466,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => 24.25,
-      1 => -76,
+      0 => 25.0343,
+      1 => -77.3963,
     ],
     'landlocked' => false,
     'borders' => [
@@ -3907,8 +4502,8 @@ class CountriesDataSource
           'common' => 'Bosna i Hercegovina',
         ],
         'srp' => [
-          'official' => 'Боснa и Херцеговина',
-          'common' => 'Боснa и Херцеговина',
+          'official' => 'Босна и Херцеговина',
+          'common' => 'Босна и Херцеговина',
         ],
       ],
     ],
@@ -3950,9 +4545,21 @@ class CountriesDataSource
       'srp' => 'Serbian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية البوسنة والهرسك',
+        'common' => 'البوسنة والهرسك',
+      ],
+      'bre' => [
+        'official' => 'Bosnia-ha-Herzegovina',
+        'common' => 'Bosnia-ha-Herzegovina',
+      ],
       'ces' => [
         'official' => 'Bosna a Hercegovina',
         'common' => 'Bosna a Hercegovina',
+      ],
+      'cym' => [
+        'official' => 'Bosnia a Hercegovina',
+        'common' => 'Bosnia a Hercegovina',
       ],
       'deu' => [
         'official' => 'Bosnien und Herzegowina',
@@ -3977,6 +4584,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bosznia-Hercegovina',
         'common' => 'Bosznia-Hercegovina',
+      ],
+      'ind' => [
+        'official' => 'Bosnia dan Herzegovina',
+        'common' => 'Bosnia dan Herzegovina',
       ],
       'ita' => [
         'official' => 'Bosnia-Erzegovina',
@@ -4018,9 +4629,17 @@ class CountriesDataSource
         'official' => 'Bosnia y Herzegovina',
         'common' => 'Bosnia y Herzegovina',
       ],
+      'srp' => [
+        'official' => 'Босна и Херцеговина',
+        'common' => 'Босна и Херцеговина',
+      ],
       'swe' => [
         'official' => 'Bosnien och Hercegovina',
         'common' => 'Bosnien och Hercegovina',
+      ],
+      'tur' => [
+        'official' => 'Bosna ve Hersek',
+        'common' => 'Bosna-Hersek',
       ],
       'urd' => [
         'official' => 'بوسنیا و ہرزیگووینا',
@@ -4080,7 +4699,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -4105,9 +4724,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'التجمع الإقليمي لسانت بارتيليمي',
+        'common' => 'سان بارتليمي',
+      ],
+      'bre' => [
+        'official' => 'Saint-Barthélemy',
+        'common' => 'Saint-Barthélemy',
+      ],
       'ces' => [
         'official' => 'Svatý Bartoloměj',
         'common' => 'Svatý Bartoloměj',
+      ],
+      'cym' => [
+        'official' => 'Collectivity of Saint Barthélemy',
+        'common' => 'Saint Barthélemy',
       ],
       'deu' => [
         'official' => 'Gebietskörperschaft Saint-Barthélemy',
@@ -4131,6 +4762,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Saint-Barthélemy',
+        'common' => 'Saint-Barthélemy',
+      ],
+      'ind' => [
+        'official' => 'Wilayah Jajahan Saint-Barthélemy',
         'common' => 'Saint-Barthélemy',
       ],
       'ita' => [
@@ -4173,9 +4808,17 @@ class CountriesDataSource
         'official' => 'Colectividad de San Barthélemy',
         'common' => 'San Bartolomé',
       ],
+      'srp' => [
+        'official' => 'Сен Бартелеми',
+        'common' => 'Територијални Kолектив Сен Бартелеми',
+      ],
       'swe' => [
         'official' => 'Saint-Barthélemy',
         'common' => 'Saint-Barthélemy',
+      ],
+      'tur' => [
+        'official' => 'Saint Barthélemy',
+        'common' => 'Saint Barthélemy',
       ],
       'urd' => [
         'official' => 'سینٹ بارتھیملے',
@@ -4261,9 +4904,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سانت هيلينا وأسينشين وتريستان دا كونا',
+        'common' => 'سانت هيلينا وأسينشين وتريستان دا كونا',
+      ],
+      'bre' => [
+        'official' => 'Saint Helena, Ascension ha Tristan da Cunha',
+        'common' => 'Saint Helena, Ascension ha Tristan da Cunha',
+      ],
       'ces' => [
         'official' => 'Svatá Helena, Ascension a Tristan da Cunha',
         'common' => 'Svatá Helena, Ascension a Tristan da Cunha',
+      ],
+      'cym' => [
+        'official' => 'Saint Helena, Ascension and Tristan da Cunha',
+        'common' => 'Saint Helena, Ascension and Tristan da Cunha',
       ],
       'deu' => [
         'official' => 'Sankt Helena, Ascension und Tristan da Cunha',
@@ -4288,6 +4943,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szent Ilona',
         'common' => 'Szent Ilona-sziget',
+      ],
+      'ind' => [
+        'official' => 'Saint Helena, Ascension dan Tristan da Cunha',
+        'common' => 'Saint Helena, Ascension dan Tristan da Cunha',
       ],
       'ita' => [
         'official' => 'Sant\'Elena, Ascensione e Tristan da Cunha',
@@ -4329,9 +4988,17 @@ class CountriesDataSource
         'official' => 'Santa Elena, Ascensión y Tristán de Acuña',
         'common' => 'Santa Elena, Ascensión y Tristán de Acuña',
       ],
+      'srp' => [
+        'official' => 'Света Јелена, Асенсион и Тристан да Куња',
+        'common' => 'Света Јелена',
+      ],
       'swe' => [
         'official' => 'Sankta Helena',
         'common' => 'Sankta Helena',
+      ],
+      'tur' => [
+        'official' => 'Saint Helena',
+        'common' => 'Saint Helena',
       ],
       'urd' => [
         'official' => 'سینٹ ہلینا، اسینشن و ترسٹان دا کونیا',
@@ -4420,9 +5087,21 @@ class CountriesDataSource
       'rus' => 'Russian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بيلاروسيا',
+        'common' => 'بيلاروسيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Belarus',
+        'common' => 'Belarus',
+      ],
       'ces' => [
         'official' => 'Běloruská republika',
         'common' => 'Bělorusko',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Belarws',
+        'common' => 'Belarws',
       ],
       'deu' => [
         'official' => 'Republik Belarus',
@@ -4447,6 +5126,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Fehérorosz Köztársaság',
         'common' => 'Fehéroroszország',
+      ],
+      'ind' => [
+        'official' => 'Republik Belarus',
+        'common' => 'Belarus',
       ],
       'ita' => [
         'official' => 'Repubblica di Belarus',
@@ -4488,8 +5171,16 @@ class CountriesDataSource
         'official' => 'República de Belarús',
         'common' => 'Bielorrusia',
       ],
+      'srp' => [
+        'official' => 'Република Белорусија',
+        'common' => 'Белорусија',
+      ],
       'swe' => [
         'official' => 'Republiken Vitryssland',
+        'common' => 'Belarus',
+      ],
+      'tur' => [
+        'official' => 'Belarus Cumhuriyeti',
         'common' => 'Belarus',
       ],
       'urd' => [
@@ -4584,9 +5275,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'بليز',
+        'common' => 'بليز',
+      ],
+      'bre' => [
+        'official' => 'Belize',
+        'common' => 'Belize',
+      ],
       'ces' => [
         'official' => 'Belize',
         'common' => 'Belize',
+      ],
+      'cym' => [
+        'official' => 'Belîs',
+        'common' => 'Belîs',
       ],
       'deu' => [
         'official' => 'Belize',
@@ -4611,6 +5314,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Belize',
         'common' => 'Belize',
+      ],
+      'ind' => [
+        'official' => 'Beliza',
+        'common' => 'Beliza',
       ],
       'ita' => [
         'official' => 'Belize',
@@ -4652,7 +5359,15 @@ class CountriesDataSource
         'official' => 'Belice',
         'common' => 'Belice',
       ],
+      'srp' => [
+        'official' => 'Белизе',
+        'common' => 'Белизе',
+      ],
       'swe' => [
+        'official' => 'Belize',
+        'common' => 'Belize',
+      ],
+      'tur' => [
         'official' => 'Belize',
         'common' => 'Belize',
       ],
@@ -4738,9 +5453,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'برمودا',
+        'common' => 'برمودا',
+      ],
+      'bre' => [
+        'official' => 'Bermuda',
+        'common' => 'Bermuda',
+      ],
       'ces' => [
         'official' => 'Bermudské ostrovy',
         'common' => 'Bermudy',
+      ],
+      'cym' => [
+        'official' => 'Bermiwda',
+        'common' => 'Bermiwda',
       ],
       'deu' => [
         'official' => 'Bermuda',
@@ -4763,6 +5490,10 @@ class CountriesDataSource
         'common' => 'Bermudi',
       ],
       'hun' => [
+        'official' => 'Bermuda',
+        'common' => 'Bermuda',
+      ],
+      'ind' => [
         'official' => 'Bermuda',
         'common' => 'Bermuda',
       ],
@@ -4806,7 +5537,15 @@ class CountriesDataSource
         'official' => 'Bermuda',
         'common' => 'Bermudas',
       ],
+      'srp' => [
+        'official' => 'Бермуда',
+        'common' => 'Бермуда',
+      ],
       'swe' => [
+        'official' => 'Bermuda',
+        'common' => 'Bermuda',
+      ],
+      'tur' => [
         'official' => 'Bermuda',
         'common' => 'Bermuda',
       ],
@@ -4910,9 +5649,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة بوليفيا المتعددة القوميات',
+        'common' => 'بوليفيا',
+      ],
+      'bre' => [
+        'official' => 'Stad Liesvroadel Bolivia',
+        'common' => 'Bolivia',
+      ],
       'ces' => [
         'official' => 'Mnohonárodnostní stát Bolívie',
         'common' => 'Bolívie',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Bolifia',
+        'common' => 'Bolifia',
       ],
       'deu' => [
         'official' => 'Plurinationaler Staat Bolivien',
@@ -4937,6 +5688,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bolíviai Többnemzetiségű Állam',
         'common' => 'Bolívia',
+      ],
+      'ind' => [
+        'official' => 'Negara Plurinasional Bolivia',
+        'common' => 'Bolivia',
       ],
       'ita' => [
         'official' => 'Stato Plurinazionale della Bolivia',
@@ -4978,9 +5733,17 @@ class CountriesDataSource
         'official' => 'Estado Plurinacional de Bolivia',
         'common' => 'Bolivia',
       ],
+      'srp' => [
+        'official' => 'Вишенационална Држава Боливија',
+        'common' => 'Боливија',
+      ],
       'swe' => [
         'official' => 'Mångnationella staten Bolivia',
         'common' => 'Bolivia',
+      ],
+      'tur' => [
+        'official' => 'Bolivya Çokuluslu Devleti',
+        'common' => 'Bolivya',
       ],
       'urd' => [
         'official' => 'جمہوریہ بولیویا',
@@ -5059,8 +5822,6 @@ class CountriesDataSource
     ],
     'capital' => [
       0 => 'Kralendijk',
-      1 => 'Oranjestad',
-      2 => 'The Bottom',
     ],
     'altSpellings' => [
       0 => 'BES islands',
@@ -5073,9 +5834,21 @@ class CountriesDataSource
       'pap' => 'Papiamento',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'بونير وسينت أوستاتيوس وسابا',
+        'common' => 'الجزر الكاريبية الهولندية',
+      ],
+      'bre' => [
+        'official' => 'Bonaire, Sint Eustatius ha Saba',
+        'common' => 'Bonaire, Sint Eustatius ha Saba',
+      ],
       'ces' => [
         'official' => 'Karibské Nizozemsko',
         'common' => 'Karibské Nizozemsko',
+      ],
+      'cym' => [
+        'official' => 'Bonaire, Sint Eustatius and Saba',
+        'common' => 'Caribbean Netherlands',
       ],
       'deu' => [
         'official' => 'Bonaire, Sint Eustatius und Saba',
@@ -5100,6 +5873,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bonaire',
         'common' => 'Bonaire',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Belanda Karibia',
+        'common' => 'Belanda Karibia',
       ],
       'ita' => [
         'official' => 'Bonaire, Sint Eustatius e Saba',
@@ -5141,9 +5918,17 @@ class CountriesDataSource
         'official' => 'Bonaire, San Eustaquio y Saba',
         'common' => 'Caribe Neerlandés',
       ],
+      'srp' => [
+        'official' => 'Бонер, Свети Еустахије и Саба',
+        'common' => 'Карипска Холандија',
+      ],
       'swe' => [
         'official' => 'Bonaire, Sint Eustatius and Saba',
         'common' => 'Karibiska Nederländerna',
+      ],
+      'tur' => [
+        'official' => 'Karayip Hollandası',
+        'common' => 'Karayip Hollandası',
       ],
       'urd' => [
         'official' => 'بونایر، سینٹ ایوسٹائیس اور سابا',
@@ -5162,7 +5947,7 @@ class CountriesDataSource
     'borders' => [
     ],
     'area' => 328,
-    'flag' => '',
+    'flag' => '🇧🇶',
     'demonyms' => [
       'eng' => [
         'f' => 'Dutch',
@@ -5225,9 +6010,21 @@ class CountriesDataSource
       'por' => 'Portuguese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية البرازيل الاتحادية',
+        'common' => 'البرازيل',
+      ],
+      'bre' => [
+        'official' => 'Republik Kevreel Brazil',
+        'common' => 'Brazil',
+      ],
       'ces' => [
         'official' => 'Brazilská federativní republika',
         'common' => 'Brazílie',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Ffederal Brasil',
+        'common' => 'Brasil',
       ],
       'deu' => [
         'official' => 'Föderative Republik Brasilien',
@@ -5252,6 +6049,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Brazil Szövetségi Köztársaság',
         'common' => 'Brazília',
+      ],
+      'ind' => [
+        'official' => 'Republik Federal Brasil',
+        'common' => 'Brasil',
       ],
       'ita' => [
         'official' => 'Repubblica federativa del Brasile',
@@ -5293,9 +6094,17 @@ class CountriesDataSource
         'official' => 'República Federativa del Brasil',
         'common' => 'Brasil',
       ],
+      'srp' => [
+        'official' => 'Савезна Република Бразил',
+        'common' => 'Бразил',
+      ],
       'swe' => [
         'official' => 'Förbundsrepubliken Brasilien',
         'common' => 'Brasilien',
+      ],
+      'tur' => [
+        'official' => 'Brezilya Federal Cumhuriyeti',
+        'common' => 'Brezilya',
       ],
       'urd' => [
         'official' => 'وفاقی جمہوریہ برازیل',
@@ -5384,7 +6193,19 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'باربادوس',
+        'common' => 'باربادوس',
+      ],
+      'bre' => [
+        'official' => 'Barbados',
+        'common' => 'Barbados',
+      ],
       'ces' => [
+        'official' => 'Barbados',
+        'common' => 'Barbados',
+      ],
+      'cym' => [
         'official' => 'Barbados',
         'common' => 'Barbados',
       ],
@@ -5409,6 +6230,10 @@ class CountriesDataSource
         'common' => 'Barbados',
       ],
       'hun' => [
+        'official' => 'Barbados',
+        'common' => 'Barbados',
+      ],
+      'ind' => [
         'official' => 'Barbados',
         'common' => 'Barbados',
       ],
@@ -5452,7 +6277,15 @@ class CountriesDataSource
         'official' => 'Barbados',
         'common' => 'Barbados',
       ],
+      'srp' => [
+        'official' => 'Барбадос',
+        'common' => 'Барбадос',
+      ],
       'swe' => [
+        'official' => 'Barbados',
+        'common' => 'Barbados',
+      ],
+      'tur' => [
         'official' => 'Barbados',
         'common' => 'Barbados',
       ],
@@ -5540,9 +6373,21 @@ class CountriesDataSource
       'msa' => 'Malay',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'بروناي دار السلام',
+        'common' => 'بروناي',
+      ],
+      'bre' => [
+        'official' => 'Stad Brunei Darussalam',
+        'common' => 'Brunei',
+      ],
       'ces' => [
         'official' => 'Sultanát Brunej',
         'common' => 'Brunej',
+      ],
+      'cym' => [
+        'official' => 'Teyrnas Brwnei',
+        'common' => 'Brunei',
       ],
       'deu' => [
         'official' => 'Sultanat Brunei Darussalam',
@@ -5567,6 +6412,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Brunei Szultanátus',
         'common' => 'Brunei',
+      ],
+      'ind' => [
+        'official' => 'Brunei Darusalam',
+        'common' => 'Brunei Darusalam',
       ],
       'ita' => [
         'official' => 'Nazione di Brunei, Dimora della Pace',
@@ -5608,8 +6457,16 @@ class CountriesDataSource
         'official' => 'Nación de Brunei, Morada de la Paz',
         'common' => 'Brunei',
       ],
+      'srp' => [
+        'official' => 'Султанат Брунеј, боравиште мира',
+        'common' => 'Брунеј',
+      ],
       'swe' => [
         'official' => 'Brunei Darussalam',
+        'common' => 'Brunei',
+      ],
+      'tur' => [
+        'official' => 'Brunei Barış Ülkesi Devleti',
         'common' => 'Brunei',
       ],
       'urd' => [
@@ -5695,9 +6552,21 @@ class CountriesDataSource
       'dzo' => 'Dzongkha',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة بوتان',
+        'common' => 'بوتان',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Bhoutan',
+        'common' => 'Bhoutan',
+      ],
       'ces' => [
         'official' => 'Bhútánské království',
         'common' => 'Bhútán',
+      ],
+      'cym' => [
+        'official' => 'Teyrnas Bhwtan',
+        'common' => 'Bhwtan',
       ],
       'deu' => [
         'official' => 'Königreich Bhutan',
@@ -5722,6 +6591,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bhutáni Királyság',
         'common' => 'Bhután',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Butan',
+        'common' => 'Butan',
       ],
       'ita' => [
         'official' => 'Regno del Bhutan',
@@ -5763,9 +6636,17 @@ class CountriesDataSource
         'official' => 'Reino de Bután',
         'common' => 'Bután',
       ],
+      'srp' => [
+        'official' => 'Краљевина Бутан',
+        'common' => 'Бутан',
+      ],
       'swe' => [
         'official' => 'Konungariket Bhutan',
         'common' => 'Bhutan',
+      ],
+      'tur' => [
+        'official' => 'Butan Krallığı',
+        'common' => 'Butan',
       ],
       'urd' => [
         'official' => 'سلطنت بھوٹان',
@@ -5847,9 +6728,21 @@ class CountriesDataSource
       'nor' => 'Norwegian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر بوفيه',
+        'common' => 'جزر بوفيه',
+      ],
+      'bre' => [
+        'official' => 'Enez Bouvet',
+        'common' => 'Enez Bouvet',
+      ],
       'ces' => [
         'official' => 'Bouvetův ostrov',
         'common' => 'Bouvetův ostrov',
+      ],
+      'cym' => [
+        'official' => 'Bouvet Island',
+        'common' => 'Bouvet Island',
       ],
       'deu' => [
         'official' => 'Bouvetinsel',
@@ -5874,6 +6767,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bouvet-sziget',
         'common' => 'Bouvet-sziget',
+      ],
+      'ind' => [
+        'official' => 'Pulau Bouvet',
+        'common' => 'Pulau Bouvet',
       ],
       'ita' => [
         'official' => 'Isola Bouvet',
@@ -5915,9 +6812,17 @@ class CountriesDataSource
         'official' => 'Isla Bouvet',
         'common' => 'Isla Bouvet',
       ],
+      'srp' => [
+        'official' => 'Буве',
+        'common' => 'Буве',
+      ],
       'swe' => [
         'official' => 'Bouvetön',
         'common' => 'Bouvetön',
+      ],
+      'tur' => [
+        'official' => 'Bouvet Adası',
+        'common' => 'Bouvet Adası',
       ],
       'urd' => [
         'official' => 'جزیرہ بووہ',
@@ -5929,8 +6834,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => -54.43333333,
-      1 => 3.4,
+      0 => -54.4208,
+      1 => 3.3464,
     ],
     'landlocked' => false,
     'borders' => [
@@ -6003,8 +6908,20 @@ class CountriesDataSource
       'tsn' => 'Tswana',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بوتسوانا',
+        'common' => 'بوتسوانا',
+      ],
+      'bre' => [
+        'official' => 'Republik Botswana',
+        'common' => 'Botswana',
+      ],
       'ces' => [
         'official' => 'Botswanská republika',
+        'common' => 'Botswana',
+      ],
+      'cym' => [
+        'official' => 'Republic of Botswana',
         'common' => 'Botswana',
       ],
       'deu' => [
@@ -6029,6 +6946,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Botswanai Köztársaság',
+        'common' => 'Botswana',
+      ],
+      'ind' => [
+        'official' => 'Republik Botswana',
         'common' => 'Botswana',
       ],
       'ita' => [
@@ -6071,9 +6992,17 @@ class CountriesDataSource
         'official' => 'República de Botswana',
         'common' => 'Botswana',
       ],
+      'srp' => [
+        'official' => 'Република Боцвана',
+        'common' => 'Боцвана',
+      ],
       'swe' => [
         'official' => 'Republiken Botswana',
         'common' => 'Botswana',
+      ],
+      'tur' => [
+        'official' => 'Botsvana Cumhuriyeti',
+        'common' => 'Botsvana',
       ],
       'urd' => [
         'official' => 'جمہوریہ بوٹسوانا',
@@ -6163,9 +7092,21 @@ class CountriesDataSource
       'sag' => 'Sango',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية أفريقيا الوسطى',
+        'common' => 'جمهورية أفريقيا الوسطى',
+      ],
+      'bre' => [
+        'official' => 'Republik Kreizafrikan',
+        'common' => 'Republik Kreizafrikan',
+      ],
       'ces' => [
         'official' => 'Středoafrická republika',
         'common' => 'Středoafrická republika',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Canolbarth Affrica',
+        'common' => 'Gweriniaeth Canolbarth Affrica',
       ],
       'deu' => [
         'official' => 'Zentralafrikanische Republik',
@@ -6190,6 +7131,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Közép-afrikai Köztársaság',
         'common' => 'Közép-afrikai Köztársaság',
+      ],
+      'ind' => [
+        'official' => 'Republik Afrika Tengah',
+        'common' => 'Afrika Tengah',
       ],
       'ita' => [
         'official' => 'Repubblica Centrafricana',
@@ -6231,9 +7176,17 @@ class CountriesDataSource
         'official' => 'República Centroafricana',
         'common' => 'República Centroafricana',
       ],
+      'srp' => [
+        'official' => 'Централноафричка Република',
+        'common' => 'Централноафричка Република',
+      ],
       'swe' => [
         'official' => 'Centralafrikanska republiken',
         'common' => 'Centralafrikanska republiken',
+      ],
+      'tur' => [
+        'official' => 'Orta Afrika Cumhuriyeti',
+        'common' => 'Orta Afrika Cumhuriyeti',
       ],
       'urd' => [
         'official' => 'وسطی افریقی جمہوریہ',
@@ -6307,72 +7260,7 @@ class CountriesDataSource
     'idd' => [
       'root' => '+1',
       'suffixes' => [
-        0 => '204',
-        1 => '226',
-        2 => '236',
-        3 => '249',
-        4 => '250',
-        5 => '263',
-        6 => '289',
-        7 => '306',
-        8 => '343',
-        9 => '354',
-        10 => '365',
-        11 => '367',
-        12 => '368',
-        13 => '382',
-        14 => '387',
-        15 => '403',
-        16 => '416',
-        17 => '418',
-        18 => '428',
-        19 => '431',
-        20 => '437',
-        21 => '438',
-        22 => '450',
-        23 => '468',
-        24 => '474',
-        25 => '506',
-        26 => '514',
-        27 => '519',
-        28 => '548',
-        29 => '579',
-        30 => '581',
-        31 => '584',
-        32 => '587',
-        33 => '600',
-        34 => '604',
-        35 => '613',
-        36 => '622',
-        37 => '633',
-        38 => '639',
-        39 => '644',
-        40 => '647',
-        41 => '655',
-        42 => '672',
-        43 => '677',
-        44 => '683',
-        45 => '688',
-        46 => '705',
-        47 => '709',
-        48 => '742',
-        49 => '753',
-        50 => '778',
-        51 => '780',
-        52 => '782',
-        53 => '782',
-        54 => '807',
-        55 => '819',
-        56 => '825',
-        57 => '867',
-        58 => '867',
-        59 => '867',
-        60 => '873',
-        61 => '879',
-        62 => '902',
-        63 => '902',
-        64 => '905',
-        65 => '942',
+        0 => '',
       ],
     ],
     'capital' => [
@@ -6388,9 +7276,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'كندا',
+        'common' => 'كندا',
+      ],
+      'bre' => [
+        'official' => 'Kanada',
+        'common' => 'Kanada',
+      ],
       'ces' => [
         'official' => 'Kanada',
         'common' => 'Kanada',
+      ],
+      'cym' => [
+        'official' => 'Canada',
+        'common' => 'Canada',
       ],
       'deu' => [
         'official' => 'Kanada',
@@ -6413,6 +7313,10 @@ class CountriesDataSource
         'common' => 'Kanada',
       ],
       'hun' => [
+        'official' => 'Kanada',
+        'common' => 'Kanada',
+      ],
+      'ind' => [
         'official' => 'Kanada',
         'common' => 'Kanada',
       ],
@@ -6456,7 +7360,15 @@ class CountriesDataSource
         'official' => 'Canadá',
         'common' => 'Canadá',
       ],
+      'srp' => [
+        'official' => 'Канада',
+        'common' => 'Канада',
+      ],
       'swe' => [
+        'official' => 'Kanada',
+        'common' => 'Kanada',
+      ],
+      'tur' => [
         'official' => 'Kanada',
         'common' => 'Kanada',
       ],
@@ -6490,72 +7402,7 @@ class CountriesDataSource
       ],
     ],
     'callingCodes' => [
-      0 => '+1204',
-      1 => '+1226',
-      2 => '+1236',
-      3 => '+1249',
-      4 => '+1250',
-      5 => '+1263',
-      6 => '+1289',
-      7 => '+1306',
-      8 => '+1343',
-      9 => '+1354',
-      10 => '+1365',
-      11 => '+1367',
-      12 => '+1368',
-      13 => '+1382',
-      14 => '+1387',
-      15 => '+1403',
-      16 => '+1416',
-      17 => '+1418',
-      18 => '+1428',
-      19 => '+1431',
-      20 => '+1437',
-      21 => '+1438',
-      22 => '+1450',
-      23 => '+1468',
-      24 => '+1474',
-      25 => '+1506',
-      26 => '+1514',
-      27 => '+1519',
-      28 => '+1548',
-      29 => '+1579',
-      30 => '+1581',
-      31 => '+1584',
-      32 => '+1587',
-      33 => '+1600',
-      34 => '+1604',
-      35 => '+1613',
-      36 => '+1622',
-      37 => '+1633',
-      38 => '+1639',
-      39 => '+1644',
-      40 => '+1647',
-      41 => '+1655',
-      42 => '+1672',
-      43 => '+1677',
-      44 => '+1683',
-      45 => '+1688',
-      46 => '+1705',
-      47 => '+1709',
-      48 => '+1742',
-      49 => '+1753',
-      50 => '+1778',
-      51 => '+1780',
-      52 => '+1782',
-      53 => '+1782',
-      54 => '+1807',
-      55 => '+1819',
-      56 => '+1825',
-      57 => '+1867',
-      58 => '+1867',
-      59 => '+1867',
-      60 => '+1873',
-      61 => '+1879',
-      62 => '+1902',
-      63 => '+1902',
-      64 => '+1905',
-      65 => '+1942',
+      0 => '+1',
     ],
   ],
   41 => [
@@ -6605,9 +7452,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'إقليم جزر كوكوس',
+        'common' => 'جزر كوكوس',
+      ],
+      'bre' => [
+        'official' => 'Tiriad Inizi Cocos (Keeling)',
+        'common' => 'Inizi Cocos (Keeling)',
+      ],
       'ces' => [
         'official' => 'Kokosové ostrovy',
         'common' => 'Kokosové ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Tiriogaeth yr Ynysoedd Cocos (Keeling)',
+        'common' => 'Ynysoedd Cocos',
       ],
       'deu' => [
         'official' => 'Gebiet der Kokos- (Keeling-) Inseln',
@@ -6632,6 +7491,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kókusz-szigetek',
         'common' => 'Kókusz-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Wilayah Kepulauan Cocos (Keeling)',
+        'common' => 'Kepulauan Cocos (Keeling)',
       ],
       'ita' => [
         'official' => 'Territorio della (Keeling) Isole Cocos',
@@ -6673,9 +7536,17 @@ class CountriesDataSource
         'official' => 'Territorio de los (Keeling) Islas Cocos',
         'common' => 'Islas Cocos o Islas Keeling',
       ],
+      'srp' => [
+        'official' => 'Кокосова (Килинг) Острва',
+        'common' => 'Кокосова Острва',
+      ],
       'swe' => [
         'official' => 'Kokosöarna',
         'common' => 'Kokosöarna',
+      ],
+      'tur' => [
+        'official' => 'Cocos (Keeling) Adaları',
+        'common' => 'Cocos (Keeling) Adaları',
       ],
       'urd' => [
         'official' => 'جزائر (کیلنگ) کوکوس',
@@ -6687,8 +7558,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => -12.5,
-      1 => 96.83333333,
+      0 => -12.1642,
+      1 => 96.871,
     ],
     'landlocked' => false,
     'borders' => [
@@ -6774,9 +7645,21 @@ class CountriesDataSource
       'roh' => 'Romansh',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الاتحاد السويسري',
+        'common' => 'سويسرا',
+      ],
+      'bre' => [
+        'official' => 'Kengevredad Suis',
+        'common' => 'Suis',
+      ],
       'ces' => [
         'official' => 'Švýcarská konfederace',
         'common' => 'Švýcarsko',
+      ],
+      'cym' => [
+        'official' => 'Swiss Confederation',
+        'common' => 'Switzerland',
       ],
       'deu' => [
         'official' => 'Schweizerische Eidgenossenschaft',
@@ -6801,6 +7684,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Svájc',
         'common' => 'Svájc',
+      ],
+      'ind' => [
+        'official' => 'Konfederasi Swis',
+        'common' => 'Swis',
       ],
       'ita' => [
         'official' => 'Confederazione svizzera',
@@ -6842,9 +7729,17 @@ class CountriesDataSource
         'official' => 'Confederación Suiza',
         'common' => 'Suiza',
       ],
+      'srp' => [
+        'official' => 'Швајцарска Конфедерација',
+        'common' => 'Швајцарска',
+      ],
       'swe' => [
         'official' => 'Schweiziska edsförbundet',
         'common' => 'Schweiz',
+      ],
+      'tur' => [
+        'official' => 'İsviçre Konfederasyonu',
+        'common' => 'İsviçre',
       ],
       'urd' => [
         'official' => 'سوئیس  متحدہ',
@@ -6930,8 +7825,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية تشيلي',
+        'common' => 'تشيلي',
+      ],
+      'bre' => [
+        'official' => 'Republik Chile',
+        'common' => 'Chile',
+      ],
       'ces' => [
         'official' => 'Chilská republika',
+        'common' => 'Chile',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Chile',
         'common' => 'Chile',
       ],
       'deu' => [
@@ -6957,6 +7864,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Chilei Köztársaság',
         'common' => 'Chile',
+      ],
+      'ind' => [
+        'official' => 'Republik Cili',
+        'common' => 'Cili',
       ],
       'ita' => [
         'official' => 'Repubblica del Cile',
@@ -6998,9 +7909,17 @@ class CountriesDataSource
         'official' => 'República de Chile',
         'common' => 'Chile',
       ],
+      'srp' => [
+        'official' => 'Република Чиле',
+        'common' => 'Чиле',
+      ],
       'swe' => [
         'official' => 'Republiken Chile',
         'common' => 'Chile',
+      ],
+      'tur' => [
+        'official' => 'Şili Cumhuriyeti',
+        'common' => 'Şili',
       ],
       'urd' => [
         'official' => 'جمہوریہ چلی',
@@ -7092,9 +8011,21 @@ class CountriesDataSource
       'zho' => 'Chinese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الصين الشعبية',
+        'common' => 'الصين',
+      ],
+      'bre' => [
+        'official' => 'Republik Pobl Sina',
+        'common' => 'Sina',
+      ],
       'ces' => [
         'official' => 'Čínská lidová republika',
         'common' => 'Čína',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Pobl Tsieina',
+        'common' => 'Tsieina',
       ],
       'deu' => [
         'official' => 'Volksrepublik China',
@@ -7119,6 +8050,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kínai Népköztársaság',
         'common' => 'Kína',
+      ],
+      'ind' => [
+        'official' => 'Republik Rakyat Tiongkok',
+        'common' => 'Tiongkok',
       ],
       'ita' => [
         'official' => 'Repubblica popolare cinese',
@@ -7160,17 +8095,21 @@ class CountriesDataSource
         'official' => 'República Popular de China',
         'common' => 'China',
       ],
+      'srp' => [
+        'official' => 'Народна Република Кина',
+        'common' => 'Кина',
+      ],
       'swe' => [
         'official' => 'Folkrepubliken Kina',
         'common' => 'Kina',
       ],
+      'tur' => [
+        'official' => 'Çin Halk Cumhuriyeti',
+        'common' => 'Çin',
+      ],
       'urd' => [
         'official' => 'عوامی جمہوریہ چین',
         'common' => 'چین',
-      ],
-      'zho' => [
-        'official' => '中华人民共和国',
-        'common' => '中国',
       ],
     ],
     'latlng' => [
@@ -7261,9 +8200,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ساحل العاج',
+        'common' => 'ساحل العاج',
+      ],
+      'bre' => [
+        'official' => 'Republik Aod an Olifant',
+        'common' => 'Aod an Olifant',
+      ],
       'ces' => [
         'official' => 'Republika Pobřeží slonoviny',
         'common' => 'Pobřeží slonoviny',
+      ],
+      'cym' => [
+        'official' => 'Republic of Côte d\'Ivoire',
+        'common' => 'Ivory Coast',
       ],
       'deu' => [
         'official' => 'Republik Côte d\'Ivoire',
@@ -7288,6 +8239,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Elefántcsontparti Köztársaság',
         'common' => 'Elefántcsontpart',
+      ],
+      'ind' => [
+        'official' => 'Republik Pantai Gading',
+        'common' => 'Pantai Gading',
       ],
       'ita' => [
         'official' => 'Repubblica della Costa d\'Avorio',
@@ -7329,9 +8284,17 @@ class CountriesDataSource
         'official' => 'República de Côte d\'Ivoire',
         'common' => 'Costa de Marfil',
       ],
+      'srp' => [
+        'official' => 'Република Обала Слоноваче',
+        'common' => 'Обала Слоноваче',
+      ],
       'swe' => [
         'official' => 'Republiken Elfenbenskusten',
         'common' => 'Elfenbenskusten',
+      ],
+      'tur' => [
+        'official' => 'Fildişi Sahili',
+        'common' => 'Fildişi Sahili',
       ],
       'urd' => [
         'official' => 'جمہوریہ کوت دیواغ',
@@ -7422,9 +8385,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الكاميرون',
+        'common' => 'الكاميرون',
+      ],
+      'bre' => [
+        'official' => 'Republik Kameroun',
+        'common' => 'Kameroun',
+      ],
       'ces' => [
         'official' => 'Kamerunská republika',
         'common' => 'Kamerun',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Camerŵn',
+        'common' => 'Camerŵn',
       ],
       'deu' => [
         'official' => 'Republik Kamerun',
@@ -7450,6 +8425,10 @@ class CountriesDataSource
         'official' => 'Kameruni Köztársaság',
         'common' => 'Kamerun',
       ],
+      'ind' => [
+        'official' => 'Republik Kamerun',
+        'common' => 'Kamerun',
+      ],
       'ita' => [
         'official' => 'Repubblica del Camerun',
         'common' => 'Camerun',
@@ -7471,8 +8450,8 @@ class CountriesDataSource
         'common' => 'کامِرون',
       ],
       'pol' => [
-        'official' => 'Republika WybrzeŻa Kości Słoniowej',
-        'common' => 'WybrzeŻe Kości Słoniowej',
+        'official' => 'Republika Kamerunu',
+        'common' => 'Kamerun',
       ],
       'por' => [
         'official' => 'República dos Camarões',
@@ -7490,8 +8469,16 @@ class CountriesDataSource
         'official' => 'República de Camerún',
         'common' => 'Camerún',
       ],
+      'srp' => [
+        'official' => 'Република Камерун',
+        'common' => 'Камерун',
+      ],
       'swe' => [
         'official' => 'Republiken Kamerun',
+        'common' => 'Kamerun',
+      ],
+      'tur' => [
+        'official' => 'Kamerun Cumhuriyeti',
         'common' => 'Kamerun',
       ],
       'urd' => [
@@ -7601,9 +8588,21 @@ class CountriesDataSource
       'swa' => 'Swahili',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الكونغو الديمقراطية',
+        'common' => 'الكونغو',
+      ],
+      'bre' => [
+        'official' => 'Republik Demokratel Kongo',
+        'common' => 'Kongo-Kinshasa',
+      ],
       'ces' => [
         'official' => 'Demokratická republika Kongo',
         'common' => 'DR Kongo',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Ddemocrataidd Congo',
+        'common' => 'Gweriniaeth Ddemocrataidd Congo',
       ],
       'deu' => [
         'official' => 'Demokratische Republik Kongo',
@@ -7628,6 +8627,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kongói Demokratikus Köztársaság',
         'common' => 'Kongói Demokratikus Köztársaság',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Kongo',
+        'common' => 'Republik Demokratik Kongo',
       ],
       'ita' => [
         'official' => 'Repubblica Democratica del Congo',
@@ -7669,9 +8672,17 @@ class CountriesDataSource
         'official' => 'República Democrática del Congo',
         'common' => 'Congo (Rep. Dem.)',
       ],
+      'srp' => [
+        'official' => 'Демократска Република Конго',
+        'common' => 'ДР Конго',
+      ],
       'swe' => [
         'official' => 'Demokratiska republiken Kongo',
         'common' => 'Kongo-Kinshasa',
+      ],
+      'tur' => [
+        'official' => 'Kongo Demokratik Cumhuriyeti',
+        'common' => 'Kongo Demokratik Cumhuriyeti',
       ],
       'urd' => [
         'official' => 'جمہوری جمہوریہ کانگو',
@@ -7771,9 +8782,21 @@ class CountriesDataSource
       'lin' => 'Lingala',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الكونغو',
+        'common' => 'جمهورية الكونفو',
+      ],
+      'bre' => [
+        'official' => 'Republik Kongo',
+        'common' => 'Kongo-Brazzaville',
+      ],
       'ces' => [
         'official' => 'Konžská republika',
         'common' => 'Kongo',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth y Congo',
+        'common' => 'Gweriniaeth y Congo',
       ],
       'deu' => [
         'official' => 'Republik Kongo',
@@ -7798,6 +8821,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kongói Köztársaság',
         'common' => 'Kongói Köztársaság',
+      ],
+      'ind' => [
+        'official' => 'Republik Kongo',
+        'common' => 'Kongo',
       ],
       'ita' => [
         'official' => 'Repubblica del Congo',
@@ -7839,9 +8866,17 @@ class CountriesDataSource
         'official' => 'República del Congo',
         'common' => 'Congo',
       ],
+      'srp' => [
+        'official' => 'Република Конго',
+        'common' => 'Конго',
+      ],
       'swe' => [
         'official' => 'Republiken Kongo',
         'common' => 'Kongo-Brazzaville',
+      ],
+      'tur' => [
+        'official' => 'Kongo Cumhuriyeti',
+        'common' => 'Kongo Cumhuriyeti',
       ],
       'urd' => [
         'official' => 'جمہوریہ کانگو',
@@ -7935,9 +8970,21 @@ class CountriesDataSource
       'rar' => 'Cook Islands Māori',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر كوك',
+        'common' => 'جزر كوك',
+      ],
+      'bre' => [
+        'official' => 'Inizi Cook',
+        'common' => 'Inizi Cook',
+      ],
       'ces' => [
         'official' => 'Cookovy ostrovy',
         'common' => 'Cookovy ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Ynysoedd Cook',
+        'common' => 'Ynysoedd Cook',
       ],
       'deu' => [
         'official' => 'Cookinseln',
@@ -7962,6 +9009,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Cook-szigetek',
         'common' => 'Cook-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Cook',
+        'common' => 'Kepulauan Cook',
       ],
       'ita' => [
         'official' => 'Isole Cook',
@@ -8003,9 +9054,17 @@ class CountriesDataSource
         'official' => 'Islas Cook',
         'common' => 'Islas Cook',
       ],
+      'srp' => [
+        'official' => 'Кукова Острва',
+        'common' => 'Кукова Острва',
+      ],
       'swe' => [
         'official' => 'Cooköarna',
         'common' => 'Cooköarna',
+      ],
+      'tur' => [
+        'official' => 'Cook Adaları',
+        'common' => 'Cook Adaları',
       ],
       'urd' => [
         'official' => 'جزائر کک',
@@ -8086,9 +9145,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كولومبيا',
+        'common' => 'كولومبيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Kolombia',
+        'common' => 'Kolombia',
+      ],
       'ces' => [
         'official' => 'Kolumbijská republika',
         'common' => 'Kolumbie',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Colombia',
+        'common' => 'Colombia',
       ],
       'deu' => [
         'official' => 'Republik Kolumbien',
@@ -8113,6 +9184,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kolumbiai Köztársaság',
         'common' => 'Kolumbia',
+      ],
+      'ind' => [
+        'official' => 'Republik Kolombia',
+        'common' => 'Kolombia',
       ],
       'ita' => [
         'official' => 'Repubblica di Colombia',
@@ -8154,9 +9229,17 @@ class CountriesDataSource
         'official' => 'República de Colombia',
         'common' => 'Colombia',
       ],
+      'srp' => [
+        'official' => 'Република Колумбија',
+        'common' => 'Колумбија',
+      ],
       'swe' => [
         'official' => 'Republiken Colombia',
         'common' => 'Colombia',
+      ],
+      'tur' => [
+        'official' => 'Kolombiya Cumhuriyeti',
+        'common' => 'Kolombiya',
       ],
       'urd' => [
         'official' => 'جمہوریہ کولمبیا',
@@ -8254,9 +9337,21 @@ class CountriesDataSource
       'zdj' => 'Comorian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الإتحاد القمري',
+        'common' => 'جزر القمر',
+      ],
+      'bre' => [
+        'official' => 'Unaniezh Komorez',
+        'common' => 'Komorez',
+      ],
       'ces' => [
         'official' => 'Komorský svaz',
         'common' => 'Komory',
+      ],
+      'cym' => [
+        'official' => 'Undeb y Comoros',
+        'common' => 'Y Comoros',
       ],
       'deu' => [
         'official' => 'Union der Komoren',
@@ -8281,6 +9376,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Comore-szigeteki Unió',
         'common' => 'Comore-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Perserikatan Komoro',
+        'common' => 'Komoro',
       ],
       'ita' => [
         'official' => 'Unione delle Comore',
@@ -8322,9 +9421,17 @@ class CountriesDataSource
         'official' => 'Unión de las Comoras',
         'common' => 'Comoras',
       ],
+      'srp' => [
+        'official' => 'Савез Комора',
+        'common' => 'Комори',
+      ],
       'swe' => [
         'official' => 'Unionen Komorerna',
         'common' => 'Komorerna',
+      ],
+      'tur' => [
+        'official' => 'Komorlar Birliği',
+        'common' => 'Komorlar',
       ],
       'urd' => [
         'official' => 'اتحاد القمری',
@@ -8405,9 +9512,21 @@ class CountriesDataSource
       'por' => 'Portuguese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كابو فيردي',
+        'common' => 'كابو فيردي',
+      ],
+      'bre' => [
+        'official' => 'Republik Kab Glas',
+        'common' => 'Kab Glas',
+      ],
       'ces' => [
         'official' => 'Kapverdská republika',
         'common' => 'Kapverdy',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Cabo Verde',
+        'common' => 'Penrhyn Verde',
       ],
       'deu' => [
         'official' => 'Republik Cabo Verde',
@@ -8432,6 +9551,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Zöld-foki Köztársaság',
         'common' => 'Zöld-foki Köztársaság',
+      ],
+      'ind' => [
+        'official' => 'Republik Tanjung Hijau',
+        'common' => 'Tanjung Hijau',
       ],
       'ita' => [
         'official' => 'Repubblica di Capo Verde',
@@ -8473,9 +9596,17 @@ class CountriesDataSource
         'official' => 'República de Cabo Verde',
         'common' => 'Cabo Verde',
       ],
+      'srp' => [
+        'official' => 'Зеленортска Република',
+        'common' => 'Зеленортска Острва',
+      ],
       'swe' => [
         'official' => 'Republiken Kap Verde',
         'common' => 'Kap Verde',
+      ],
+      'tur' => [
+        'official' => 'Yeşil Burun Cumhuriyeti',
+        'common' => 'Yeşil Burun',
       ],
       'urd' => [
         'official' => 'جمہوریہ کیپ ورڈی',
@@ -8487,8 +9618,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => 16,
-      1 => -24,
+      0 => 16.5388,
+      1 => -23.0418,
     ],
     'landlocked' => false,
     'borders' => [
@@ -8556,9 +9687,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كوستاريكا',
+        'common' => 'كوستاريكا',
+      ],
+      'bre' => [
+        'official' => 'Republik Costa Rica',
+        'common' => 'Costa Rica',
+      ],
       'ces' => [
         'official' => 'Kostarická republika',
         'common' => 'Kostarika',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Costa Rica',
+        'common' => 'Costa Rica',
       ],
       'deu' => [
         'official' => 'Republik Costa Rica',
@@ -8583,6 +9726,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Costa Rica-i Köztársaság',
         'common' => 'Costa Rica',
+      ],
+      'ind' => [
+        'official' => 'Republik Kosta Rika',
+        'common' => 'Kosta Rika',
       ],
       'ita' => [
         'official' => 'Repubblica di Costa Rica',
@@ -8624,9 +9771,17 @@ class CountriesDataSource
         'official' => 'República de Costa Rica',
         'common' => 'Costa Rica',
       ],
+      'srp' => [
+        'official' => 'Република Костарика',
+        'common' => 'Костарика',
+      ],
       'swe' => [
         'official' => 'Republiken Costa Rica',
         'common' => 'Costa Rica',
+      ],
+      'tur' => [
+        'official' => 'Kosta Rika Cumhuriyeti',
+        'common' => 'Kosta Rika',
       ],
       'urd' => [
         'official' => 'جمہوریہ کوسٹاریکا',
@@ -8709,9 +9864,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كوبا',
+        'common' => 'كوبا',
+      ],
+      'bre' => [
+        'official' => 'Republik Kuba',
+        'common' => 'Kuba',
+      ],
       'ces' => [
         'official' => 'Kubánská republika',
         'common' => 'Kuba',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Ciwba',
+        'common' => 'Ciwba',
       ],
       'deu' => [
         'official' => 'Republik Kuba',
@@ -8735,6 +9902,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Kubai Köztársaság',
+        'common' => 'Kuba',
+      ],
+      'ind' => [
+        'official' => 'Republik Kuba',
         'common' => 'Kuba',
       ],
       'ita' => [
@@ -8777,9 +9948,17 @@ class CountriesDataSource
         'official' => 'República de Cuba',
         'common' => 'Cuba',
       ],
+      'srp' => [
+        'official' => 'Република Куба',
+        'common' => 'Куба',
+      ],
       'swe' => [
         'official' => 'Republiken Kuba',
         'common' => 'Kuba',
+      ],
+      'tur' => [
+        'official' => 'Küba Cumhuriyeti',
+        'common' => 'Küba',
       ],
       'urd' => [
         'official' => 'جمہوریہ کیوبا',
@@ -8873,8 +10052,20 @@ class CountriesDataSource
       'pap' => 'Papiamento',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة كوراساو',
+        'common' => 'كوراساو',
+      ],
+      'bre' => [
+        'official' => 'Bro Curaçao',
+        'common' => 'Curaçao',
+      ],
       'ces' => [
         'official' => 'Autonomní země Curaçao',
+        'common' => 'Curaçao',
+      ],
+      'cym' => [
+        'official' => 'Country of Curaçao',
         'common' => 'Curaçao',
       ],
       'deu' => [
@@ -8893,21 +10084,17 @@ class CountriesDataSource
         'official' => 'Pays de Curaçao',
         'common' => 'Curaçao',
       ],
-      'hrv' => [
+      'hun' => [
         'official' => 'Curaçao',
         'common' => 'Curaçao',
       ],
-      'hun' => [
-        'official' => 'Curaçao',
+      'ind' => [
+        'official' => 'Negara Curaçao',
         'common' => 'Curaçao',
       ],
       'ita' => [
         'official' => 'Paese di Curaçao',
         'common' => 'Curaçao',
-      ],
-      'jpn' => [
-        'official' => 'キュラソー',
-        'common' => 'キュラソー',
       ],
       'kor' => [
         'official' => '퀴라소',
@@ -8941,7 +10128,15 @@ class CountriesDataSource
         'official' => 'País de Curazao',
         'common' => 'Curazao',
       ],
+      'srp' => [
+        'official' => 'Курасао',
+        'common' => 'Курасао',
+      ],
       'swe' => [
+        'official' => 'Curaçao',
+        'common' => 'Curaçao',
+      ],
+      'tur' => [
         'official' => 'Curaçao',
         'common' => 'Curaçao',
       ],
@@ -9023,9 +10218,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزيرة كريسماس',
+        'common' => 'جزيرة كريسماس',
+      ],
+      'bre' => [
+        'official' => 'Tiriad Enez Christmas',
+        'common' => 'Enez Christmas',
+      ],
       'ces' => [
         'official' => 'Teritorium Vánočního ostrova',
         'common' => 'Vánoční ostrov',
+      ],
+      'cym' => [
+        'official' => 'Tiriogaeth yr Ynys y Nadolig',
+        'common' => 'Ynys y Nadolig',
       ],
       'deu' => [
         'official' => 'Gebiet der Weihnachtsinsel',
@@ -9050,6 +10257,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Karácsony-sziget',
         'common' => 'Karácsony-sziget',
+      ],
+      'ind' => [
+        'official' => 'Wilayah Pulau Natal',
+        'common' => 'Pulau Natal',
       ],
       'ita' => [
         'official' => 'Territorio di Christmas Island',
@@ -9091,9 +10302,17 @@ class CountriesDataSource
         'official' => 'Territorio de la Isla de Navidad',
         'common' => 'Isla de Navidad',
       ],
+      'srp' => [
+        'official' => 'Божићно Острво',
+        'common' => 'Божићно Острво',
+      ],
       'swe' => [
         'official' => 'Julön',
         'common' => 'Julön',
+      ],
+      'tur' => [
+        'official' => 'Christmas Adası',
+        'common' => 'Christmas Adası',
       ],
       'urd' => [
         'official' => 'ریاستِ جزیرہ کرسمس',
@@ -9172,9 +10391,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر كايمان',
+        'common' => 'جزر كايمان',
+      ],
+      'bre' => [
+        'official' => 'Inizi Cayman',
+        'common' => 'Inizi Cayman',
+      ],
       'ces' => [
         'official' => 'Kajmanské ostrovy',
         'common' => 'Kajmanské ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Ynysoedd Cayman',
+        'common' => 'Ynysoedd Cayman',
       ],
       'deu' => [
         'official' => 'Cayman-Inseln',
@@ -9199,6 +10430,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kajmán-szigetek',
         'common' => 'Kajmán-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Cayman',
+        'common' => 'Kepulauan Cayman',
       ],
       'ita' => [
         'official' => 'Isole Cayman',
@@ -9240,9 +10475,17 @@ class CountriesDataSource
         'official' => 'Islas Caimán',
         'common' => 'Islas Caimán',
       ],
+      'srp' => [
+        'official' => 'Кајманска Острва',
+        'common' => 'Кајманска Острва',
+      ],
       'swe' => [
         'official' => 'Caymanöarna',
         'common' => 'Caymanöarna',
+      ],
+      'tur' => [
+        'official' => 'Cayman Adaları',
+        'common' => 'Cayman Adaları',
       ],
       'urd' => [
         'official' => 'جزائر کیمین',
@@ -9254,8 +10497,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => 19.5,
-      1 => -80.5,
+      0 => 19.3133,
+      1 => -81.2546,
     ],
     'landlocked' => false,
     'borders' => [
@@ -9303,7 +10546,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -9331,9 +10574,21 @@ class CountriesDataSource
       'tur' => 'Turkish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية قبرص',
+        'common' => 'قبرص',
+      ],
+      'bre' => [
+        'official' => 'Republik Kiprenez',
+        'common' => 'Kiprenez',
+      ],
       'ces' => [
         'official' => 'Kyperská republika',
         'common' => 'Kypr',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Cyprus',
+        'common' => 'Cyprus',
       ],
       'deu' => [
         'official' => 'Republik Zypern',
@@ -9358,6 +10613,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ciprusi Köztársaság',
         'common' => 'Ciprus',
+      ],
+      'ind' => [
+        'official' => 'Republik Siprus',
+        'common' => 'Siprus',
       ],
       'ita' => [
         'official' => 'Repubblica di Cipro',
@@ -9399,9 +10658,17 @@ class CountriesDataSource
         'official' => 'República de Chipre',
         'common' => 'Chipre',
       ],
+      'srp' => [
+        'official' => 'Кипарска Република',
+        'common' => 'Кипар',
+      ],
       'swe' => [
         'official' => 'Republiken Cypern',
         'common' => 'Cypern',
+      ],
+      'tur' => [
+        'official' => 'Kıbrıs Cumhuriyeti',
+        'common' => 'Kıbrıs',
       ],
       'urd' => [
         'official' => 'جمہوریہ قبرص',
@@ -9487,9 +10754,21 @@ class CountriesDataSource
       'slk' => 'Slovak',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية التشيك',
+        'common' => 'التشيك',
+      ],
+      'bre' => [
+        'official' => 'Republik Tchek',
+        'common' => 'Tchekia',
+      ],
       'ces' => [
         'official' => 'Česká republika',
         'common' => 'Česko',
+      ],
+      'cym' => [
+        'official' => 'Y Weriniaeth Tsiec',
+        'common' => 'Y Weriniaeth Tsiec',
       ],
       'deu' => [
         'official' => 'Tschechische Republik',
@@ -9514,6 +10793,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Cseh Köztársaság',
         'common' => 'Csehország',
+      ],
+      'ind' => [
+        'official' => 'Republik Ceko',
+        'common' => 'Ceko',
       ],
       'ita' => [
         'official' => 'Repubblica Ceca',
@@ -9555,9 +10838,17 @@ class CountriesDataSource
         'official' => 'República Checa',
         'common' => 'Chequia',
       ],
+      'srp' => [
+        'official' => 'Чешка Република',
+        'common' => 'Чешка',
+      ],
       'swe' => [
         'official' => 'Republiken Tjeckien',
         'common' => 'Tjeckien',
+      ],
+      'tur' => [
+        'official' => 'Çek Cumhuriyeti',
+        'common' => 'Çekya',
       ],
       'urd' => [
         'official' => 'چيک جمہوريہ',
@@ -9618,7 +10909,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -9642,9 +10933,21 @@ class CountriesDataSource
       'deu' => 'German',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ألمانيا الاتحادية',
+        'common' => 'ألمانيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Kevreadel Alamagn',
+        'common' => 'Alamagn',
+      ],
       'ces' => [
         'official' => 'Spolková republika Německo',
         'common' => 'Německo',
+      ],
+      'cym' => [
+        'official' => 'Federal Republic of Germany',
+        'common' => 'Germany',
       ],
       'deu' => [
         'official' => 'Bundesrepublik Deutschland',
@@ -9669,6 +10972,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Német Szövetségi Köztársaság',
         'common' => 'Németország',
+      ],
+      'ind' => [
+        'official' => 'Republik Federal Jerman',
+        'common' => 'Jerman',
       ],
       'ita' => [
         'official' => 'Repubblica federale di Germania',
@@ -9710,9 +11017,17 @@ class CountriesDataSource
         'official' => 'República Federal de Alemania',
         'common' => 'Alemania',
       ],
+      'srp' => [
+        'official' => 'Савезна Република Немачка',
+        'common' => 'Немачка',
+      ],
       'swe' => [
         'official' => 'Förbundsrepubliken Tyskland',
         'common' => 'Tyskland',
+      ],
+      'tur' => [
+        'official' => 'Almanya Federal Cumhuriyeti',
+        'common' => 'Almanya',
       ],
       'urd' => [
         'official' => 'وفاقی جمہوریہ جرمنی',
@@ -9811,9 +11126,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية جيبوتي',
+        'common' => 'جيبوتي',
+      ],
+      'bre' => [
+        'official' => 'Republik Djibouti',
+        'common' => 'Djibouti',
+      ],
       'ces' => [
         'official' => 'Džibutská republika',
         'common' => 'Džibutsko',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Jibwti',
+        'common' => 'Jibwti',
       ],
       'deu' => [
         'official' => 'Republik Dschibuti',
@@ -9838,6 +11165,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Dzsibuti Köztársaság',
         'common' => 'Dzsibuti',
+      ],
+      'ind' => [
+        'official' => 'Republik Jibuti',
+        'common' => 'Jibuti',
       ],
       'ita' => [
         'official' => 'Repubblica di Gibuti',
@@ -9879,9 +11210,17 @@ class CountriesDataSource
         'official' => 'República de Djibouti',
         'common' => 'Djibouti',
       ],
+      'srp' => [
+        'official' => 'Република Џибути',
+        'common' => 'Џибути',
+      ],
       'swe' => [
         'official' => 'Republiken Djibouti',
         'common' => 'Djibouti',
+      ],
+      'tur' => [
+        'official' => 'Cibuti Cumhuriyeti',
+        'common' => 'Cibuti',
       ],
       'urd' => [
         'official' => 'جمہوریہ جبوتی',
@@ -9966,9 +11305,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'كومونولث دومينيكا',
+        'common' => 'دومينيكا',
+      ],
+      'bre' => [
+        'official' => 'Kenglad Dominika',
+        'common' => 'Dominika',
+      ],
       'ces' => [
         'official' => 'Dominikánské společenství',
         'common' => 'Dominika',
+      ],
+      'cym' => [
+        'official' => 'Cymanwlad Dominica',
+        'common' => 'Dominica',
       ],
       'deu' => [
         'official' => 'Commonwealth von Dominica',
@@ -9994,6 +11345,10 @@ class CountriesDataSource
         'official' => 'Dominikai Közösség',
         'common' => 'Dominikai Közösség',
       ],
+      'ind' => [
+        'official' => 'Persemakmuran Dominika',
+        'common' => 'Dominika',
+      ],
       'ita' => [
         'official' => 'Commonwealth di Dominica',
         'common' => 'Dominica',
@@ -10003,8 +11358,8 @@ class CountriesDataSource
         'common' => 'ドミニカ国',
       ],
       'kor' => [
-        'official' => '도미니카 공화국',
-        'common' => '도미니카 공화국',
+        'official' => '도미니카 연방',
+        'common' => '도미니카',
       ],
       'nld' => [
         'official' => 'Gemenebest Dominica',
@@ -10034,9 +11389,17 @@ class CountriesDataSource
         'official' => 'Mancomunidad de Dominica',
         'common' => 'Dominica',
       ],
+      'srp' => [
+        'official' => 'Комонвелт Доминика',
+        'common' => 'Доминика',
+      ],
       'swe' => [
         'official' => 'Samväldet Dominica',
         'common' => 'Dominica',
+      ],
+      'tur' => [
+        'official' => 'Dominika Topluluğu',
+        'common' => 'Dominika',
       ],
       'urd' => [
         'official' => 'دولتِ مشترکہ ڈومینیکا',
@@ -10118,9 +11481,21 @@ class CountriesDataSource
       'dan' => 'Danish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة الدنمارك',
+        'common' => 'الدنمارك',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Danmark',
+        'common' => 'Danmark',
+      ],
       'ces' => [
         'official' => 'Dánské království',
         'common' => 'Dánsko',
+      ],
+      'cym' => [
+        'official' => 'Teyrnas Denmarc',
+        'common' => 'Denmarc',
       ],
       'deu' => [
         'official' => 'Königreich Dänemark',
@@ -10145,6 +11520,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Dán Királyság',
         'common' => 'Dánia',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Denmark',
+        'common' => 'Denmark',
       ],
       'ita' => [
         'official' => 'Regno di Danimarca',
@@ -10186,9 +11565,17 @@ class CountriesDataSource
         'official' => 'Reino de Dinamarca',
         'common' => 'Dinamarca',
       ],
+      'srp' => [
+        'official' => 'Краљевина Данска',
+        'common' => 'Данска',
+      ],
       'swe' => [
         'official' => 'Konungariket Danmark',
         'common' => 'Danmark',
+      ],
+      'tur' => [
+        'official' => 'Danimarka Krallığı',
+        'common' => 'Danimarka',
       ],
       'urd' => [
         'official' => 'مملکتِ ڈنمارک',
@@ -10270,9 +11657,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الدومينيكان',
+        'common' => 'جمهورية الدومينيكان',
+      ],
+      'bre' => [
+        'official' => 'Republik Dominikan',
+        'common' => 'Republik Dominikan',
+      ],
       'ces' => [
         'official' => 'Dominikánská republika',
         'common' => 'Dominikánská republika',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Dominica',
+        'common' => 'Gweriniaeth Dominica',
       ],
       'deu' => [
         'official' => 'Dominikanische Republik',
@@ -10297,6 +11696,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Dominikai Köztársaság',
         'common' => 'Dominikai Köztársaság',
+      ],
+      'ind' => [
+        'official' => 'Republik Dominika',
+        'common' => 'Republik Dominika',
       ],
       'ita' => [
         'official' => 'Repubblica Dominicana',
@@ -10338,9 +11741,17 @@ class CountriesDataSource
         'official' => 'República Dominicana',
         'common' => 'República Dominicana',
       ],
+      'srp' => [
+        'official' => 'Доминиканска Република',
+        'common' => 'Доминикана',
+      ],
       'swe' => [
         'official' => 'Dominikanska republiken',
         'common' => 'Dominikanska republiken',
+      ],
+      'tur' => [
+        'official' => 'Dominik Cumhuriyeti',
+        'common' => 'Dominik Cumhuriyeti',
       ],
       'urd' => [
         'official' => 'جمہوریہ ڈومینیکن',
@@ -10425,9 +11836,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية الديمقراطية الشعبية الجزائرية',
+        'common' => 'الجزائر',
+      ],
+      'bre' => [
+        'official' => 'Republik Aljerian Demokratel ha Poblel',
+        'common' => 'Aljeria',
+      ],
       'ces' => [
         'official' => 'Alžírská demokratická a lidová republika',
         'common' => 'Alžírsko',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Ddemocrataidd Pobl Algeria',
+        'common' => 'Algeria',
       ],
       'deu' => [
         'official' => 'Demokratische Volksrepublik Algerien',
@@ -10452,6 +11875,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Algériai Népi Demokratikus Köztársaság',
         'common' => 'Algéria',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Rakyat Aljazair',
+        'common' => 'Aljazair',
       ],
       'ita' => [
         'official' => 'Repubblica popolare democratica di Algeria',
@@ -10493,9 +11920,17 @@ class CountriesDataSource
         'official' => 'República Argelina Democrática y Popular',
         'common' => 'Argelia',
       ],
+      'srp' => [
+        'official' => 'Народна Демократска Република Алжир',
+        'common' => 'Алжир',
+      ],
       'swe' => [
         'official' => 'Demokratiska folkrepubliken Algeriet',
         'common' => 'Algeriet',
+      ],
+      'tur' => [
+        'official' => 'Cezayir Demokratik Halk Cumhuriyeti',
+        'common' => 'Cezayir',
       ],
       'urd' => [
         'official' => 'عوامی جمہوری جمہوریہ الجزائر',
@@ -10583,9 +12018,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الإكوادور',
+        'common' => 'الإكوادور',
+      ],
+      'bre' => [
+        'official' => 'Republik Ecuador',
+        'common' => 'Ecuador',
+      ],
       'ces' => [
         'official' => 'Ekvádorská republika',
         'common' => 'Ekvádor',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Ecwador',
+        'common' => 'Ecwador',
       ],
       'deu' => [
         'official' => 'Republik Ecuador',
@@ -10610,6 +12057,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ecuadori Köztársaság',
         'common' => 'Ecuador',
+      ],
+      'ind' => [
+        'official' => 'Republik Ekuador',
+        'common' => 'Ekuador',
       ],
       'ita' => [
         'official' => 'Repubblica dell\'Ecuador',
@@ -10651,9 +12102,17 @@ class CountriesDataSource
         'official' => 'República del Ecuador',
         'common' => 'Ecuador',
       ],
+      'srp' => [
+        'official' => 'Република Еквадор',
+        'common' => 'Еквадор',
+      ],
       'swe' => [
         'official' => 'Republiken Ecuador',
         'common' => 'Ecuador',
+      ],
+      'tur' => [
+        'official' => 'Ekvador Cumhuriyeti',
+        'common' => 'Ekvador',
       ],
       'urd' => [
         'official' => 'جمہوریہ ایکوڈور',
@@ -10736,9 +12195,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية مصر العربية',
+        'common' => 'مصر',
+      ],
+      'bre' => [
+        'official' => 'Republik arab Egipt',
+        'common' => 'Egipt',
+      ],
       'ces' => [
         'official' => 'Egyptská arabská republika',
         'common' => 'Egypt',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Arabaidd yr Aifft',
+        'common' => 'Yr Aifft',
       ],
       'deu' => [
         'official' => 'Arabische Republik Ägypten',
@@ -10763,6 +12234,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Egyiptomi Arab Köztársaság',
         'common' => 'Egyiptom',
+      ],
+      'ind' => [
+        'official' => 'Republik Arab Mesir',
+        'common' => 'Mesir',
       ],
       'ita' => [
         'official' => 'Repubblica araba d\'Egitto',
@@ -10804,9 +12279,17 @@ class CountriesDataSource
         'official' => 'República Árabe de Egipto',
         'common' => 'Egipto',
       ],
+      'srp' => [
+        'official' => 'Арапска Република Египат',
+        'common' => 'Египат',
+      ],
       'swe' => [
         'official' => 'Arabrepubliken Egypten',
         'common' => 'Egypten',
+      ],
+      'tur' => [
+        'official' => 'Mısır Arap Cumhuriyeti',
+        'common' => 'Mısır',
       ],
       'urd' => [
         'official' => 'مصری عرب جمہوریہ',
@@ -10904,8 +12387,20 @@ class CountriesDataSource
       'tir' => 'Tigrinya',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة إريتريا',
+        'common' => 'إريتريا',
+      ],
+      'bre' => [
+        'official' => 'Stad Eritrea',
+        'common' => 'Eritrea',
+      ],
       'ces' => [
         'official' => 'Stát Eritrea',
+        'common' => 'Eritrea',
+      ],
+      'cym' => [
+        'official' => 'Gwladwriaeth Eritrea',
         'common' => 'Eritrea',
       ],
       'deu' => [
@@ -10930,6 +12425,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Eritrea',
+        'common' => 'Eritrea',
+      ],
+      'ind' => [
+        'official' => 'Negara Eritrea',
         'common' => 'Eritrea',
       ],
       'ita' => [
@@ -10972,9 +12471,17 @@ class CountriesDataSource
         'official' => 'Estado de Eritrea',
         'common' => 'Eritrea',
       ],
+      'srp' => [
+        'official' => 'Држава Еритреја',
+        'common' => 'Еритреја',
+      ],
       'swe' => [
         'official' => 'Staten Eritrea',
         'common' => 'Eritrea',
+      ],
+      'tur' => [
+        'official' => 'Eritre Devleti',
+        'common' => 'Eritre',
       ],
       'urd' => [
         'official' => 'ریاستِ ارتریا',
@@ -11076,9 +12583,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية العربية الصحراوية الديمقراطية',
+        'common' => 'الصحراء الغربية',
+      ],
+      'bre' => [
+        'official' => 'Republik Arab Saharaoui Demokratel',
+        'common' => 'Sahara ar C\'hornôg',
+      ],
       'ces' => [
         'official' => 'Západní Sahara',
         'common' => 'Západní Sahara',
+      ],
+      'cym' => [
+        'official' => 'Sahrawi Arab Democratic Republic',
+        'common' => 'Western Sahara',
       ],
       'deu' => [
         'official' => 'Demokratische Arabische Republik Sahara',
@@ -11103,6 +12622,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Nyugat-Szahara',
         'common' => 'Nyugat-Szahara',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Arab Sahrawi',
+        'common' => 'Sahara Barat',
       ],
       'ita' => [
         'official' => 'Repubblica Araba Saharawi Democratica',
@@ -11144,9 +12667,17 @@ class CountriesDataSource
         'official' => 'República Árabe Saharaui Democrática',
         'common' => 'Sahara Occidental',
       ],
+      'srp' => [
+        'official' => 'Сахарска Арапска Демократска Република',
+        'common' => 'Сахарска Република',
+      ],
       'swe' => [
         'official' => 'Västsahara',
         'common' => 'Västsahara',
+      ],
+      'tur' => [
+        'official' => 'Sahra Demokratik Arap Cumhuriyeti',
+        'common' => 'Sahra Demokratik Arap Cumhuriyeti',
       ],
       'urd' => [
         'official' => 'صحراوی عرب عوامی جمہوریہ',
@@ -11207,7 +12738,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -11229,11 +12760,26 @@ class CountriesDataSource
     'subregion' => 'Southern Europe',
     'languages' => [
       'spa' => 'Spanish',
+      'cat' => 'Catalan',
+      'eus' => 'Basque',
+      'glc' => 'Galician',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة إسبانيا',
+        'common' => 'إسبانيا',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Spagn',
+        'common' => 'Spagn',
+      ],
       'ces' => [
         'official' => 'Španělské království',
         'common' => 'Španělsko',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Spain',
+        'common' => 'Spain',
       ],
       'deu' => [
         'official' => 'Königreich Spanien',
@@ -11258,6 +12804,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Spanyol Királyság',
         'common' => 'Spanyolország',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Spanyol',
+        'common' => 'Spanyol',
       ],
       'ita' => [
         'official' => 'Regno di Spagna',
@@ -11299,9 +12849,17 @@ class CountriesDataSource
         'official' => 'Reino de España',
         'common' => 'España',
       ],
+      'srp' => [
+        'official' => 'Краљевина Шпанија',
+        'common' => 'Шпанија',
+      ],
       'swe' => [
         'official' => 'Konungariket Spanien',
         'common' => 'Spanien',
+      ],
+      'tur' => [
+        'official' => 'İspanya Krallığı',
+        'common' => 'İspanya',
       ],
       'urd' => [
         'official' => 'مملکتِ ہسپانیہ',
@@ -11363,7 +12921,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -11388,9 +12946,21 @@ class CountriesDataSource
       'est' => 'Estonian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية إستونيا',
+        'common' => 'إستونيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Estonia',
+        'common' => 'Estonia',
+      ],
       'ces' => [
         'official' => 'Estonská republika',
         'common' => 'Estonsko',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Estonia',
+        'common' => 'Estonia',
       ],
       'deu' => [
         'official' => 'Republik Estland',
@@ -11415,6 +12985,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Észt Köztársaság',
         'common' => 'Észtország',
+      ],
+      'ind' => [
+        'official' => 'Republik Estonia',
+        'common' => 'Estonia',
       ],
       'ita' => [
         'official' => 'Repubblica di Estonia',
@@ -11456,9 +13030,17 @@ class CountriesDataSource
         'official' => 'República de Estonia',
         'common' => 'Estonia',
       ],
+      'srp' => [
+        'official' => 'Естонска Република',
+        'common' => 'Естонија',
+      ],
       'swe' => [
         'official' => 'Republiken Estland',
         'common' => 'Estland',
+      ],
+      'tur' => [
+        'official' => 'Estonya Cumhuriyeti',
+        'common' => 'Estonya',
       ],
       'urd' => [
         'official' => 'جمہوریہ اسٹونیا',
@@ -11542,9 +13124,21 @@ class CountriesDataSource
       'amh' => 'Amharic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية إثيوبيا الفدرالية الديموقراطية',
+        'common' => 'إثيوبيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Demokratel Kevredadel Etiopia',
+        'common' => 'Etiopia',
+      ],
       'ces' => [
         'official' => 'Etiopská federativní demokratická republika',
         'common' => 'Etiopie',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Ddemocrataidd Ffederal Ethiopia',
+        'common' => 'Ethiopia',
       ],
       'deu' => [
         'official' => 'Demokratische Bundesrepublik Äthiopien',
@@ -11569,6 +13163,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Etióp Szövetségi Demokratikus Köztársaság',
         'common' => 'Etiópia',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Federal Etiopia',
+        'common' => 'Etiopia',
       ],
       'ita' => [
         'official' => 'Repubblica federale democratica di Etiopia',
@@ -11610,9 +13208,17 @@ class CountriesDataSource
         'official' => 'República Democrática Federal de Etiopía',
         'common' => 'Etiopía',
       ],
+      'srp' => [
+        'official' => 'Савезна Демократска Република Етиопија',
+        'common' => 'Етиопија',
+      ],
       'swe' => [
         'official' => 'Demokratiska förbundsrepubliken Etiopien',
         'common' => 'Etiopien',
+      ],
+      'tur' => [
+        'official' => 'Etiyopya Federal Demokratik Cumhuriyeti',
+        'common' => 'Etiyopya',
       ],
       'urd' => [
         'official' => 'وفاقی جمہوری جمہوریہ ایتھوپیا',
@@ -11679,7 +13285,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -11706,9 +13312,21 @@ class CountriesDataSource
       'swe' => 'Swedish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية فنلندا',
+        'common' => 'فنلندا',
+      ],
+      'bre' => [
+        'official' => 'Republik Finland',
+        'common' => 'Finland',
+      ],
       'ces' => [
         'official' => 'Finská republika',
         'common' => 'Finsko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Finland',
+        'common' => 'Finland',
       ],
       'deu' => [
         'official' => 'Republik Finnland',
@@ -11733,6 +13351,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Finn Köztársaság',
         'common' => 'Finnország',
+      ],
+      'ind' => [
+        'official' => 'Republik Finlandia',
+        'common' => 'Finlandia',
       ],
       'ita' => [
         'official' => 'Repubblica di Finlandia',
@@ -11774,9 +13396,17 @@ class CountriesDataSource
         'official' => 'República de Finlandia',
         'common' => 'Finlandia',
       ],
+      'srp' => [
+        'official' => 'Република Финска',
+        'common' => 'Финска',
+      ],
       'swe' => [
         'official' => 'Republiken Finland',
         'common' => 'Finland',
+      ],
+      'tur' => [
+        'official' => 'Finlandiya Cumhuriyeti',
+        'common' => 'Finlandiya',
       ],
       'urd' => [
         'official' => 'جمہوریہ فن لینڈ',
@@ -11797,7 +13427,7 @@ class CountriesDataSource
       1 => 'SWE',
       2 => 'RUS',
     ],
-    'area' => 338424,
+    'area' => 338455,
     'flag' => '🇫🇮',
     'demonyms' => [
       'eng' => [
@@ -11872,9 +13502,21 @@ class CountriesDataSource
       'hif' => 'Fiji Hindi',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية جزر فيجي',
+        'common' => 'فيجي',
+      ],
+      'bre' => [
+        'official' => 'Republik Fidji',
+        'common' => 'Fidji',
+      ],
       'ces' => [
         'official' => 'Republika Fidžijských ostrovů',
         'common' => 'Fidži',
+      ],
+      'cym' => [
+        'official' => 'Republic of Fiji',
+        'common' => 'Fiji',
       ],
       'deu' => [
         'official' => 'Republik Fidschi',
@@ -11899,6 +13541,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Fidzsi-szigeteki Köztársaság',
         'common' => 'Fidzsi-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Republik Fiji',
+        'common' => 'Fiji',
       ],
       'ita' => [
         'official' => 'Repubblica di Figi',
@@ -11940,8 +13586,16 @@ class CountriesDataSource
         'official' => 'República de Fiji',
         'common' => 'Fiyi',
       ],
+      'srp' => [
+        'official' => 'Република Фиџи',
+        'common' => 'Фиџи',
+      ],
       'swe' => [
         'official' => 'Republiken Fiji',
+        'common' => 'Fiji',
+      ],
+      'tur' => [
+        'official' => 'Fiji Cumhuriyeti',
         'common' => 'Fiji',
       ],
       'urd' => [
@@ -11954,8 +13608,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => -18,
-      1 => 175,
+      0 => -17.7134,
+      1 => 178.065,
     ],
     'landlocked' => false,
     'borders' => [
@@ -12023,9 +13677,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر فوكلاند',
+        'common' => 'جزر فوكلاند',
+      ],
+      'bre' => [
+        'official' => 'Inizi Maloù',
+        'common' => 'Inizi Maloù',
+      ],
       'ces' => [
         'official' => 'Falklandské ostrovy',
         'common' => 'Falklandy',
+      ],
+      'cym' => [
+        'official' => 'Falkland Islands',
+        'common' => 'Falkland Islands',
       ],
       'deu' => [
         'official' => 'Falklandinseln',
@@ -12050,6 +13716,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Falkland-szigetek',
         'common' => 'Falkland-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Falkland',
+        'common' => 'Kepulauan Falkland atau Kepulauan Malvinas',
       ],
       'ita' => [
         'official' => 'Isole Falkland',
@@ -12091,9 +13761,17 @@ class CountriesDataSource
         'official' => 'islas Malvinas',
         'common' => 'Islas Malvinas',
       ],
+      'srp' => [
+        'official' => 'Фолкландска Острва',
+        'common' => 'Фолкланди',
+      ],
       'swe' => [
         'official' => 'Falklandsöarna',
         'common' => 'Falklandsöarna',
+      ],
+      'tur' => [
+        'official' => 'Falkland (Malvina) Adaları',
+        'common' => 'Falkland (Malvina) Adaları',
       ],
       'urd' => [
         'official' => 'جزائر فاکلینڈ',
@@ -12150,7 +13828,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -12174,9 +13852,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية الفرنسية',
+        'common' => 'فرنسا',
+      ],
+      'bre' => [
+        'official' => 'Republik Frañs',
+        'common' => 'Frañs',
+      ],
       'ces' => [
         'official' => 'Francouzská republika',
         'common' => 'Francie',
+      ],
+      'cym' => [
+        'official' => 'French Republic',
+        'common' => 'France',
       ],
       'deu' => [
         'official' => 'Französische Republik',
@@ -12201,6 +13891,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Francia Köztársaság',
         'common' => 'Franciaország',
+      ],
+      'ind' => [
+        'official' => 'Republik Prancis',
+        'common' => 'Prancis',
       ],
       'ita' => [
         'official' => 'Repubblica francese',
@@ -12242,9 +13936,17 @@ class CountriesDataSource
         'official' => 'República francés',
         'common' => 'Francia',
       ],
+      'srp' => [
+        'official' => 'Француска Република',
+        'common' => 'Француска',
+      ],
       'swe' => [
         'official' => 'Republiken Frankrike',
         'common' => 'Frankrike',
+      ],
+      'tur' => [
+        'official' => 'Fransa Cumhuriyeti',
+        'common' => 'Fransa',
       ],
       'urd' => [
         'official' => 'جمہوریہ فرانس',
@@ -12270,7 +13972,7 @@ class CountriesDataSource
       6 => 'ESP',
       7 => 'CHE',
     ],
-    'area' => 551695,
+    'area' => 543908,
     'flag' => '🇫🇷',
     'demonyms' => [
       'eng' => [
@@ -12342,9 +14044,21 @@ class CountriesDataSource
       'fao' => 'Faroese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر فارو',
+        'common' => 'جزر فارو',
+      ],
+      'bre' => [
+        'official' => 'Inizi Faero',
+        'common' => 'Inizi Faero',
+      ],
       'ces' => [
         'official' => 'Faerské ostrovy',
         'common' => 'Faerské ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Faroe Islands',
+        'common' => 'Faroe Islands',
       ],
       'deu' => [
         'official' => 'Färöer',
@@ -12369,6 +14083,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Feröer',
         'common' => 'Feröer',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Faroe',
+        'common' => 'Kepulauan Faroe',
       ],
       'ita' => [
         'official' => 'Isole Faroe',
@@ -12410,9 +14128,17 @@ class CountriesDataSource
         'official' => 'Islas Feroe',
         'common' => 'Islas Faroe',
       ],
+      'srp' => [
+        'official' => 'Фарска острва',
+        'common' => 'Фарска острва',
+      ],
       'swe' => [
         'official' => 'Färöarna',
         'common' => 'Färöarna',
+      ],
+      'tur' => [
+        'official' => 'Faroe Adaları',
+        'common' => 'Faroe Adaları',
       ],
       'urd' => [
         'official' => 'جزائر فارو',
@@ -12493,9 +14219,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'ولايات ميكرونيسيا المتحدة',
+        'common' => 'ميكرونيسيا',
+      ],
+      'bre' => [
+        'official' => 'Stadoù Kevreet Mikronezia',
+        'common' => 'Mikronezia',
+      ],
       'ces' => [
         'official' => 'Federativní státy Mikronésie',
         'common' => 'Mikronésie',
+      ],
+      'cym' => [
+        'official' => 'Federated States of Micronesia',
+        'common' => 'Micronesia',
       ],
       'deu' => [
         'official' => 'Föderierte Staaten von Mikronesien',
@@ -12520,6 +14258,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Mikronéziai Szövetségi Államok',
         'common' => 'Mikronéziai Szövetségi Államok',
+      ],
+      'ind' => [
+        'official' => 'Negara Federasi Mikronesia',
+        'common' => 'Mikronesia',
       ],
       'ita' => [
         'official' => 'Stati federati di Micronesia',
@@ -12561,9 +14303,17 @@ class CountriesDataSource
         'official' => 'Estados Federados de Micronesia',
         'common' => 'Micronesia',
       ],
+      'srp' => [
+        'official' => 'Савез Држава Микронезије',
+        'common' => 'Микронезија',
+      ],
       'swe' => [
         'official' => 'Mikronesiska federationen',
         'common' => 'Mikronesiska federationen',
+      ],
+      'tur' => [
+        'official' => 'Mikronezya Federal Devletleri',
+        'common' => 'Mikronezya',
       ],
       'urd' => [
         'official' => 'ریاستہائے وفاقیہ مائکرونیشیا',
@@ -12644,8 +14394,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الغابون',
+        'common' => 'الغابون',
+      ],
+      'bre' => [
+        'official' => 'Republik Gabonat',
+        'common' => 'Gabon',
+      ],
       'ces' => [
         'official' => 'Gabonská republika',
+        'common' => 'Gabon',
+      ],
+      'cym' => [
+        'official' => 'Gabonese Republic',
         'common' => 'Gabon',
       ],
       'deu' => [
@@ -12670,6 +14432,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Gaboni Köztársaság',
+        'common' => 'Gabon',
+      ],
+      'ind' => [
+        'official' => 'Republik Gabon',
         'common' => 'Gabon',
       ],
       'ita' => [
@@ -12712,8 +14478,16 @@ class CountriesDataSource
         'official' => 'República de Gabón',
         'common' => 'Gabón',
       ],
+      'srp' => [
+        'official' => 'Габонска Република',
+        'common' => 'Габон',
+      ],
       'swe' => [
         'official' => 'Republiken Gabon',
+        'common' => 'Gabon',
+      ],
+      'tur' => [
+        'official' => 'Gabon Cumhuriyeti',
         'common' => 'Gabon',
       ],
       'urd' => [
@@ -12798,9 +14572,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية',
+        'common' => 'المملكة المتحدة',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon',
+        'common' => 'Rouantelezh-Unanet',
+      ],
       'ces' => [
         'official' => 'Spojené království Velké Británie a Severního Irska',
         'common' => 'Spojené království',
+      ],
+      'cym' => [
+        'official' => 'United Kingdom of Great Britain and Northern Ireland',
+        'common' => 'United Kingdom',
       ],
       'deu' => [
         'official' => 'Vereinigtes Königreich Großbritannien und Nordirland',
@@ -12825,6 +14611,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Nagy-Britannia és Észak-Írország Egyesült Királysága',
         'common' => 'Egyesült Királyság',
+      ],
+      'ind' => [
+        'official' => 'Perserikatan Kerajaan Britania Raya dan Irlandia Utara',
+        'common' => 'Inggris',
       ],
       'ita' => [
         'official' => 'Regno Unito di Gran Bretagna e Irlanda del Nord',
@@ -12866,9 +14656,17 @@ class CountriesDataSource
         'official' => 'Reino Unido de Gran Bretaña e Irlanda del Norte',
         'common' => 'Reino Unido',
       ],
+      'srp' => [
+        'official' => 'Уједињено Краљевство Велике Британије и Северне Ирске',
+        'common' => 'Уједињено Краљевство',
+      ],
       'swe' => [
         'official' => 'Förenade konungariket Storbritannien och Nordirland',
         'common' => 'Storbritannien',
+      ],
+      'tur' => [
+        'official' => 'Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı',
+        'common' => 'Birleşik Krallık',
       ],
       'urd' => [
         'official' => 'مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ',
@@ -12887,7 +14685,7 @@ class CountriesDataSource
     'borders' => [
       0 => 'IRL',
     ],
-    'area' => 242900,
+    'area' => 244376,
     'flag' => '🇬🇧',
     'demonyms' => [
       'eng' => [
@@ -12949,9 +14747,21 @@ class CountriesDataSource
       'kat' => 'Georgian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جورجيا',
+        'common' => 'جورجيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Jorjia',
+        'common' => 'Jorjia',
+      ],
       'ces' => [
         'official' => 'Gruzie',
         'common' => 'Gruzie',
+      ],
+      'cym' => [
+        'official' => 'Georgia',
+        'common' => 'Georgia',
       ],
       'deu' => [
         'official' => 'Georgien',
@@ -12976,6 +14786,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Grúzia',
         'common' => 'Grúzia',
+      ],
+      'ind' => [
+        'official' => 'Georgia',
+        'common' => 'Georgia',
       ],
       'ita' => [
         'official' => 'Georgia',
@@ -13017,9 +14831,17 @@ class CountriesDataSource
         'official' => 'Georgia',
         'common' => 'Georgia',
       ],
+      'srp' => [
+        'official' => 'Грузија',
+        'common' => 'Грузија',
+      ],
       'swe' => [
         'official' => 'Georgien',
         'common' => 'Georgien',
+      ],
+      'tur' => [
+        'official' => 'Gürcistan',
+        'common' => 'Gürcistan',
       ],
       'urd' => [
         'official' => 'جارجیا',
@@ -13118,8 +14940,20 @@ class CountriesDataSource
       'nfr' => 'Guernésiais',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'غيرنزي',
+        'common' => 'غيرنزي',
+      ],
+      'bre' => [
+        'official' => 'Gwernenez',
+        'common' => 'Gwernenez',
+      ],
       'ces' => [
         'official' => 'Rychtářství Guernsey',
+        'common' => 'Guernsey',
+      ],
+      'cym' => [
+        'official' => 'Bailiwick of Guernsey',
         'common' => 'Guernsey',
       ],
       'deu' => [
@@ -13144,6 +14978,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Guernsey',
+        'common' => 'Guernsey',
+      ],
+      'ind' => [
+        'official' => 'Bailiwick Guernsey',
         'common' => 'Guernsey',
       ],
       'ita' => [
@@ -13186,8 +15024,16 @@ class CountriesDataSource
         'official' => 'Bailía de Guernsey',
         'common' => 'Guernsey',
       ],
+      'srp' => [
+        'official' => 'Бејливик Гернзи',
+        'common' => 'Гернзи',
+      ],
       'swe' => [
         'official' => 'Guernsey',
+        'common' => 'Guernsey',
+      ],
+      'tur' => [
+        'official' => 'Guernsey Muhafızlığı',
         'common' => 'Guernsey',
       ],
       'urd' => [
@@ -13267,8 +15113,20 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية غانا',
+        'common' => 'غانا',
+      ],
+      'bre' => [
+        'official' => 'Republik Ghana',
+        'common' => 'Ghana',
+      ],
       'ces' => [
         'official' => 'Ghanská republika',
+        'common' => 'Ghana',
+      ],
+      'cym' => [
+        'official' => 'Republic of Ghana',
         'common' => 'Ghana',
       ],
       'deu' => [
@@ -13294,6 +15152,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ghánai Köztársaság',
         'common' => 'Ghána',
+      ],
+      'ind' => [
+        'official' => 'Republik Gana',
+        'common' => 'Gana',
       ],
       'ita' => [
         'official' => 'Repubblica del Ghana',
@@ -13335,9 +15197,17 @@ class CountriesDataSource
         'official' => 'República de Ghana',
         'common' => 'Ghana',
       ],
+      'srp' => [
+        'official' => 'Република Гана',
+        'common' => 'Гана',
+      ],
       'swe' => [
         'official' => 'Republiken Ghana',
         'common' => 'Ghana',
+      ],
+      'tur' => [
+        'official' => 'Gana Cumhuriyeti',
+        'common' => 'Gana',
       ],
       'urd' => [
         'official' => 'جمہوریہ گھانا',
@@ -13419,7 +15289,19 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جبل طارق',
+        'common' => 'جبل طارق',
+      ],
+      'bre' => [
+        'official' => 'Jibraltar',
+        'common' => 'Jibraltar',
+      ],
       'ces' => [
+        'official' => 'Gibraltar',
+        'common' => 'Gibraltar',
+      ],
+      'cym' => [
         'official' => 'Gibraltar',
         'common' => 'Gibraltar',
       ],
@@ -13446,6 +15328,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Gibraltár',
         'common' => 'Gibraltár',
+      ],
+      'ind' => [
+        'official' => 'Gibraltar',
+        'common' => 'Gibraltar',
       ],
       'ita' => [
         'official' => 'Gibilterra',
@@ -13487,9 +15373,17 @@ class CountriesDataSource
         'official' => 'Gibraltar',
         'common' => 'Gibraltar',
       ],
+      'srp' => [
+        'official' => 'Гибралтар',
+        'common' => 'Гибралтар',
+      ],
       'swe' => [
         'official' => 'Gibraltar',
         'common' => 'Gibraltar',
+      ],
+      'tur' => [
+        'official' => 'Cebelitarık',
+        'common' => 'Cebelitarık',
       ],
       'urd' => [
         'official' => 'جبل الطارق',
@@ -13571,8 +15465,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية غينيا',
+        'common' => 'غينيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Ginea',
+        'common' => 'Ginea',
+      ],
       'ces' => [
         'official' => 'Guinejská republika',
+        'common' => 'Guinea',
+      ],
+      'cym' => [
+        'official' => 'Republic of Guinea',
         'common' => 'Guinea',
       ],
       'deu' => [
@@ -13598,6 +15504,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Guineai Köztársaság',
         'common' => 'Guinea',
+      ],
+      'ind' => [
+        'official' => 'Republik Ginea',
+        'common' => 'Ginea',
       ],
       'ita' => [
         'official' => 'Repubblica di Guinea',
@@ -13639,9 +15549,17 @@ class CountriesDataSource
         'official' => 'República de Guinea',
         'common' => 'Guinea',
       ],
+      'srp' => [
+        'official' => 'Кооперативна Република Гвајана',
+        'common' => 'Гвајана',
+      ],
       'swe' => [
         'official' => 'Republiken Guinea',
         'common' => 'Guinea',
+      ],
+      'tur' => [
+        'official' => 'Gine Cumhuriyeti',
+        'common' => 'Gine',
       ],
       'urd' => [
         'official' => 'جمہوریہ گنی',
@@ -13704,7 +15622,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -13727,7 +15645,19 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'غوادلوب',
+        'common' => 'غوادلوب',
+      ],
+      'bre' => [
+        'official' => 'Gwadeloup',
+        'common' => 'Gwadeloup',
+      ],
       'ces' => [
+        'official' => 'Guadeloupe',
+        'common' => 'Guadeloupe',
+      ],
+      'cym' => [
         'official' => 'Guadeloupe',
         'common' => 'Guadeloupe',
       ],
@@ -13752,6 +15682,10 @@ class CountriesDataSource
         'common' => 'Gvadalupa',
       ],
       'hun' => [
+        'official' => 'Guadeloupe',
+        'common' => 'Guadeloupe',
+      ],
+      'ind' => [
         'official' => 'Guadeloupe',
         'common' => 'Guadeloupe',
       ],
@@ -13795,7 +15729,15 @@ class CountriesDataSource
         'official' => 'Guadalupe',
         'common' => 'Guadalupe',
       ],
+      'srp' => [
+        'official' => 'Гваделуп',
+        'common' => 'Гваделуп',
+      ],
       'swe' => [
+        'official' => 'Guadeloupe',
+        'common' => 'Guadeloupe',
+      ],
+      'tur' => [
         'official' => 'Guadeloupe',
         'common' => 'Guadeloupe',
       ],
@@ -13877,9 +15819,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية غامبيا',
+        'common' => 'غامبيا',
+      ],
+      'bre' => [
+        'official' => 'Republik islamek ar Gambia',
+        'common' => 'Gambia',
+      ],
       'ces' => [
         'official' => 'Gambijská republika',
         'common' => 'Gambie',
+      ],
+      'cym' => [
+        'official' => 'Republic of the Gambia',
+        'common' => 'Gambia',
       ],
       'deu' => [
         'official' => 'Republik Gambia',
@@ -13903,6 +15857,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Gambiai Köztársaság',
+        'common' => 'Gambia',
+      ],
+      'ind' => [
+        'official' => 'Republik Gambia',
         'common' => 'Gambia',
       ],
       'ita' => [
@@ -13945,9 +15903,17 @@ class CountriesDataSource
         'official' => 'República de Gambia',
         'common' => 'Gambia',
       ],
+      'srp' => [
+        'official' => 'Република Гамбија',
+        'common' => 'Гамбија',
+      ],
       'swe' => [
         'official' => 'Republiken Gambia',
         'common' => 'Gambia',
+      ],
+      'tur' => [
+        'official' => 'Gambiya Cumhuriyeti',
+        'common' => 'Gambiya',
       ],
       'urd' => [
         'official' => 'جمہوریہ گیمبیا',
@@ -14006,7 +15972,7 @@ class CountriesDataSource
     'cioc' => 'GBS',
     'independent' => true,
     'status' => 'officially-assigned',
-    'unMember' => true,
+    'unMember' => false,
     'currencies' => [
       'XOF' => [
         'name' => 'West African CFA franc',
@@ -14034,8 +16000,20 @@ class CountriesDataSource
       'pov' => 'Upper Guinea Creole',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية غينيا بيساو',
+        'common' => 'غينيا بيساو',
+      ],
+      'bre' => [
+        'official' => 'Republik Ginea-Bissau',
+        'common' => 'Ginea-Bissau',
+      ],
       'ces' => [
         'official' => 'Republika Guinea-Bissau',
+        'common' => 'Guinea-Bissau',
+      ],
+      'cym' => [
+        'official' => 'Republic of Guinea-Bissau',
         'common' => 'Guinea-Bissau',
       ],
       'deu' => [
@@ -14061,6 +16039,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Bissau-Guineai Köztársaság',
         'common' => 'Bissau-Guinea',
+      ],
+      'ind' => [
+        'official' => 'Republik Ginea dan Bisau',
+        'common' => 'Ginea dan Bisau',
       ],
       'ita' => [
         'official' => 'Repubblica di Guinea-Bissau',
@@ -14102,9 +16084,17 @@ class CountriesDataSource
         'official' => 'República de Guinea-Bissau',
         'common' => 'Guinea-Bisáu',
       ],
+      'srp' => [
+        'official' => 'Република Гвинеја Бисао',
+        'common' => 'Гвинеја Бисао',
+      ],
       'swe' => [
         'official' => 'Republiken Guinea-Bissau',
         'common' => 'Guinea-Bissau',
+      ],
+      'tur' => [
+        'official' => 'Gine-Bissau Cumhuriyeti',
+        'common' => 'Gine-Bissau',
       ],
       'urd' => [
         'official' => 'جمہوریہ گنی بساؤ',
@@ -14199,9 +16189,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية غينيا الاستوائية',
+        'common' => 'غينيا الاستوائية',
+      ],
+      'bre' => [
+        'official' => 'Republik Ginea ar C\'heheder',
+        'common' => 'Ginea ar C\'heheder',
+      ],
       'ces' => [
         'official' => 'Republika Rovníková Guinea',
         'common' => 'Rovníková Guinea',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Gini Gyhydeddol',
+        'common' => 'Gini Gyhydeddol',
       ],
       'deu' => [
         'official' => 'Republik Äquatorialguinea',
@@ -14226,6 +16228,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Egyenlítői-Guinea-i Köztársaság',
         'common' => 'Egyenlítői-Guinea',
+      ],
+      'ind' => [
+        'official' => 'Republik Ginea Ekuator',
+        'common' => 'Ginea Ekuator',
       ],
       'ita' => [
         'official' => 'Repubblica della Guinea Equatoriale',
@@ -14267,9 +16273,17 @@ class CountriesDataSource
         'official' => 'República de Guinea Ecuatorial',
         'common' => 'Guinea Ecuatorial',
       ],
+      'srp' => [
+        'official' => 'Република Екваторијална Гвинеја',
+        'common' => 'Екваторијална Гвинеја',
+      ],
       'swe' => [
         'official' => 'Republiken Ekvatorialguinea',
         'common' => 'Ekvatorialguinea',
+      ],
+      'tur' => [
+        'official' => 'Ekvator Ginesi Cumhuriyeti',
+        'common' => 'Ekvator Ginesi',
       ],
       'urd' => [
         'official' => 'جمہوریہ استوائی گنی',
@@ -14328,7 +16342,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -14353,9 +16367,21 @@ class CountriesDataSource
       'ell' => 'Greek',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية الهيلينية',
+        'common' => 'اليونان',
+      ],
+      'bre' => [
+        'official' => 'Republik Hellenek',
+        'common' => 'Gres',
+      ],
       'ces' => [
         'official' => 'Řecká republika',
         'common' => 'Řecko',
+      ],
+      'cym' => [
+        'official' => 'Hellenic Republic',
+        'common' => 'Greece',
       ],
       'deu' => [
         'official' => 'Hellenische Republik',
@@ -14380,6 +16406,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Görög Köztársaság',
         'common' => 'Görögország',
+      ],
+      'ind' => [
+        'official' => 'Republik Yunani',
+        'common' => 'Yunani',
       ],
       'ita' => [
         'official' => 'Repubblica ellenica',
@@ -14421,9 +16451,17 @@ class CountriesDataSource
         'official' => 'República Helénica',
         'common' => 'Grecia',
       ],
+      'srp' => [
+        'official' => 'Хеленска Република',
+        'common' => 'Грчка',
+      ],
       'swe' => [
         'official' => 'Republiken Grekland',
         'common' => 'Grekland',
+      ],
+      'tur' => [
+        'official' => 'Helen Cumhuriyeti',
+        'common' => 'Yunanistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ ہیلینیہ',
@@ -14506,7 +16544,19 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'غرينادا',
+        'common' => 'غرينادا',
+      ],
+      'bre' => [
+        'official' => 'Grenada',
+        'common' => 'Grenada',
+      ],
       'ces' => [
+        'official' => 'Grenada',
+        'common' => 'Grenada',
+      ],
+      'cym' => [
         'official' => 'Grenada',
         'common' => 'Grenada',
       ],
@@ -14531,6 +16581,10 @@ class CountriesDataSource
         'common' => 'Grenada',
       ],
       'hun' => [
+        'official' => 'Grenada',
+        'common' => 'Grenada',
+      ],
+      'ind' => [
         'official' => 'Grenada',
         'common' => 'Grenada',
       ],
@@ -14574,7 +16628,15 @@ class CountriesDataSource
         'official' => 'Granada',
         'common' => 'Grenada',
       ],
+      'srp' => [
+        'official' => 'Гренада',
+        'common' => 'Гренада',
+      ],
       'swe' => [
+        'official' => 'Grenada',
+        'common' => 'Grenada',
+      ],
+      'tur' => [
         'official' => 'Grenada',
         'common' => 'Grenada',
       ],
@@ -14656,9 +16718,21 @@ class CountriesDataSource
       'kal' => 'Greenlandic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جرينلاند',
+        'common' => 'جرينلاند',
+      ],
+      'bre' => [
+        'official' => 'Greunland',
+        'common' => 'Greunland',
+      ],
       'ces' => [
         'official' => 'Grónsko',
         'common' => 'Grónsko',
+      ],
+      'cym' => [
+        'official' => 'Greenland',
+        'common' => 'Greenland',
       ],
       'deu' => [
         'official' => 'Grönland',
@@ -14683,6 +16757,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Grönland',
         'common' => 'Grönland',
+      ],
+      'ind' => [
+        'official' => 'Grinlandia',
+        'common' => 'Grinlandia',
       ],
       'ita' => [
         'official' => 'Groenlandia',
@@ -14724,7 +16802,15 @@ class CountriesDataSource
         'official' => 'Groenlandia',
         'common' => 'Groenlandia',
       ],
+      'srp' => [
+        'official' => 'Гренланд',
+        'common' => 'Гренланд',
+      ],
       'swe' => [
+        'official' => 'Grönland',
+        'common' => 'Grönland',
+      ],
+      'tur' => [
         'official' => 'Grönland',
         'common' => 'Grönland',
       ],
@@ -14805,8 +16891,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية غواتيمالا',
+        'common' => 'غواتيمالا',
+      ],
+      'bre' => [
+        'official' => 'Republik Guatemala',
+        'common' => 'Guatemala',
+      ],
       'ces' => [
         'official' => 'Republika Guatemala',
+        'common' => 'Guatemala',
+      ],
+      'cym' => [
+        'official' => 'Republic of Guatemala',
         'common' => 'Guatemala',
       ],
       'deu' => [
@@ -14831,6 +16929,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Guatemalai Köztársaság',
+        'common' => 'Guatemala',
+      ],
+      'ind' => [
+        'official' => 'Republik Guatemala',
         'common' => 'Guatemala',
       ],
       'ita' => [
@@ -14873,8 +16975,16 @@ class CountriesDataSource
         'official' => 'República de Guatemala',
         'common' => 'Guatemala',
       ],
+      'srp' => [
+        'official' => 'Република Гватемала',
+        'common' => 'Гватемала',
+      ],
       'swe' => [
         'official' => 'Republiken Guatemala',
+        'common' => 'Guatemala',
+      ],
+      'tur' => [
+        'official' => 'Guatemala Cumhuriyeti',
         'common' => 'Guatemala',
       ],
       'urd' => [
@@ -14936,7 +17046,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -14960,9 +17070,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'غويانا الفرنسية',
+        'common' => 'غويانا',
+      ],
+      'bre' => [
+        'official' => 'Gwiana C\'hall',
+        'common' => 'Gwiana C\'hall',
+      ],
       'ces' => [
         'official' => 'Francouzská Guyana',
         'common' => 'Francouzská Guyana',
+      ],
+      'cym' => [
+        'official' => 'Guiana',
+        'common' => 'French Guiana',
       ],
       'deu' => [
         'official' => 'Französisch-Guayana',
@@ -14987,6 +17109,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Francia Guyana',
         'common' => 'Francia Guyana',
+      ],
+      'ind' => [
+        'official' => 'Guyana Prancis',
+        'common' => 'Guyana Prancis',
       ],
       'ita' => [
         'official' => 'Guiana',
@@ -15028,9 +17154,17 @@ class CountriesDataSource
         'official' => 'Guayana',
         'common' => 'Guayana Francesa',
       ],
+      'srp' => [
+        'official' => 'Француска Гвајана',
+        'common' => 'Француска Гвајана',
+      ],
       'swe' => [
         'official' => 'Franska Guyana',
         'common' => 'Franska Guyana',
+      ],
+      'tur' => [
+        'official' => 'Fransız Guyanası',
+        'common' => 'Fransız Guyanası',
       ],
       'urd' => [
         'official' => 'گیانا',
@@ -15122,7 +17256,19 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'غوام',
+        'common' => 'غوام',
+      ],
+      'bre' => [
+        'official' => 'Guam',
+        'common' => 'Guam',
+      ],
       'ces' => [
+        'official' => 'Guam',
+        'common' => 'Guam',
+      ],
+      'cym' => [
         'official' => 'Guam',
         'common' => 'Guam',
       ],
@@ -15147,6 +17293,10 @@ class CountriesDataSource
         'common' => 'Guam',
       ],
       'hun' => [
+        'official' => 'Guam',
+        'common' => 'Guam',
+      ],
+      'ind' => [
         'official' => 'Guam',
         'common' => 'Guam',
       ],
@@ -15190,8 +17340,16 @@ class CountriesDataSource
         'official' => 'Guam',
         'common' => 'Guam',
       ],
+      'srp' => [
+        'official' => 'Гуам',
+        'common' => 'Гуам',
+      ],
       'swe' => [
         'official' => 'Guam',
+        'common' => 'Guam',
+      ],
+      'tur' => [
+        'official' => 'Guam Toprağı',
         'common' => 'Guam',
       ],
       'urd' => [
@@ -15272,8 +17430,20 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية غيانا التعاونية',
+        'common' => 'غيانا',
+      ],
+      'bre' => [
+        'official' => 'Republik Kevelourel Gwiana',
+        'common' => 'Guyana',
+      ],
       'ces' => [
         'official' => 'Kooperativní republika Guyana',
+        'common' => 'Guyana',
+      ],
+      'cym' => [
+        'official' => 'Co-operative Republic of Guyana',
         'common' => 'Guyana',
       ],
       'deu' => [
@@ -15298,6 +17468,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Guyanai Szövetkezeti Köztársaság',
+        'common' => 'Guyana',
+      ],
+      'ind' => [
+        'official' => 'Republik Kooperatif Guyana',
         'common' => 'Guyana',
       ],
       'ita' => [
@@ -15340,8 +17514,16 @@ class CountriesDataSource
         'official' => 'República Cooperativa de Guyana',
         'common' => 'Guyana',
       ],
+      'srp' => [
+        'official' => 'Кооперативна Република Гвајана',
+        'common' => 'Гвајана',
+      ],
       'swe' => [
         'official' => 'Kooperativa republiken Guyana',
+        'common' => 'Guyana',
+      ],
+      'tur' => [
+        'official' => 'Guyana Kooperatif Cumhuriyeti',
         'common' => 'Guyana',
       ],
       'urd' => [
@@ -15430,9 +17612,21 @@ class CountriesDataSource
       'zho' => 'Chinese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'منطقة هونغ كونغ الادارية التابعة لجمهورية الصين الشعبية',
+        'common' => 'هونغ كونغ',
+      ],
+      'bre' => [
+        'official' => 'Rannvro velestradurel arbennik Hong Kong eus Republik pobl Sina',
+        'common' => 'Hong Kong',
+      ],
       'ces' => [
         'official' => 'Zvláštní administrativní oblast Čínské lidové republiky Hongkong',
         'common' => 'Hongkong',
+      ],
+      'cym' => [
+        'official' => 'Hong Kong Special Administrative Region of the People\'s Republic of China',
+        'common' => 'Hong Kong',
       ],
       'deu' => [
         'official' => 'Sonderverwaltungszone Hongkong der Volksrepublik China',
@@ -15457,6 +17651,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Hongkong',
         'common' => 'Hongkong',
+      ],
+      'ind' => [
+        'official' => 'Daerah Administratif Khusus Republik Rakyat Tiongkok Hong Kong',
+        'common' => 'Hong Kong',
       ],
       'ita' => [
         'official' => 'Hong Kong Regione amministrativa speciale della Repubblica Popolare Cinese',
@@ -15498,17 +17696,21 @@ class CountriesDataSource
         'official' => 'Hong Kong Región Administrativa Especial de la República Popular China',
         'common' => 'Hong Kong',
       ],
+      'srp' => [
+        'official' => 'Хонгконг специјална административна област Народне Републике Кине',
+        'common' => 'Хонгконг',
+      ],
       'swe' => [
         'official' => 'Hongkong',
         'common' => 'Hongkong',
       ],
+      'tur' => [
+        'official' => 'Çin Halk Cumhuriyeti Hong Kong Özel İdari Bölgesi',
+        'common' => 'Hong Kong',
+      ],
       'urd' => [
         'official' => 'ہانگ کانگ عوامی جمہوریہ چین کا خصوصی انتظامی علاقہ',
         'common' => 'ہانگ کانگ',
-      ],
-      'zho' => [
-        'official' => '中华人民共和国香港特别行政区',
-        'common' => '香港',
       ],
     ],
     'latlng' => [
@@ -15580,9 +17782,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزيرة هيرد وجزر ماكدونالد',
+        'common' => 'جزيرة هيرد وجزر ماكدونالد',
+      ],
+      'bre' => [
+        'official' => 'Enez Heard hag Inizi McDonald',
+        'common' => 'Inizi Heard ha McDonald',
+      ],
       'ces' => [
         'official' => 'Heardův ostrov a McDonaldovy ostrovy',
         'common' => 'Heardův ostrov a McDonaldovy ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Heard Island and McDonald Islands',
+        'common' => 'Heard Island and McDonald Islands',
       ],
       'deu' => [
         'official' => 'Heard und McDonaldinseln',
@@ -15597,7 +17811,7 @@ class CountriesDataSource
         'common' => 'Heard ja McDonaldinsaaret',
       ],
       'fra' => [
-        'official' => 'Îles Heard-et-MacDonald',
+        'official' => 'Des îles Heard et McDonald',
         'common' => 'Îles Heard-et-MacDonald',
       ],
       'hrv' => [
@@ -15607,6 +17821,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Heard-sziget és McDonald-szigetek',
         'common' => 'Heard-sziget és McDonald-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Pulau Heard dan Kepulauan McDonald',
+        'common' => 'Pulau Heard dan Kepulauan McDonald',
       ],
       'ita' => [
         'official' => 'Isole Heard e McDonald',
@@ -15648,9 +17866,17 @@ class CountriesDataSource
         'official' => 'Islas Heard y McDonald',
         'common' => 'Islas Heard y McDonald',
       ],
+      'srp' => [
+        'official' => 'Острва Херд и Макдоналд',
+        'common' => 'Острва Херд и Макдоналд',
+      ],
       'swe' => [
         'official' => 'Heard- och McDonaldöarna',
         'common' => 'Heard- och McDonaldöarna',
+      ],
+      'tur' => [
+        'official' => 'Heard Adası ve McDonald Adaları',
+        'common' => 'Heard Adası ve McDonald Adaları',
       ],
       'urd' => [
         'official' => 'جزیرہ ہرڈ و جزائر مکڈونلڈ',
@@ -15662,8 +17888,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => -53.1,
-      1 => 72.51666666,
+      0 => -53.0818,
+      1 => 73.5042,
     ],
     'landlocked' => false,
     'borders' => [
@@ -15730,8 +17956,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية هندوراس',
+        'common' => 'هندوراس',
+      ],
+      'bre' => [
+        'official' => 'Republik Honduras',
+        'common' => 'Honduras',
+      ],
       'ces' => [
         'official' => 'Honduraská republika',
+        'common' => 'Honduras',
+      ],
+      'cym' => [
+        'official' => 'Republic of Honduras',
         'common' => 'Honduras',
       ],
       'deu' => [
@@ -15756,6 +17994,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Hondurasi Köztársaság',
+        'common' => 'Honduras',
+      ],
+      'ind' => [
+        'official' => 'Republik Honduras',
         'common' => 'Honduras',
       ],
       'ita' => [
@@ -15798,8 +18040,16 @@ class CountriesDataSource
         'official' => 'República de Honduras',
         'common' => 'Honduras',
       ],
+      'srp' => [
+        'official' => 'Република Хондурас',
+        'common' => 'Хондурас',
+      ],
       'swe' => [
         'official' => 'Republiken Honduras',
+        'common' => 'Honduras',
+      ],
+      'tur' => [
+        'official' => 'Honduras Cumhuriyeti',
         'common' => 'Honduras',
       ],
       'urd' => [
@@ -15860,7 +18110,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -15885,9 +18135,21 @@ class CountriesDataSource
       'hrv' => 'Croatian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كرواتيا',
+        'common' => 'كرواتيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Kroatia',
+        'common' => 'Kroatia',
+      ],
       'ces' => [
         'official' => 'Chorvatská republika',
         'common' => 'Chorvatsko',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Croatia',
+        'common' => 'Croatia',
       ],
       'deu' => [
         'official' => 'Republik Kroatien',
@@ -15912,6 +18174,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Horvát Köztársaság',
         'common' => 'Horvátország',
+      ],
+      'ind' => [
+        'official' => 'Republik Kroasia',
+        'common' => 'Kroasia',
       ],
       'ita' => [
         'official' => 'Repubblica di Croazia',
@@ -15953,9 +18219,17 @@ class CountriesDataSource
         'official' => 'República de Croacia',
         'common' => 'Croacia',
       ],
+      'srp' => [
+        'official' => 'Република Хрватска',
+        'common' => 'Хрватска',
+      ],
       'swe' => [
         'official' => 'Republiken Kroatien',
         'common' => 'Kroatien',
+      ],
+      'tur' => [
+        'official' => 'Hırvatistan Cumhuriyeti',
+        'common' => 'Hırvatistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ کرویئشا',
@@ -16047,8 +18321,20 @@ class CountriesDataSource
       'hat' => 'Haitian Creole',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية هايتي',
+        'common' => 'هايتي',
+      ],
+      'bre' => [
+        'official' => 'Republik Haiti',
+        'common' => 'Haiti',
+      ],
       'ces' => [
         'official' => 'Republika Haiti',
+        'common' => 'Haiti',
+      ],
+      'cym' => [
+        'official' => 'Republic of Haiti',
         'common' => 'Haiti',
       ],
       'deu' => [
@@ -16073,6 +18359,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Haiti Köztársaság',
+        'common' => 'Haiti',
+      ],
+      'ind' => [
+        'official' => 'Republik Haiti',
         'common' => 'Haiti',
       ],
       'ita' => [
@@ -16115,8 +18405,16 @@ class CountriesDataSource
         'official' => 'República de Haití',
         'common' => 'Haití',
       ],
+      'srp' => [
+        'official' => 'Република Хаити',
+        'common' => 'Хаити',
+      ],
       'swe' => [
         'official' => 'Republiken Haiti',
+        'common' => 'Haiti',
+      ],
+      'tur' => [
+        'official' => 'Haiti Cumhuriyeti',
         'common' => 'Haiti',
       ],
       'urd' => [
@@ -16197,9 +18495,21 @@ class CountriesDataSource
       'hun' => 'Hungarian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية المجرية',
+        'common' => 'المجر',
+      ],
+      'bre' => [
+        'official' => 'Hungaria',
+        'common' => 'Hungaria',
+      ],
       'ces' => [
         'official' => 'Maďarsko',
         'common' => 'Maďarsko',
+      ],
+      'cym' => [
+        'official' => 'Hungary',
+        'common' => 'Hungary',
       ],
       'deu' => [
         'official' => 'Ungarn',
@@ -16224,6 +18534,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Magyarország',
         'common' => 'Magyarország',
+      ],
+      'ind' => [
+        'official' => 'Hungaria',
+        'common' => 'Hungaria',
       ],
       'ita' => [
         'official' => 'Ungheria',
@@ -16265,9 +18579,17 @@ class CountriesDataSource
         'official' => 'Hungría',
         'common' => 'Hungría',
       ],
+      'srp' => [
+        'official' => 'Мађарска',
+        'common' => 'Мађарска',
+      ],
       'swe' => [
         'official' => 'Ungern',
         'common' => 'Ungern',
+      ],
+      'tur' => [
+        'official' => 'Macaristan',
+        'common' => 'Macaristan',
       ],
       'urd' => [
         'official' => 'مجارستان',
@@ -16355,9 +18677,21 @@ class CountriesDataSource
       'ind' => 'Indonesian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية إندونيسيا',
+        'common' => 'إندونيسيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Indonezia',
+        'common' => 'Indonezia',
+      ],
       'ces' => [
         'official' => 'Indonéská republika',
         'common' => 'Indonésie',
+      ],
+      'cym' => [
+        'official' => 'Republic of Indonesia',
+        'common' => 'Indonesia',
       ],
       'deu' => [
         'official' => 'Republik Indonesien',
@@ -16382,6 +18716,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Indonéz Köztársaság',
         'common' => 'Indonézia',
+      ],
+      'ind' => [
+        'official' => 'Republik Indonesia',
+        'common' => 'Indonesia',
       ],
       'ita' => [
         'official' => 'Repubblica di Indonesia',
@@ -16423,9 +18761,17 @@ class CountriesDataSource
         'official' => 'República de Indonesia',
         'common' => 'Indonesia',
       ],
+      'srp' => [
+        'official' => 'Република Индонезија',
+        'common' => 'Индонезија',
+      ],
       'swe' => [
         'official' => 'Republiken Indonesien',
         'common' => 'Indonesien',
+      ],
+      'tur' => [
+        'official' => 'Endonezya Cumhuriyeti',
+        'common' => 'Endonezya',
       ],
       'urd' => [
         'official' => 'جمہوریہ انڈونیشیا',
@@ -16519,9 +18865,21 @@ class CountriesDataSource
       'glv' => 'Manx',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزيرة مان',
+        'common' => 'جزيرة مان',
+      ],
+      'bre' => [
+        'official' => 'Enez Vanav',
+        'common' => 'Enez Vanav',
+      ],
       'ces' => [
         'official' => 'Ostrov Man',
         'common' => 'Ostrov Man',
+      ],
+      'cym' => [
+        'official' => 'Isle of Man',
+        'common' => 'Isle of Man',
       ],
       'deu' => [
         'official' => 'Isle of Man',
@@ -16546,6 +18904,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Man',
         'common' => 'Man',
+      ],
+      'ind' => [
+        'official' => 'Pulau Man',
+        'common' => 'Pulau Man',
       ],
       'ita' => [
         'official' => 'Isola di Man',
@@ -16587,9 +18949,17 @@ class CountriesDataSource
         'official' => 'Isla de Man',
         'common' => 'Isla de Man',
       ],
+      'srp' => [
+        'official' => 'Острво Мен',
+        'common' => 'Острво Мен',
+      ],
       'swe' => [
         'official' => 'Isle of Man',
         'common' => 'Isle of Man',
+      ],
+      'tur' => [
+        'official' => 'Man Adası',
+        'common' => 'Man Adası',
       ],
       'urd' => [
         'official' => 'آئل آف مین',
@@ -16682,9 +19052,21 @@ class CountriesDataSource
       'tam' => 'Tamil',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الهند',
+        'common' => 'الهند',
+      ],
+      'bre' => [
+        'official' => 'Republik India',
+        'common' => 'India',
+      ],
       'ces' => [
         'official' => 'Indická republika',
         'common' => 'Indie',
+      ],
+      'cym' => [
+        'official' => 'Republic of India',
+        'common' => 'India',
       ],
       'deu' => [
         'official' => 'Republik Indien',
@@ -16708,6 +19090,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Indiai Köztársaság',
+        'common' => 'India',
+      ],
+      'ind' => [
+        'official' => 'Republik India',
         'common' => 'India',
       ],
       'ita' => [
@@ -16750,9 +19136,17 @@ class CountriesDataSource
         'official' => 'República de la India',
         'common' => 'India',
       ],
+      'srp' => [
+        'official' => 'Република Индија',
+        'common' => 'Индија',
+      ],
       'swe' => [
         'official' => 'Republiken Indien',
         'common' => 'Indien',
+      ],
+      'tur' => [
+        'official' => 'Hindistan Cumhuriyeti',
+        'common' => 'Hindistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ بھارت',
@@ -16776,7 +19170,7 @@ class CountriesDataSource
       4 => 'NPL',
       5 => 'PAK',
     ],
-    'area' => 3287590,
+    'area' => 3287263,
     'flag' => '🇮🇳',
     'demonyms' => [
       'eng' => [
@@ -16837,9 +19231,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'إقليم المحيط الهندي البريطاني',
+        'common' => 'إقليم المحيط الهندي البريطاني',
+      ],
+      'bre' => [
+        'official' => 'Tiriad breizhveurat Meurvor Indez',
+        'common' => 'Tiriad breizhveurat Meurvor Indez',
+      ],
       'ces' => [
         'official' => 'Britské indickooceánské území',
         'common' => 'Britské indickooceánské území',
+      ],
+      'cym' => [
+        'official' => 'Tiriogaeth Brydeinig Cefnfor India',
+        'common' => 'Tiriogaeth Brydeinig Cefnfor India',
       ],
       'deu' => [
         'official' => 'Britisches Territorium im Indischen Ozean',
@@ -16865,6 +19271,10 @@ class CountriesDataSource
         'official' => 'Brit Indiai-óceáni Terület',
         'common' => 'Brit Indiai-óceáni Terület',
       ],
+      'ind' => [
+        'official' => 'Wilayah Samudra Hindia Britania Raya',
+        'common' => 'Wilayah Samudra Hindia Britania Raya',
+      ],
       'ita' => [
         'official' => 'Territorio britannico dell\'Oceano Indiano',
         'common' => 'Territorio britannico dell\'oceano indiano',
@@ -16874,8 +19284,8 @@ class CountriesDataSource
         'common' => 'イギリス領インド洋地域',
       ],
       'kor' => [
-        'official' => '인도 공화국',
-        'common' => '인도',
+        'official' => '영국령 인도양 지역',
+        'common' => '영국령 인도양 지역',
       ],
       'nld' => [
         'official' => 'Brits Indische Oceaan Territorium',
@@ -16905,9 +19315,17 @@ class CountriesDataSource
         'official' => 'Territorio Británico del Océano Índico',
         'common' => 'Territorio Británico del Océano Índico',
       ],
+      'srp' => [
+        'official' => 'Британска територија Индијског океана',
+        'common' => 'Британска територија Индијског океана',
+      ],
       'swe' => [
         'official' => 'Brittiska territoriet i Indiska Oceanen',
         'common' => 'Brittiska territoriet i Indiska Oceanen',
+      ],
+      'tur' => [
+        'official' => 'Britanya Hint Okyanusu Toprakları',
+        'common' => 'Britanya Hint Okyanusu Toprakları',
       ],
       'urd' => [
         'official' => 'برطانوی بحرہند خطہ',
@@ -16968,7 +19386,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -16994,9 +19412,21 @@ class CountriesDataSource
       'gle' => 'Irish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية أيرلندا',
+        'common' => 'أيرلندا',
+      ],
+      'bre' => [
+        'official' => 'Republik Iwerzhon',
+        'common' => 'Iwerzhon',
+      ],
       'ces' => [
         'official' => 'Irsko',
         'common' => 'Irsko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Ireland',
+        'common' => 'Ireland',
       ],
       'deu' => [
         'official' => 'Republik Irland',
@@ -17021,6 +19451,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ír Köztársaság',
         'common' => 'Írország',
+      ],
+      'ind' => [
+        'official' => 'Republik Irlandia',
+        'common' => 'Irlandia',
       ],
       'ita' => [
         'official' => 'Repubblica d\'Irlanda',
@@ -17062,9 +19496,17 @@ class CountriesDataSource
         'official' => 'República de Irlanda',
         'common' => 'Irlanda',
       ],
+      'srp' => [
+        'official' => 'Република Ирска',
+        'common' => 'Ирска',
+      ],
       'swe' => [
         'official' => 'Irland',
         'common' => 'Irland',
+      ],
+      'tur' => [
+        'official' => 'İrlanda Cumhuriyeti',
+        'common' => 'İrlanda',
       ],
       'urd' => [
         'official' => 'جمہوریہ جزیرہ آئرلینڈ',
@@ -17148,9 +19590,21 @@ class CountriesDataSource
       'fas' => 'Persian (Farsi)',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية إيران الإسلامية',
+        'common' => 'إيران',
+      ],
+      'bre' => [
+        'official' => 'Republik Islamek Iran',
+        'common' => 'Iran',
+      ],
       'ces' => [
         'official' => 'Islámská republika Írán',
         'common' => 'Írán',
+      ],
+      'cym' => [
+        'official' => 'Islamic Republic of Iran',
+        'common' => 'Iran',
       ],
       'deu' => [
         'official' => 'Islamische Republik Iran',
@@ -17176,6 +19630,10 @@ class CountriesDataSource
         'official' => 'Iráni Iszlám Köztársaság',
         'common' => 'Irán',
       ],
+      'ind' => [
+        'official' => 'Republik Islam Iran',
+        'common' => 'Iran',
+      ],
       'ita' => [
         'official' => 'Repubblica islamica dell\'Iran',
         'common' => 'Iran',
@@ -17191,10 +19649,6 @@ class CountriesDataSource
       'nld' => [
         'official' => 'Islamitische Republiek Iran',
         'common' => 'Iran',
-      ],
-      'per' => [
-        'official' => 'جمهوری اسلامی ایران',
-        'common' => 'ایران',
       ],
       'pol' => [
         'official' => 'Islamska Republika Iranu',
@@ -17216,9 +19670,17 @@ class CountriesDataSource
         'official' => 'República Islámica de Irán',
         'common' => 'Iran',
       ],
+      'srp' => [
+        'official' => 'Исламска Република Иран',
+        'common' => 'Иран',
+      ],
       'swe' => [
         'official' => 'Islamiska republiken Iran',
         'common' => 'Iran',
+      ],
+      'tur' => [
+        'official' => 'İran İslam Cumhuriyeti',
+        'common' => 'İran',
       ],
       'urd' => [
         'official' => 'جمہوریہ ایران',
@@ -17316,9 +19778,21 @@ class CountriesDataSource
       'ckb' => 'Sorani',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية العراق',
+        'common' => 'العراق',
+      ],
+      'bre' => [
+        'official' => 'Republik Irak',
+        'common' => 'Irak',
+      ],
       'ces' => [
         'official' => 'Irácká republika',
         'common' => 'Irák',
+      ],
+      'cym' => [
+        'official' => 'Republic of Iraq',
+        'common' => 'Iraq',
       ],
       'deu' => [
         'official' => 'Republik Irak',
@@ -17342,6 +19816,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Iraki Köztársaság',
+        'common' => 'Irak',
+      ],
+      'ind' => [
+        'official' => 'Republik Irak',
         'common' => 'Irak',
       ],
       'ita' => [
@@ -17384,8 +19862,16 @@ class CountriesDataSource
         'official' => 'República de Irak',
         'common' => 'Irak',
       ],
+      'srp' => [
+        'official' => 'Република Ирак',
+        'common' => 'Ирак',
+      ],
       'swe' => [
         'official' => 'Republiken Irak',
+        'common' => 'Irak',
+      ],
+      'tur' => [
+        'official' => 'Irak Cumhuriyeti',
         'common' => 'Irak',
       ],
       'urd' => [
@@ -17474,9 +19960,21 @@ class CountriesDataSource
       'isl' => 'Icelandic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'آيسلندا',
+        'common' => 'آيسلندا',
+      ],
+      'bre' => [
+        'official' => 'Island',
+        'common' => 'Island',
+      ],
       'ces' => [
         'official' => 'Island',
         'common' => 'Island',
+      ],
+      'cym' => [
+        'official' => 'Iceland',
+        'common' => 'Iceland',
       ],
       'deu' => [
         'official' => 'Island',
@@ -17501,6 +19999,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Izland',
         'common' => 'Izland',
+      ],
+      'ind' => [
+        'official' => 'Republik Islandia',
+        'common' => 'Islandia',
       ],
       'ita' => [
         'official' => 'Islanda',
@@ -17542,9 +20044,17 @@ class CountriesDataSource
         'official' => 'Islandia',
         'common' => 'Islandia',
       ],
+      'srp' => [
+        'official' => 'Исланд',
+        'common' => 'Исланд',
+      ],
       'swe' => [
         'official' => 'Island',
         'common' => 'Island',
+      ],
+      'tur' => [
+        'official' => 'İzlanda',
+        'common' => 'İzlanda',
       ],
       'urd' => [
         'official' => 'آئس لینڈ',
@@ -17630,9 +20140,21 @@ class CountriesDataSource
       'heb' => 'Hebrew',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة إسرائيل',
+        'common' => 'إسرائيل',
+      ],
+      'bre' => [
+        'official' => 'Stad Israel',
+        'common' => 'Israel',
+      ],
       'ces' => [
         'official' => 'Stát Izrael',
         'common' => 'Izrael',
+      ],
+      'cym' => [
+        'official' => 'State of Israel',
+        'common' => 'Israel',
       ],
       'deu' => [
         'official' => 'Staat Israel',
@@ -17698,9 +20220,17 @@ class CountriesDataSource
         'official' => 'Estado de Israel',
         'common' => 'Israel',
       ],
+      'srp' => [
+        'official' => 'Држава Израел',
+        'common' => 'Израел',
+      ],
       'swe' => [
         'official' => 'Staten Israel',
         'common' => 'Israel',
+      ],
+      'tur' => [
+        'official' => 'İsrail Devleti',
+        'common' => 'İsrail',
       ],
       'urd' => [
         'official' => 'ریاستِ اسرائیل',
@@ -17723,7 +20253,7 @@ class CountriesDataSource
       3 => 'PSE',
       4 => 'SYR',
     ],
-    'area' => 20770,
+    'area' => 21937,
     'flag' => '🇮🇱',
     'demonyms' => [
       'eng' => [
@@ -17762,7 +20292,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -17784,11 +20314,24 @@ class CountriesDataSource
     'subregion' => 'Southern Europe',
     'languages' => [
       'ita' => 'Italian',
+      'cat' => 'Catalan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية الإيطالية',
+        'common' => 'إيطاليا',
+      ],
+      'bre' => [
+        'official' => 'Republik Italia',
+        'common' => 'Italia',
+      ],
       'ces' => [
         'official' => 'Italská republika',
         'common' => 'Itálie',
+      ],
+      'cym' => [
+        'official' => 'Italian Republic',
+        'common' => 'Italy',
       ],
       'deu' => [
         'official' => 'Italienische Republik',
@@ -17813,6 +20356,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Olasz Köztársaság',
         'common' => 'Olaszország',
+      ],
+      'ind' => [
+        'official' => 'Republik Italia',
+        'common' => 'Italia',
       ],
       'ita' => [
         'official' => 'Repubblica italiana',
@@ -17854,9 +20401,17 @@ class CountriesDataSource
         'official' => 'República Italiana',
         'common' => 'Italia',
       ],
+      'srp' => [
+        'official' => 'Италијанска Република',
+        'common' => 'Италија',
+      ],
       'swe' => [
         'official' => 'Republiken Italien',
         'common' => 'Italien',
+      ],
+      'tur' => [
+        'official' => 'İtalyan Cumhuriyeti',
+        'common' => 'İtalya',
       ],
       'urd' => [
         'official' => 'جمہوریہ اطالیہ',
@@ -17931,6 +20486,7 @@ class CountriesDataSource
       'root' => '+1',
       'suffixes' => [
         0 => '876',
+        1 => '658',
       ],
     ],
     'capital' => [
@@ -17946,9 +20502,21 @@ class CountriesDataSource
       'jam' => 'Jamaican Patois',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جامايكا',
+        'common' => 'جامايكا',
+      ],
+      'bre' => [
+        'official' => 'Jamaika',
+        'common' => 'Jamaika',
+      ],
       'ces' => [
         'official' => 'Jamajka',
         'common' => 'Jamajka',
+      ],
+      'cym' => [
+        'official' => 'Jamaica',
+        'common' => 'Jamaica',
       ],
       'deu' => [
         'official' => 'Jamaika',
@@ -17973,6 +20541,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Jamaica',
         'common' => 'Jamaica',
+      ],
+      'ind' => [
+        'official' => 'Jamaika',
+        'common' => 'Jamaika',
       ],
       'ita' => [
         'official' => 'Giamaica',
@@ -18014,9 +20586,17 @@ class CountriesDataSource
         'official' => 'Jamaica',
         'common' => 'Jamaica',
       ],
+      'srp' => [
+        'official' => 'Јамајка',
+        'common' => 'Јамајка',
+      ],
       'swe' => [
         'official' => 'Jamaica',
         'common' => 'Jamaica',
+      ],
+      'tur' => [
+        'official' => 'Jamaika',
+        'common' => 'Jamaika',
       ],
       'urd' => [
         'official' => 'جمیکا',
@@ -18048,6 +20628,7 @@ class CountriesDataSource
     ],
     'callingCodes' => [
       0 => '+1876',
+      1 => '+1658',
     ],
   ],
   114 => [
@@ -18112,8 +20693,20 @@ class CountriesDataSource
       'nrf' => 'Jèrriais',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جيرزي',
+        'common' => 'جيرزي',
+      ],
+      'bre' => [
+        'official' => 'Jerzenez',
+        'common' => 'Jerzenez',
+      ],
       'ces' => [
         'official' => 'Rychtářství Jersey',
+        'common' => 'Jersey',
+      ],
+      'cym' => [
+        'official' => 'Bailiwick of Jersey',
         'common' => 'Jersey',
       ],
       'deu' => [
@@ -18138,6 +20731,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Jersey',
+        'common' => 'Jersey',
+      ],
+      'ind' => [
+        'official' => 'Bailiwick Jersey',
         'common' => 'Jersey',
       ],
       'ita' => [
@@ -18180,7 +20777,15 @@ class CountriesDataSource
         'official' => 'Bailía de Jersey',
         'common' => 'Jersey',
       ],
+      'srp' => [
+        'official' => 'Џерзи',
+        'common' => 'Џерзи',
+      ],
       'swe' => [
+        'official' => 'Jersey',
+        'common' => 'Jersey',
+      ],
+      'tur' => [
         'official' => 'Jersey',
         'common' => 'Jersey',
       ],
@@ -18264,9 +20869,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'المملكة الأردنية الهاشمية',
+        'common' => 'الأردن',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh hachemit Jordania',
+        'common' => 'Jordania',
+      ],
       'ces' => [
         'official' => 'Jordánské hášimovské království',
         'common' => 'Jordánsko',
+      ],
+      'cym' => [
+        'official' => 'Hashemite Kingdom of Jordan',
+        'common' => 'Jordan',
       ],
       'deu' => [
         'official' => 'Haschemitisches Königreich Jordanien',
@@ -18291,6 +20908,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Jordánia',
         'common' => 'Jordánia',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Hasyimiyah Yordania',
+        'common' => 'Yordania',
       ],
       'ita' => [
         'official' => 'Regno hascemita di Giordania',
@@ -18332,9 +20953,17 @@ class CountriesDataSource
         'official' => 'Reino Hachemita de Jordania',
         'common' => 'Jordania',
       ],
+      'srp' => [
+        'official' => 'Хашемитска Краљевина Јордан',
+        'common' => 'Јордан',
+      ],
       'swe' => [
         'official' => 'Hashimitiska kungadömet Jordanien',
         'common' => 'Jordanien',
+      ],
+      'tur' => [
+        'official' => 'Ürdün Hâşimi Krallığı',
+        'common' => 'Ürdün',
       ],
       'urd' => [
         'official' => 'ھاشمی مملکتِ اردن',
@@ -18421,9 +21050,21 @@ class CountriesDataSource
       'jpn' => 'Japanese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'اليابان',
+        'common' => 'اليابان',
+      ],
+      'bre' => [
+        'official' => 'Japan',
+        'common' => 'Japan',
+      ],
       'ces' => [
         'official' => 'Japonsko',
         'common' => 'Japonsko',
+      ],
+      'cym' => [
+        'official' => 'Japan',
+        'common' => 'Japan',
       ],
       'deu' => [
         'official' => 'Japan',
@@ -18448,6 +21089,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Japán',
         'common' => 'Japán',
+      ],
+      'ind' => [
+        'official' => 'Jepang',
+        'common' => 'Jepang',
       ],
       'ita' => [
         'official' => 'Giappone',
@@ -18489,9 +21134,17 @@ class CountriesDataSource
         'official' => 'Japón',
         'common' => 'Japón',
       ],
+      'srp' => [
+        'official' => 'Јапан',
+        'common' => 'Јапан',
+      ],
       'swe' => [
         'official' => 'Japan',
         'common' => 'Japan',
+      ],
+      'tur' => [
+        'official' => 'Japonya',
+        'common' => 'Japonya',
       ],
       'urd' => [
         'official' => 'جاپان',
@@ -18565,7 +21218,7 @@ class CountriesDataSource
       ],
     ],
     'capital' => [
-      0 => 'Nur-Sultan',
+      0 => 'Astana',
     ],
     'altSpellings' => [
       0 => 'KZ',
@@ -18584,9 +21237,21 @@ class CountriesDataSource
       'rus' => 'Russian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كازاخستان',
+        'common' => 'كازاخستان',
+      ],
+      'bre' => [
+        'official' => 'Republik Kazakstan',
+        'common' => 'Kazakstan',
+      ],
       'ces' => [
         'official' => 'Republika Kazachstán',
         'common' => 'Kazachstán',
+      ],
+      'cym' => [
+        'official' => 'Republic of Kazakhstan',
+        'common' => 'Kazakhstan',
       ],
       'deu' => [
         'official' => 'Republik Kasachstan',
@@ -18611,6 +21276,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kazah Köztársaság',
         'common' => 'Kazahsztán',
+      ],
+      'ind' => [
+        'official' => 'Republik Kazakstan',
+        'common' => 'Kazakstan',
       ],
       'ita' => [
         'official' => 'Repubblica del Kazakhstan',
@@ -18652,9 +21321,17 @@ class CountriesDataSource
         'official' => 'República de Kazajstán',
         'common' => 'Kazajistán',
       ],
+      'srp' => [
+        'official' => 'Република Казахстан',
+        'common' => 'Казахстан',
+      ],
       'swe' => [
         'official' => 'Republiken Kazakstan',
         'common' => 'Kazakstan',
+      ],
+      'tur' => [
+        'official' => 'Kazakistan Cumhuriyeti',
+        'common' => 'Kazakistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ قازقستان',
@@ -18666,8 +21343,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => 48,
-      1 => 68,
+      0 => 48.0196,
+      1 => 66.9237,
     ],
     'landlocked' => true,
     'borders' => [
@@ -18746,9 +21423,21 @@ class CountriesDataSource
       'swa' => 'Swahili',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كينيا',
+        'common' => 'كينيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Kenya',
+        'common' => 'Kenya',
+      ],
       'ces' => [
         'official' => 'Keňská republika',
         'common' => 'Keňa',
+      ],
+      'cym' => [
+        'official' => 'Republic of Kenya',
+        'common' => 'Kenya',
       ],
       'deu' => [
         'official' => 'Republik Kenia',
@@ -18772,6 +21461,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Kenyai Köztársaság',
+        'common' => 'Kenya',
+      ],
+      'ind' => [
+        'official' => 'Republik Kenya',
         'common' => 'Kenya',
       ],
       'ita' => [
@@ -18814,8 +21507,16 @@ class CountriesDataSource
         'official' => 'República de Kenya',
         'common' => 'Kenia',
       ],
+      'srp' => [
+        'official' => 'Република Кенија',
+        'common' => 'Кенија',
+      ],
       'swe' => [
         'official' => 'Republiken Kenya',
+        'common' => 'Kenya',
+      ],
+      'tur' => [
+        'official' => 'Kenya Cumhuriyeti',
         'common' => 'Kenya',
       ],
       'urd' => [
@@ -18909,9 +21610,21 @@ class CountriesDataSource
       'rus' => 'Russian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية القيرغيزية',
+        'common' => 'قيرغيزستان',
+      ],
+      'bre' => [
+        'official' => 'Republik Kirgiz',
+        'common' => 'Kirgizstan',
+      ],
       'ces' => [
         'official' => 'Kyrgyzská republika',
         'common' => 'Kyrgyzstán',
+      ],
+      'cym' => [
+        'official' => 'Kyrgyz Republic',
+        'common' => 'Kyrgyzstan',
       ],
       'deu' => [
         'official' => 'Kirgisische Republik',
@@ -18936,6 +21649,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kirgiz Köztársaság',
         'common' => 'Kirgizisztán',
+      ],
+      'ind' => [
+        'official' => 'Republik Kirgistan',
+        'common' => 'Kirgistan',
       ],
       'ita' => [
         'official' => 'Kirghizistan',
@@ -18977,9 +21694,17 @@ class CountriesDataSource
         'official' => 'República Kirguisa',
         'common' => 'Kirguizistán',
       ],
+      'srp' => [
+        'official' => 'Киргиска Република',
+        'common' => 'Киргизија',
+      ],
       'swe' => [
         'official' => 'Republiken Kirgizistan',
         'common' => 'Kirgizistan',
+      ],
+      'tur' => [
+        'official' => 'Kırgızistan Cumhuriyeti',
+        'common' => 'Kırgızistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ کرغیزستان',
@@ -19067,9 +21792,21 @@ class CountriesDataSource
       'khm' => 'Khmer',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة كمبوديا',
+        'common' => 'كمبوديا',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Kambodja',
+        'common' => 'Kambodja',
+      ],
       'ces' => [
         'official' => 'Kambodžské království',
         'common' => 'Kambodža',
+      ],
+      'cym' => [
+        'official' => 'Teyrnas Cambodia',
+        'common' => 'Cambodia',
       ],
       'deu' => [
         'official' => 'Königreich Kambodscha',
@@ -19094,6 +21831,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kambodzsai Királyság',
         'common' => 'Kambodzsa',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Kamboja',
+        'common' => 'Kamboja',
       ],
       'ita' => [
         'official' => 'Regno di Cambogia',
@@ -19135,9 +21876,17 @@ class CountriesDataSource
         'official' => 'Reino de Camboya',
         'common' => 'Camboya',
       ],
+      'srp' => [
+        'official' => 'Краљевина Камбоџа',
+        'common' => 'Камбоџа',
+      ],
       'swe' => [
         'official' => 'Konungariket Kambodja',
         'common' => 'Kambodja',
+      ],
+      'tur' => [
+        'official' => 'Kamboçya Krallığı',
+        'common' => 'Kamboçya',
       ],
       'urd' => [
         'official' => 'مملکتِ کمبوڈیا',
@@ -19230,8 +21979,20 @@ class CountriesDataSource
       'gil' => 'Gilbertese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كيريباتي',
+        'common' => 'كيريباتي',
+      ],
+      'bre' => [
+        'official' => 'Republik Kiribati',
+        'common' => 'Kiribati',
+      ],
       'ces' => [
         'official' => 'Republika Kiribati',
+        'common' => 'Kiribati',
+      ],
+      'cym' => [
+        'official' => 'Independent and Sovereign Republic of Kiribati',
         'common' => 'Kiribati',
       ],
       'deu' => [
@@ -19256,6 +22017,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Kiribati Köztársaság',
+        'common' => 'Kiribati',
+      ],
+      'ind' => [
+        'official' => 'Republik Kiribati',
         'common' => 'Kiribati',
       ],
       'ita' => [
@@ -19298,8 +22063,16 @@ class CountriesDataSource
         'official' => 'República Independiente y Soberano de Kiribati',
         'common' => 'Kiribati',
       ],
+      'srp' => [
+        'official' => 'Независна и Суверена Република Кирибати',
+        'common' => 'Кирибати',
+      ],
       'swe' => [
         'official' => 'Republiken Kiribati',
+        'common' => 'Kiribati',
+      ],
+      'tur' => [
+        'official' => 'Kiribati Cumhuriyeti',
         'common' => 'Kiribati',
       ],
       'urd' => [
@@ -19380,9 +22153,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'اتحاد القديس كريستوفر ونيفيس',
+        'common' => 'سانت كيتس ونيفيس',
+      ],
+      'bre' => [
+        'official' => 'Kevread Saint Kitts ha Nevis',
+        'common' => 'Saint Kitts ha Nevis',
+      ],
       'ces' => [
         'official' => 'Federace Sv. Kryštof a Nevis',
         'common' => 'Svatý Kryštof a Nevis',
+      ],
+      'cym' => [
+        'official' => 'Federation of Saint Christopher and Nevis',
+        'common' => 'Saint Kitts and Nevis',
       ],
       'deu' => [
         'official' => 'Föderation von St. Kitts und Nevis',
@@ -19407,6 +22192,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Saint Christopher és Nevis Államszövetség',
         'common' => 'Saint Kitts és Nevis',
+      ],
+      'ind' => [
+        'official' => 'Santo Kits dan Nevis',
+        'common' => 'Santo Kits dan Nevis',
       ],
       'ita' => [
         'official' => 'Federazione di Saint Christopher e Nevis',
@@ -19448,9 +22237,17 @@ class CountriesDataSource
         'official' => 'Federación de San Cristóbal y Nevis',
         'common' => 'San Cristóbal y Nieves',
       ],
+      'srp' => [
+        'official' => 'Федерација Свети Кристофер и Невис',
+        'common' => 'Сент Китс и Невис',
+      ],
       'swe' => [
         'official' => 'Federationen Saint Kitts och Nevis',
         'common' => 'Saint Kitts och Nevis',
+      ],
+      'tur' => [
+        'official' => 'Saint Kitts ve Nevis Federasyonu',
+        'common' => 'Saint Kitts ve Nevis',
       ],
       'urd' => [
         'official' => 'وفاقِ سینٹ کیٹز و ناویس',
@@ -19534,9 +22331,21 @@ class CountriesDataSource
       'kor' => 'Korean',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كوريا',
+        'common' => 'كوريا الجنوبية',
+      ],
+      'bre' => [
+        'official' => 'Republik Korea',
+        'common' => 'Korea ar Su',
+      ],
       'ces' => [
         'official' => 'Korejská republika',
         'common' => 'Jižní Korea',
+      ],
+      'cym' => [
+        'official' => 'Republic of Korea',
+        'common' => 'South Korea',
       ],
       'deu' => [
         'official' => 'Republik Korea',
@@ -19561,6 +22370,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Koreai Köztársaság',
         'common' => 'Dél-Korea',
+      ],
+      'ind' => [
+        'official' => 'Republik Korea',
+        'common' => 'Korea Selatan',
       ],
       'ita' => [
         'official' => 'Repubblica di Corea',
@@ -19602,9 +22415,17 @@ class CountriesDataSource
         'official' => 'República de Corea',
         'common' => 'Corea del Sur',
       ],
+      'srp' => [
+        'official' => 'Република Кореја',
+        'common' => 'Јужна Кореја',
+      ],
       'swe' => [
         'official' => 'Republiken Korea',
         'common' => 'Sydkorea',
+      ],
+      'tur' => [
+        'official' => 'Kore Cumhuriyeti',
+        'common' => 'Güney Kore',
       ],
       'urd' => [
         'official' => 'جمہوریہ کوریا ',
@@ -19655,18 +22476,17 @@ class CountriesDataSource
       ],
     ],
     'tld' => [
-      0 => '.xk',
     ],
     'cca2' => 'XK',
     'ccn3' => '',
     'cca3' => 'UNK',
     'cioc' => 'KOS',
-    'independent' => NULL,
+    'independent' => true,
     'status' => 'user-assigned',
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -19690,8 +22510,20 @@ class CountriesDataSource
       'srp' => 'Serbian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كوسوفو',
+        'common' => 'كوسوفو',
+      ],
+      'bre' => [
+        'official' => 'Republik Kosovo',
+        'common' => 'Kosovo',
+      ],
       'ces' => [
         'official' => 'Kosovská republika',
+        'common' => 'Kosovo',
+      ],
+      'cym' => [
+        'official' => 'Republic of Kosovo',
         'common' => 'Kosovo',
       ],
       'deu' => [
@@ -19718,13 +22550,13 @@ class CountriesDataSource
         'official' => 'Koszovó',
         'common' => 'Koszovó',
       ],
+      'ind' => [
+        'official' => 'Republik Kosovo',
+        'common' => 'Kosovo',
+      ],
       'ita' => [
         'official' => 'Repubblica del Kosovo',
         'common' => 'Kosovo',
-      ],
-      'jpn' => [
-        'official' => 'コソボ共和国',
-        'common' => 'コソボ',
       ],
       'kor' => [
         'official' => '코소보 공화국',
@@ -19758,9 +22590,17 @@ class CountriesDataSource
         'official' => 'República de Kosovo',
         'common' => 'Kosovo',
       ],
+      'srp' => [
+        'official' => 'Република Косово',
+        'common' => 'Косово',
+      ],
       'swe' => [
         'official' => 'Republiken Kosovo',
         'common' => 'Kosovo',
+      ],
+      'tur' => [
+        'official' => 'Kosova Cumhuriyeti',
+        'common' => 'Kosova',
       ],
       'urd' => [
         'official' => 'جمہوریہ کوسووہ',
@@ -19845,9 +22685,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة الكويت',
+        'common' => 'الكويت',
+      ],
+      'bre' => [
+        'official' => 'Stad Koweit',
+        'common' => 'Koweit',
+      ],
       'ces' => [
         'official' => 'Stát Kuvajt',
         'common' => 'Kuvajt',
+      ],
+      'cym' => [
+        'official' => 'State of Kuwait',
+        'common' => 'Kuwait',
       ],
       'deu' => [
         'official' => 'Staat Kuwait',
@@ -19872,6 +22724,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kuvaiti Állam',
         'common' => 'Kuvait',
+      ],
+      'ind' => [
+        'official' => 'Negara Kuwait',
+        'common' => 'Kuwait',
       ],
       'ita' => [
         'official' => 'Stato del Kuwait',
@@ -19913,9 +22769,17 @@ class CountriesDataSource
         'official' => 'Estado de Kuwait',
         'common' => 'Kuwait',
       ],
+      'srp' => [
+        'official' => 'Држава Кувајт',
+        'common' => 'Кувајт',
+      ],
       'swe' => [
         'official' => 'Staten Kuwait',
         'common' => 'Kuwait',
+      ],
+      'tur' => [
+        'official' => 'Kuveyt Devleti',
+        'common' => 'Kuveyt',
       ],
       'urd' => [
         'official' => 'دولتِ کویت',
@@ -19999,8 +22863,20 @@ class CountriesDataSource
       'lao' => 'Lao',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية لاوس الديمقراطية الشعبية',
+        'common' => 'لاوس',
+      ],
+      'bre' => [
+        'official' => 'Republik Demokratel ar Bobl Lao',
+        'common' => 'Laos',
+      ],
       'ces' => [
         'official' => 'Laoská lidově demokratická republika',
+        'common' => 'Laos',
+      ],
+      'cym' => [
+        'official' => 'Lao People\'s Democratic Republic',
         'common' => 'Laos',
       ],
       'deu' => [
@@ -20026,6 +22902,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Laoszi Népi Demokratikus Köztársaság',
         'common' => 'Laosz',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Rakyat Laos',
+        'common' => 'Laos',
       ],
       'ita' => [
         'official' => 'Repubblica democratica popolare del Laos',
@@ -20067,8 +22947,16 @@ class CountriesDataSource
         'official' => 'República Democrática Popular Lao',
         'common' => 'Laos',
       ],
+      'srp' => [
+        'official' => 'Лаошка Народна Демократска Република',
+        'common' => 'Лаос',
+      ],
       'swe' => [
         'official' => 'Demokratiska folkrepubliken Laos',
+        'common' => 'Laos',
+      ],
+      'tur' => [
+        'official' => 'Laos Demokratik Halk Cumhuriyeti',
         'common' => 'Laos',
       ],
       'urd' => [
@@ -20160,9 +23048,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية اللبنانية',
+        'common' => 'لبنان',
+      ],
+      'bre' => [
+        'official' => 'Republik Liban',
+        'common' => 'Liban',
+      ],
       'ces' => [
         'official' => 'Libanonská republika',
         'common' => 'Libanon',
+      ],
+      'cym' => [
+        'official' => 'Lebanese Republic',
+        'common' => 'Lebanon',
       ],
       'deu' => [
         'official' => 'Libanesische Republik',
@@ -20186,6 +23086,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Libanoni Köztársaság',
+        'common' => 'Libanon',
+      ],
+      'ind' => [
+        'official' => 'Republik Libanon',
         'common' => 'Libanon',
       ],
       'ita' => [
@@ -20228,9 +23132,17 @@ class CountriesDataSource
         'official' => 'República Libanesa',
         'common' => 'Líbano',
       ],
+      'srp' => [
+        'official' => 'Либанска Република',
+        'common' => 'Либан',
+      ],
       'swe' => [
         'official' => 'Republiken Libanon',
         'common' => 'Libanon',
+      ],
+      'tur' => [
+        'official' => 'Lübnan Cumhuriyeti',
+        'common' => 'Lübnan',
       ],
       'urd' => [
         'official' => 'جمہوریہ لبنان',
@@ -20312,9 +23224,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ليبيريا',
+        'common' => 'ليبيريا',
+      ],
+      'bre' => [
+        'official' => 'Republik Liberia',
+        'common' => 'Liberia',
+      ],
       'ces' => [
         'official' => 'Liberijská republika',
         'common' => 'Libérie',
+      ],
+      'cym' => [
+        'official' => 'Republic of Liberia',
+        'common' => 'Liberia',
       ],
       'deu' => [
         'official' => 'Republik Liberia',
@@ -20339,6 +23263,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Libériai Köztársaság',
         'common' => 'Libéria',
+      ],
+      'ind' => [
+        'official' => 'Republik Liberia',
+        'common' => 'Liberia',
       ],
       'ita' => [
         'official' => 'Repubblica di Liberia',
@@ -20380,9 +23308,17 @@ class CountriesDataSource
         'official' => 'República de Liberia',
         'common' => 'Liberia',
       ],
+      'srp' => [
+        'official' => 'Република Либерија',
+        'common' => 'Либерија',
+      ],
       'swe' => [
         'official' => 'Republiken Liberia',
         'common' => 'Liberia',
+      ],
+      'tur' => [
+        'official' => 'Liberya Cumhuriyeti',
+        'common' => 'Liberya',
       ],
       'urd' => [
         'official' => 'جمہوریہ لائبیریا',
@@ -20466,9 +23402,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة ليبيا',
+        'common' => '‏ليبيا',
+      ],
+      'bre' => [
+        'official' => 'Stad Libia',
+        'common' => 'Libia',
+      ],
       'ces' => [
         'official' => 'Stát Libye',
         'common' => 'Libye',
+      ],
+      'cym' => [
+        'official' => 'State of Libya',
+        'common' => 'Libya',
       ],
       'deu' => [
         'official' => 'Staat Libyen',
@@ -20493,6 +23441,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Líbia Állam',
         'common' => 'Líbia',
+      ],
+      'ind' => [
+        'official' => 'Negara Libya',
+        'common' => 'Libya',
       ],
       'ita' => [
         'official' => 'Stato della Libia',
@@ -20534,9 +23486,17 @@ class CountriesDataSource
         'official' => 'Estado de Libia',
         'common' => 'Libia',
       ],
+      'srp' => [
+        'official' => 'Држава Либија',
+        'common' => 'Либија',
+      ],
       'swe' => [
         'official' => 'Staten Libyen',
         'common' => 'Libyen',
+      ],
+      'tur' => [
+        'official' => 'Libya Devleti',
+        'common' => 'Libya',
       ],
       'urd' => [
         'official' => 'ریاستِ لیبیا',
@@ -20621,9 +23581,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سانت لوسيا',
+        'common' => 'سانت لوسيا',
+      ],
+      'bre' => [
+        'official' => 'Santez-Lusia',
+        'common' => 'Santez-Lusia',
+      ],
       'ces' => [
         'official' => 'Svatá Lucie',
         'common' => 'Svatá Lucie',
+      ],
+      'cym' => [
+        'official' => 'Saint Lucia',
+        'common' => 'Saint Lucia',
       ],
       'deu' => [
         'official' => 'St. Lucia',
@@ -20648,6 +23620,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Saint Lucia',
         'common' => 'Saint Lucia',
+      ],
+      'ind' => [
+        'official' => 'Santa Lusia',
+        'common' => 'Santa Lusia',
       ],
       'ita' => [
         'official' => 'Santa Lucia',
@@ -20689,7 +23665,15 @@ class CountriesDataSource
         'official' => 'Santa Lucía',
         'common' => 'Santa Lucía',
       ],
+      'srp' => [
+        'official' => 'Света Луција',
+        'common' => 'Света Луција',
+      ],
       'swe' => [
+        'official' => 'Saint Lucia',
+        'common' => 'Saint Lucia',
+      ],
+      'tur' => [
         'official' => 'Saint Lucia',
         'common' => 'Saint Lucia',
       ],
@@ -20772,9 +23756,21 @@ class CountriesDataSource
       'deu' => 'German',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'إمارة ليختنشتاين',
+        'common' => 'ليختنشتاين',
+      ],
+      'bre' => [
+        'official' => 'Priñselezh Liechtenstein',
+        'common' => 'Liechtenstein',
+      ],
       'ces' => [
         'official' => 'Knížectví Lichtenštejnské',
         'common' => 'Lichtenštejnsko',
+      ],
+      'cym' => [
+        'official' => 'Principality of Liechtenstein',
+        'common' => 'Liechtenstein',
       ],
       'deu' => [
         'official' => 'Fürstentum Liechtenstein',
@@ -20799,6 +23795,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Liechtensteini Hercegség',
         'common' => 'Liechtenstein',
+      ],
+      'ind' => [
+        'official' => 'Kepangeranan Liktenstin',
+        'common' => 'Liktenstin',
       ],
       'ita' => [
         'official' => 'Principato del Liechtenstein',
@@ -20840,9 +23840,17 @@ class CountriesDataSource
         'official' => 'Principado de Liechtenstein',
         'common' => 'Liechtenstein',
       ],
+      'srp' => [
+        'official' => 'Кнежевина Лихтенштајн',
+        'common' => 'Лихтенштајн',
+      ],
       'swe' => [
         'official' => 'Furstendömet Liechtenstein',
         'common' => 'Liechtenstein',
+      ],
+      'tur' => [
+        'official' => 'Lihtenştayn Prensliği',
+        'common' => 'Lihtenştayn',
       ],
       'urd' => [
         'official' => 'امارات لیختینستائن',
@@ -20918,7 +23926,7 @@ class CountriesDataSource
       ],
     ],
     'capital' => [
-      0 => 'Colombo',
+      0 => 'Sri Jayawardenepura Kotte',
     ],
     'altSpellings' => [
       0 => 'LK',
@@ -20932,9 +23940,21 @@ class CountriesDataSource
       'tam' => 'Tamil',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سريلانكا الديمقراطية الشعبية',
+        'common' => 'سريلانكا',
+      ],
+      'bre' => [
+        'official' => 'Republik Demokratel ha Sokialour Sri Lanka',
+        'common' => 'Sri Lanka',
+      ],
       'ces' => [
         'official' => 'Srílanská demokratická socialistická republika',
         'common' => 'Srí Lanka',
+      ],
+      'cym' => [
+        'official' => 'Democratic Socialist Republic of Sri Lanka',
+        'common' => 'Sri Lanka',
       ],
       'deu' => [
         'official' => 'Demokratische Sozialistische Republik Sri Lanka',
@@ -20959,6 +23979,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Srí Lanka-i Demokratikus Szocialista Köztársaság',
         'common' => 'Srí Lanka',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Sosialis Sri Lanka',
+        'common' => 'Sri Lanka',
       ],
       'ita' => [
         'official' => 'Repubblica democratica socialista dello Sri Lanka',
@@ -21000,8 +24024,16 @@ class CountriesDataSource
         'official' => 'República Democrática Socialista de Sri Lanka',
         'common' => 'Sri Lanka',
       ],
+      'srp' => [
+        'official' => 'Демократска Социјалистичка Република Сри Ланка',
+        'common' => 'Сри Ланка',
+      ],
       'swe' => [
         'official' => 'Demokratiska socialistiska republiken Sri Lanka',
+        'common' => 'Sri Lanka',
+      ],
+      'tur' => [
+        'official' => 'Sri Lanka Demokratik Sosyalist Cumhuriyeti',
         'common' => 'Sri Lanka',
       ],
       'urd' => [
@@ -21019,7 +24051,6 @@ class CountriesDataSource
     ],
     'landlocked' => false,
     'borders' => [
-      0 => 'IND',
     ],
     'area' => 65610,
     'flag' => '🇱🇰',
@@ -21093,8 +24124,20 @@ class CountriesDataSource
       'sot' => 'Sotho',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة ليسوتو',
+        'common' => 'ليسوتو',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Lesotho',
+        'common' => 'Lesotho',
+      ],
       'ces' => [
         'official' => 'Lesothské království',
+        'common' => 'Lesotho',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Lesotho',
         'common' => 'Lesotho',
       ],
       'deu' => [
@@ -21120,6 +24163,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Lesothói Királyság',
         'common' => 'Lesotho',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Lesoto',
+        'common' => 'Lesoto',
       ],
       'ita' => [
         'official' => 'Regno del Lesotho',
@@ -21161,8 +24208,16 @@ class CountriesDataSource
         'official' => 'Reino de Lesotho',
         'common' => 'Lesotho',
       ],
+      'srp' => [
+        'official' => 'Краљевина Лесото',
+        'common' => 'Лесото',
+      ],
       'swe' => [
         'official' => 'Konungariket Lesotho',
+        'common' => 'Lesotho',
+      ],
+      'tur' => [
+        'official' => 'Lesotho Krallığı',
         'common' => 'Lesotho',
       ],
       'urd' => [
@@ -21221,7 +24276,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -21245,9 +24300,21 @@ class CountriesDataSource
       'lit' => 'Lithuanian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ليتوانيا',
+        'common' => 'ليتوانيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Lituania',
+        'common' => 'Lituania',
+      ],
       'ces' => [
         'official' => 'Litevská republika',
         'common' => 'Litva',
+      ],
+      'cym' => [
+        'official' => 'Republic of Lithuania',
+        'common' => 'Lithuania',
       ],
       'deu' => [
         'official' => 'Republik Litauen',
@@ -21272,6 +24339,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Litván Köztársaság',
         'common' => 'Litvánia',
+      ],
+      'ind' => [
+        'official' => 'Republik Lituania',
+        'common' => 'Lituania',
       ],
       'ita' => [
         'official' => 'Repubblica di Lituania',
@@ -21313,9 +24384,17 @@ class CountriesDataSource
         'official' => 'República de Lituania',
         'common' => 'Lituania',
       ],
+      'srp' => [
+        'official' => 'Литванска Република',
+        'common' => 'Литванија',
+      ],
       'swe' => [
         'official' => 'Republiken Litauen',
         'common' => 'Litauen',
+      ],
+      'tur' => [
+        'official' => 'Litvanya Cumhuriyeti',
+        'common' => 'Litvanya',
       ],
       'urd' => [
         'official' => 'جمہوریہ لتھووینیا',
@@ -21384,7 +24463,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -21412,9 +24491,21 @@ class CountriesDataSource
       'ltz' => 'Luxembourgish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دوقية لوكسمبورغ',
+        'common' => 'لوكسمبورغ',
+      ],
+      'bre' => [
+        'official' => 'Dugelezh Veur Luksembourg',
+        'common' => 'Luksembourg',
+      ],
       'ces' => [
         'official' => 'Lucemburské velkovévodství',
         'common' => 'Lucembursko',
+      ],
+      'cym' => [
+        'official' => 'Grand Duchy of Luxembourg',
+        'common' => 'Luxembourg',
       ],
       'deu' => [
         'official' => 'Großherzogtum Luxemburg,',
@@ -21439,6 +24530,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Luxemburgi Nagyhercegség',
         'common' => 'Luxemburg',
+      ],
+      'ind' => [
+        'official' => 'Keharyapatihan Luksemburg',
+        'common' => 'Luksemburg',
       ],
       'ita' => [
         'official' => 'Granducato di Lussemburgo',
@@ -21480,9 +24575,17 @@ class CountriesDataSource
         'official' => 'Gran Ducado de Luxemburgo',
         'common' => 'Luxemburgo',
       ],
+      'srp' => [
+        'official' => 'Велико Војводство Луксембург',
+        'common' => 'Луксембург',
+      ],
       'swe' => [
         'official' => 'Storhertigdömet Luxemburg',
         'common' => 'Luxemburg',
+      ],
+      'tur' => [
+        'official' => 'Lüksemburg Büyük Dükalığı',
+        'common' => 'Lüksemburg',
       ],
       'urd' => [
         'official' => 'دوقیہ کبیرلکسمبرگ',
@@ -21542,7 +24645,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -21566,9 +24669,21 @@ class CountriesDataSource
       'lav' => 'Latvian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية لاتفيا',
+        'common' => 'لاتفيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Latvia',
+        'common' => 'Latvia',
+      ],
       'ces' => [
         'official' => 'Lotyšská republika',
         'common' => 'Lotyšsko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Latvia',
+        'common' => 'Latvia',
       ],
       'deu' => [
         'official' => 'Republik Lettland',
@@ -21593,6 +24708,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Lett Köztársaság',
         'common' => 'Lettország',
+      ],
+      'ind' => [
+        'official' => 'Republik Latvia',
+        'common' => 'Latvia',
       ],
       'ita' => [
         'official' => 'Repubblica di Lettonia',
@@ -21634,9 +24753,17 @@ class CountriesDataSource
         'official' => 'República de Letonia',
         'common' => 'Letonia',
       ],
+      'srp' => [
+        'official' => 'Летонска Република',
+        'common' => 'Летонија',
+      ],
       'swe' => [
         'official' => 'Republiken Lettland',
         'common' => 'Lettland',
+      ],
+      'tur' => [
+        'official' => 'Letonya Cumhuriyeti',
+        'common' => 'Letonya',
       ],
       'urd' => [
         'official' => 'جمہوریہ لٹویا',
@@ -21728,9 +24855,21 @@ class CountriesDataSource
       'zho' => 'Chinese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'منطقة ماكاو الإدارية التابعة لجمهورية الصين الشعبية',
+        'common' => 'ماكاو',
+      ],
+      'bre' => [
+        'official' => 'Rannvro velestradurel arbennik Makao eus Republik pobl Sina',
+        'common' => 'Makao',
+      ],
       'ces' => [
         'official' => 'Zvláštní správní oblast Čínské lidové republiky Macao',
         'common' => 'Macao',
+      ],
+      'cym' => [
+        'official' => 'Macao Special Administrative Region of the People\'s Republic of China',
+        'common' => 'Macau',
       ],
       'deu' => [
         'official' => 'Sonderverwaltungsregion Macau der Volksrepublik China',
@@ -21755,6 +24894,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Makaó',
         'common' => 'Makaó',
+      ],
+      'ind' => [
+        'official' => 'Daerah Administratif Khusus Makau Republik Rakyat Tiongkok',
+        'common' => 'Makau',
       ],
       'ita' => [
         'official' => 'Macao Regione amministrativa speciale della Repubblica Popolare Cinese',
@@ -21796,17 +24939,21 @@ class CountriesDataSource
         'official' => 'Macao, Región Administrativa Especial de la República Popular China',
         'common' => 'Macao',
       ],
+      'srp' => [
+        'official' => 'Макао специјална административна област Народне Републике Кине',
+        'common' => 'Макао',
+      ],
       'swe' => [
         'official' => 'Macao',
         'common' => 'Macao',
       ],
+      'tur' => [
+        'official' => 'Çin Halk Cumhuriyeti Makao Özel İdari Bölgesi',
+        'common' => 'Makao',
+      ],
       'urd' => [
         'official' => 'مکاؤ عوامی جمہوریہ چین کا خصوصی انتظامی علاقہ',
         'common' => 'مکاؤ',
-      ],
-      'zho' => [
-        'official' => '中华人民共和国澳门特别行政区',
-        'common' => '澳门',
       ],
     ],
     'latlng' => [
@@ -21857,7 +25004,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -21882,9 +25029,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سانت مارتن',
+        'common' => 'سانت مارتن',
+      ],
+      'bre' => [
+        'official' => 'Saint-Martin',
+        'common' => 'Saint-Martin',
+      ],
       'ces' => [
         'official' => 'Svatý Martin',
         'common' => 'Svatý Martin (Francie)',
+      ],
+      'cym' => [
+        'official' => 'Saint Martin',
+        'common' => 'Saint Martin',
       ],
       'deu' => [
         'official' => 'Saint-Martin',
@@ -21909,6 +25068,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Saint-Martin Közösség',
         'common' => 'Saint-Martin',
+      ],
+      'ind' => [
+        'official' => 'Saint Martin',
+        'common' => 'Saint Martin',
       ],
       'ita' => [
         'official' => 'saint Martin',
@@ -21950,9 +25113,17 @@ class CountriesDataSource
         'official' => 'Saint Martin',
         'common' => 'Saint Martin',
       ],
+      'srp' => [
+        'official' => 'Свети Мартин',
+        'common' => 'Свети Мартин',
+      ],
       'swe' => [
         'official' => 'Förvaltningsområdet Saint-Martin',
         'common' => 'Saint-Martin',
+      ],
+      'tur' => [
+        'official' => 'Saint Martin',
+        'common' => 'Saint Martin',
       ],
       'urd' => [
         'official' => 'سینٹ مارٹن',
@@ -21964,8 +25135,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => 18.08333333,
-      1 => -63.95,
+      0 => 18.0708,
+      1 => -63.0501,
     ],
     'landlocked' => false,
     'borders' => [
@@ -22040,9 +25211,21 @@ class CountriesDataSource
       'ber' => 'Berber',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'المملكة المغربية',
+        'common' => 'المغرب',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Maroko',
+        'common' => 'Maroko',
+      ],
       'ces' => [
         'official' => 'Marocké království',
         'common' => 'Maroko',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Morocco',
+        'common' => 'Morocco',
       ],
       'deu' => [
         'official' => 'Königreich Marokko',
@@ -22067,6 +25250,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Marokkói Királyság',
         'common' => 'Marokkó',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Maroko',
+        'common' => 'Maroko',
       ],
       'ita' => [
         'official' => 'Regno del Marocco',
@@ -22108,9 +25295,17 @@ class CountriesDataSource
         'official' => 'Reino de Marruecos',
         'common' => 'Marruecos',
       ],
+      'srp' => [
+        'official' => 'Краљевина Мароко',
+        'common' => 'Мароко',
+      ],
       'swe' => [
         'official' => 'Konungariket Marocko',
         'common' => 'Marocko',
+      ],
+      'tur' => [
+        'official' => 'Fas Krallığı',
+        'common' => 'Fas',
       ],
       'urd' => [
         'official' => 'مملکتِ مراکش',
@@ -22170,7 +25365,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -22194,9 +25389,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'إمارة موناكو',
+        'common' => 'موناكو',
+      ],
+      'bre' => [
+        'official' => 'Priñselezh Monako',
+        'common' => 'Monako',
+      ],
       'ces' => [
         'official' => 'Monacké knížectví',
         'common' => 'Monako',
+      ],
+      'cym' => [
+        'official' => 'Principality of Monaco',
+        'common' => 'Monaco',
       ],
       'deu' => [
         'official' => 'Fürstentum Monaco',
@@ -22221,6 +25428,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Monacói Hercegség',
         'common' => 'Monaco',
+      ],
+      'ind' => [
+        'official' => 'Kepangeranan Monako',
+        'common' => 'Monako',
       ],
       'ita' => [
         'official' => 'Principato di Monaco',
@@ -22262,9 +25473,17 @@ class CountriesDataSource
         'official' => 'Principado de Mónaco',
         'common' => 'Mónaco',
       ],
+      'srp' => [
+        'official' => 'Кнежевина Монако',
+        'common' => 'Монако',
+      ],
       'swe' => [
         'official' => 'Furstendömet Monaco',
         'common' => 'Monaco',
+      ],
+      'tur' => [
+        'official' => 'Monako Prensliği',
+        'common' => 'Monako',
       ],
       'urd' => [
         'official' => 'جمہوریہ مناکو',
@@ -22344,12 +25563,24 @@ class CountriesDataSource
     'region' => 'Europe',
     'subregion' => 'Eastern Europe',
     'languages' => [
-      'ron' => 'Moldavian',
+      'ron' => 'Romanian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية مولدوڤا',
+        'common' => 'مولدوڤا',
+      ],
+      'bre' => [
+        'official' => 'Republik Moldova',
+        'common' => 'Moldova',
+      ],
       'ces' => [
         'official' => 'Moldavská republika',
         'common' => 'Moldavsko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Moldova',
+        'common' => 'Moldova',
       ],
       'deu' => [
         'official' => 'Republik Moldau',
@@ -22373,6 +25604,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Moldovai Köztársaság',
+        'common' => 'Moldova',
+      ],
+      'ind' => [
+        'official' => 'Republik Moldova',
         'common' => 'Moldova',
       ],
       'ita' => [
@@ -22415,9 +25650,17 @@ class CountriesDataSource
         'official' => 'República de Moldova',
         'common' => 'Moldavia',
       ],
+      'srp' => [
+        'official' => 'Република Молдавија',
+        'common' => 'Молдавија',
+      ],
       'swe' => [
         'official' => 'Republiken Moldavien',
         'common' => 'Moldavien',
+      ],
+      'tur' => [
+        'official' => 'Moldova Cumhuriyeti',
+        'common' => 'Moldova',
       ],
       'urd' => [
         'official' => 'جمہوریہ مالدووا',
@@ -22437,7 +25680,7 @@ class CountriesDataSource
       0 => 'ROU',
       1 => 'UKR',
     ],
-    'area' => 33846,
+    'area' => 33847,
     'flag' => '🇲🇩',
     'demonyms' => [
       'eng' => [
@@ -22506,9 +25749,21 @@ class CountriesDataSource
       'mlg' => 'Malagasy',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية مدغشقر',
+        'common' => 'مدغشقر',
+      ],
+      'bre' => [
+        'official' => 'Republik Madagaskar',
+        'common' => 'Madagaskar',
+      ],
       'ces' => [
         'official' => 'Madagaskarská republika',
         'common' => 'Madagaskar',
+      ],
+      'cym' => [
+        'official' => 'Republic of Madagascar',
+        'common' => 'Madagascar',
       ],
       'deu' => [
         'official' => 'Republik Madagaskar',
@@ -22533,6 +25788,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Madagaszkári Köztársaság',
         'common' => 'Madagaszkár',
+      ],
+      'ind' => [
+        'official' => 'Republik Madagaskar',
+        'common' => 'Madagaskar',
       ],
       'ita' => [
         'official' => 'Repubblica del Madagascar',
@@ -22574,8 +25833,16 @@ class CountriesDataSource
         'official' => 'República de Madagascar',
         'common' => 'Madagascar',
       ],
+      'srp' => [
+        'official' => 'Република Мадагаскар',
+        'common' => 'Мадагаскар',
+      ],
       'swe' => [
         'official' => 'Republiken Madagaskar',
+        'common' => 'Madagaskar',
+      ],
+      'tur' => [
+        'official' => 'Madagaskar Cumhuriyeti',
         'common' => 'Madagaskar',
       ],
       'urd' => [
@@ -22658,9 +25925,21 @@ class CountriesDataSource
       'div' => 'Maldivian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية المالديف',
+        'common' => 'المالديف',
+      ],
+      'bre' => [
+        'official' => 'Republik Maldivez',
+        'common' => 'Maldivez',
+      ],
       'ces' => [
         'official' => 'Maledivská republika',
         'common' => 'Maledivy',
+      ],
+      'cym' => [
+        'official' => 'Republic of the Maldives',
+        'common' => 'Maldives',
       ],
       'deu' => [
         'official' => 'Republik Malediven',
@@ -22685,6 +25964,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Maldív-szigetek',
         'common' => 'Maldív-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Republik Maladewa',
+        'common' => 'Maladewa',
       ],
       'ita' => [
         'official' => 'Repubblica delle Maldive',
@@ -22726,9 +26009,17 @@ class CountriesDataSource
         'official' => 'República de las Maldivas',
         'common' => 'Maldivas',
       ],
+      'srp' => [
+        'official' => 'Малдивска Република',
+        'common' => 'Малдиви',
+      ],
       'swe' => [
         'official' => 'Republiken Maldiverna',
         'common' => 'Maldiverna',
+      ],
+      'tur' => [
+        'official' => 'Maldivler Cumhuriyeti',
+        'common' => 'Maldivler',
       ],
       'urd' => [
         'official' => 'جمہوریہ مالدیپ',
@@ -22810,9 +26101,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الولايات المتحدة المكسيكية',
+        'common' => 'المسكيك',
+      ],
+      'bre' => [
+        'official' => 'Stadoù-Unanet Mec\'hiko',
+        'common' => 'Mec\'hiko',
+      ],
       'ces' => [
         'official' => 'Spojené státy mexické',
         'common' => 'Mexiko',
+      ],
+      'cym' => [
+        'official' => 'United Mexican States',
+        'common' => 'Mexico',
       ],
       'deu' => [
         'official' => 'Vereinigte Mexikanische Staaten',
@@ -22837,6 +26140,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Mexikói Egyesült Államok',
         'common' => 'Mexikó',
+      ],
+      'ind' => [
+        'official' => 'Negara Meksiko Serikat',
+        'common' => 'Meksiko',
       ],
       'ita' => [
         'official' => 'Stati Uniti del Messico',
@@ -22878,9 +26185,17 @@ class CountriesDataSource
         'official' => 'Estados Unidos Mexicanos',
         'common' => 'México',
       ],
+      'srp' => [
+        'official' => 'Сједињене Мексичке Државе',
+        'common' => 'Мексико',
+      ],
       'swe' => [
         'official' => 'Mexikos förenta stater',
         'common' => 'Mexiko',
+      ],
+      'tur' => [
+        'official' => 'Birleşik Meksika Devletleri',
+        'common' => 'Meksika',
       ],
       'urd' => [
         'official' => 'ریاستہائے متحدہ میکسیکو',
@@ -22969,9 +26284,21 @@ class CountriesDataSource
       'mah' => 'Marshallese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية جزر مارشال',
+        'common' => 'جزر مارشال',
+      ],
+      'bre' => [
+        'official' => 'Republik Inizi Marshall',
+        'common' => 'Inizi Marshall',
+      ],
       'ces' => [
         'official' => 'Republika Marshallovy ostrovy',
         'common' => 'Marshallovy ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Republic of the Marshall Islands',
+        'common' => 'Marshall Islands',
       ],
       'deu' => [
         'official' => 'Republik Marshallinseln',
@@ -22996,6 +26323,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Marshall-szigetek',
         'common' => 'Marshall-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Republik Kepulauan Marsal',
+        'common' => 'Kepulauan Marsal',
       ],
       'ita' => [
         'official' => 'Repubblica delle Isole Marshall',
@@ -23037,9 +26368,17 @@ class CountriesDataSource
         'official' => 'República de las Islas Marshall',
         'common' => 'Islas Marshall',
       ],
+      'srp' => [
+        'official' => 'Република Маршалска Острва',
+        'common' => 'Маршалска Острва',
+      ],
       'swe' => [
         'official' => 'Republiken Marshallöarna',
         'common' => 'Marshallöarna',
+      ],
+      'tur' => [
+        'official' => 'Marshall Adaları Cumhuriyeti',
+        'common' => 'Marshall Adaları',
       ],
       'urd' => [
         'official' => 'جمہوریہ جزائر مارشل',
@@ -23122,9 +26461,21 @@ class CountriesDataSource
       'mkd' => 'Macedonian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية شمال مقدونيا',
+        'common' => 'شمال مقدونيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Makedonia an Norzh',
+        'common' => 'Makedonia an Norzh',
+      ],
       'ces' => [
         'official' => 'Republika Severní Makedonie',
         'common' => 'Severní Makedonie',
+      ],
+      'cym' => [
+        'official' => 'Republic of North Macedonia',
+        'common' => 'North Macedonia',
       ],
       'deu' => [
         'official' => 'Republik Nordmazedonien',
@@ -23149,6 +26500,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Észak-macedón Köztársaság',
         'common' => 'Észak-Macedónia',
+      ],
+      'ind' => [
+        'official' => 'Republik Masedonia Utara',
+        'common' => 'Masedonia Utara',
       ],
       'ita' => [
         'official' => 'Repubblica di Macedonia del Nord',
@@ -23190,9 +26545,17 @@ class CountriesDataSource
         'official' => 'República de Macedonia del Norte',
         'common' => 'Macedonia del Norte',
       ],
+      'srp' => [
+        'official' => 'Република Северна Македонија',
+        'common' => 'Северна Македонија',
+      ],
       'swe' => [
         'official' => 'Republiken Nordmakedonien',
         'common' => 'Nordmakedonien',
+      ],
+      'tur' => [
+        'official' => 'Kuzey Makedonya Cumhuriyeti',
+        'common' => 'Kuzey Makedonya',
       ],
       'urd' => [
         'official' => 'جمہوریہ مقدونیہ',
@@ -23278,8 +26641,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية مالي',
+        'common' => 'مالي',
+      ],
+      'bre' => [
+        'official' => 'Republik Mali',
+        'common' => 'Mali',
+      ],
       'ces' => [
         'official' => 'Republika Mali',
+        'common' => 'Mali',
+      ],
+      'cym' => [
+        'official' => 'Republic of Mali',
         'common' => 'Mali',
       ],
       'deu' => [
@@ -23304,6 +26679,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Mali Köztársaság',
+        'common' => 'Mali',
+      ],
+      'ind' => [
+        'official' => 'Republik Mali',
         'common' => 'Mali',
       ],
       'ita' => [
@@ -23346,8 +26725,16 @@ class CountriesDataSource
         'official' => 'República de Malí',
         'common' => 'Mali',
       ],
+      'srp' => [
+        'official' => 'Република Мали',
+        'common' => 'Мали',
+      ],
       'swe' => [
         'official' => 'Republiken Mali',
+        'common' => 'Mali',
+      ],
+      'tur' => [
+        'official' => 'Mali Cumhuriyeti',
         'common' => 'Mali',
       ],
       'urd' => [
@@ -23416,7 +26803,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -23441,8 +26828,20 @@ class CountriesDataSource
       'mlt' => 'Maltese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية مالطا',
+        'common' => 'مالطا',
+      ],
+      'bre' => [
+        'official' => 'Republik Malta',
+        'common' => 'Malta',
+      ],
       'ces' => [
         'official' => 'Maltská republika',
+        'common' => 'Malta',
+      ],
+      'cym' => [
+        'official' => 'Republic of Malta',
         'common' => 'Malta',
       ],
       'deu' => [
@@ -23468,6 +26867,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Máltai Köztársaság',
         'common' => 'Málta',
+      ],
+      'ind' => [
+        'official' => 'Republik Malta',
+        'common' => 'Malta',
       ],
       'ita' => [
         'official' => 'Repubblica di Malta',
@@ -23509,8 +26912,16 @@ class CountriesDataSource
         'official' => 'República de Malta',
         'common' => 'Malta',
       ],
+      'srp' => [
+        'official' => ' Република Малта',
+        'common' => 'Малта',
+      ],
       'swe' => [
         'official' => 'Republiken Malta',
+        'common' => 'Malta',
+      ],
+      'tur' => [
+        'official' => 'Malta Cumhuriyeti',
         'common' => 'Malta',
       ],
       'urd' => [
@@ -23523,8 +26934,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => 35.83333333,
-      1 => 14.58333333,
+      0 => 35.9375,
+      1 => 14.3754,
     ],
     'landlocked' => false,
     'borders' => [
@@ -23593,8 +27004,20 @@ class CountriesDataSource
       'mya' => 'Burmese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية اتحاد ميانمار',
+        'common' => 'ميانمار',
+      ],
+      'bre' => [
+        'official' => 'Republik Unaniezh Myanmar',
+        'common' => 'Myanmar',
+      ],
       'ces' => [
         'official' => 'Republika Myanmarský svaz',
+        'common' => 'Myanmar',
+      ],
+      'cym' => [
+        'official' => 'Republic of the Union of Myanmar',
         'common' => 'Myanmar',
       ],
       'deu' => [
@@ -23620,6 +27043,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Mianmari Államszövetség Köztársasága',
         'common' => 'Mianmar',
+      ],
+      'ind' => [
+        'official' => 'Republik Perserikatan Myanmar',
+        'common' => 'Myanmar',
       ],
       'ita' => [
         'official' => 'Repubblica dell\'Unione di Myanmar',
@@ -23661,8 +27088,16 @@ class CountriesDataSource
         'official' => 'República de la Unión de Myanmar',
         'common' => 'Myanmar',
       ],
+      'srp' => [
+        'official' => 'Република Савез Мјанмара',
+        'common' => 'Мјанмар',
+      ],
       'swe' => [
         'official' => 'Republiken Unionen Myanmar',
+        'common' => 'Myanmar',
+      ],
+      'tur' => [
+        'official' => 'Myanmar Birliği Cumhuriyeti',
         'common' => 'Myanmar',
       ],
       'urd' => [
@@ -23725,7 +27160,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -23748,9 +27183,21 @@ class CountriesDataSource
       'cnr' => 'Montenegrin',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجبل الاسود',
+        'common' => 'الجبل الاسود',
+      ],
+      'bre' => [
+        'official' => 'Republik Montenegro',
+        'common' => 'Montenegro',
+      ],
       'ces' => [
         'official' => 'Černá Hora',
         'common' => 'Černá Hora',
+      ],
+      'cym' => [
+        'official' => 'Montenegro',
+        'common' => 'Montenegro',
       ],
       'deu' => [
         'official' => 'Montenegro',
@@ -23775,6 +27222,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Montenegró',
         'common' => 'Montenegró',
+      ],
+      'ind' => [
+        'official' => 'Montenegro',
+        'common' => 'Montenegro',
       ],
       'ita' => [
         'official' => 'Montenegro',
@@ -23816,9 +27267,17 @@ class CountriesDataSource
         'official' => 'Montenegro',
         'common' => 'Montenegro',
       ],
+      'srp' => [
+        'official' => 'Црна Гора',
+        'common' => 'Црна Гора',
+      ],
       'swe' => [
         'official' => 'Montenegro',
         'common' => 'Montenegro',
+      ],
+      'tur' => [
+        'official' => 'Karadağ',
+        'common' => 'Karadağ',
       ],
       'urd' => [
         'official' => 'مونٹینیگرو',
@@ -23902,9 +27361,21 @@ class CountriesDataSource
       'mon' => 'Mongolian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية منغوليا',
+        'common' => 'منغوليا',
+      ],
+      'bre' => [
+        'official' => 'Mongolia',
+        'common' => 'Mongolia',
+      ],
       'ces' => [
         'official' => 'Stát Mongolsko',
         'common' => 'Mongolsko',
+      ],
+      'cym' => [
+        'official' => 'Mongolia',
+        'common' => 'Mongolia',
       ],
       'deu' => [
         'official' => 'Mongolei',
@@ -23930,6 +27401,10 @@ class CountriesDataSource
         'official' => 'Mongólia',
         'common' => 'Mongólia',
       ],
+      'ind' => [
+        'official' => 'Mongolia',
+        'common' => 'Mongolia',
+      ],
       'ita' => [
         'official' => 'Mongolia',
         'common' => 'Mongolia',
@@ -23939,8 +27414,8 @@ class CountriesDataSource
         'common' => 'モンゴル',
       ],
       'kor' => [
-        'official' => '몽골',
-        'common' => '몽골국',
+        'official' => '몽골국',
+        'common' => '몽골',
       ],
       'nld' => [
         'official' => 'Mongolië',
@@ -23970,9 +27445,17 @@ class CountriesDataSource
         'official' => 'Mongolia',
         'common' => 'Mongolia',
       ],
+      'srp' => [
+        'official' => 'Монголија',
+        'common' => 'Монголија',
+      ],
       'swe' => [
         'official' => 'Mongoliet',
         'common' => 'Mongoliet',
+      ],
+      'tur' => [
+        'official' => 'Moğolistan',
+        'common' => 'Moğolistan',
       ],
       'urd' => [
         'official' => 'منگولیا',
@@ -24065,9 +27548,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'كومونولث جزر ماريانا الشمالية',
+        'common' => 'جزر ماريانا الشمالية',
+      ],
+      'bre' => [
+        'official' => 'Kenglad Inizi Mariana an Norzh',
+        'common' => 'Inizi Mariana an Norzh',
+      ],
       'ces' => [
         'official' => 'Společenství Severních Marian',
         'common' => 'Severní Mariany',
+      ],
+      'cym' => [
+        'official' => 'Commonwealth of the Northern Mariana Islands',
+        'common' => 'Northern Mariana Islands',
       ],
       'deu' => [
         'official' => 'Commonwealth der Nördlichen Marianen',
@@ -24092,6 +27587,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Északi-Mariana-szigetek',
         'common' => 'Északi-Mariana-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Persemakmuran Kepulauan Mariana Utara',
+        'common' => 'Kepulauan Mariana Utara',
       ],
       'ita' => [
         'official' => 'Commonwealth delle Isole Marianne Settentrionali',
@@ -24133,9 +27632,17 @@ class CountriesDataSource
         'official' => 'Mancomunidad de las Islas Marianas del Norte',
         'common' => 'Islas Marianas del Norte',
       ],
+      'srp' => [
+        'official' => 'Комонвелт Северна Маријанска Острва',
+        'common' => 'Северна Маријанска Острва',
+      ],
       'swe' => [
         'official' => 'Nordmarianerna',
         'common' => 'Nordmarianerna',
+      ],
+      'tur' => [
+        'official' => 'Kuzey Mariana Adaları Milletler Topluluğu',
+        'common' => 'Kuzey Mariana Adaları',
       ],
       'urd' => [
         'official' => 'دولتِ مشترکہ جزائر شمالی ماریانا',
@@ -24216,9 +27723,21 @@ class CountriesDataSource
       'por' => 'Portuguese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية موزمبيق',
+        'common' => 'موزمبيق',
+      ],
+      'bre' => [
+        'official' => 'Republik Mozambik',
+        'common' => 'Mozambik',
+      ],
       'ces' => [
         'official' => 'Mosambická republika',
         'common' => 'Mosambik',
+      ],
+      'cym' => [
+        'official' => 'Republic of Mozambique',
+        'common' => 'Mozambique',
       ],
       'deu' => [
         'official' => 'Republik Mosambik',
@@ -24242,6 +27761,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Mozambiki Köztársaság',
+        'common' => 'Mozambik',
+      ],
+      'ind' => [
+        'official' => 'Republik Mozambik',
         'common' => 'Mozambik',
       ],
       'ita' => [
@@ -24284,9 +27807,17 @@ class CountriesDataSource
         'official' => 'República de Mozambique',
         'common' => 'Mozambique',
       ],
+      'srp' => [
+        'official' => 'Република Мозамбик',
+        'common' => 'Мозамбик',
+      ],
       'swe' => [
         'official' => 'Republiken Moçambique',
         'common' => 'Moçambique',
+      ],
+      'tur' => [
+        'official' => 'Mozambik Cumhuriyeti',
+        'common' => 'Mozambik',
       ],
       'urd' => [
         'official' => 'جمہوریہ موزمبیق',
@@ -24373,9 +27904,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية الإسلامية الموريتانية',
+        'common' => 'موريتانيا',
+      ],
+      'bre' => [
+        'official' => 'Republik islamek Maouritania',
+        'common' => 'Maouritania',
+      ],
       'ces' => [
         'official' => 'Mauritánská islámská republika',
         'common' => 'Mauritánie',
+      ],
+      'cym' => [
+        'official' => 'Islamic Republic of Mauritania',
+        'common' => 'Mauritania',
       ],
       'deu' => [
         'official' => 'Islamische Republik Mauretanien',
@@ -24400,6 +27943,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Mauritániai Iszlám Köztársaság',
         'common' => 'Mauritánia',
+      ],
+      'ind' => [
+        'official' => 'Republik Islam Mauritania',
+        'common' => 'Mauritania',
       ],
       'ita' => [
         'official' => 'Repubblica islamica di Mauritania',
@@ -24441,9 +27988,17 @@ class CountriesDataSource
         'official' => 'República Islámica de Mauritania',
         'common' => 'Mauritania',
       ],
+      'srp' => [
+        'official' => 'Исламска Република Мауританија',
+        'common' => 'Мауританија',
+      ],
       'swe' => [
         'official' => 'Islamiska republiken Mauretanien',
         'common' => 'Mauretanien',
+      ],
+      'tur' => [
+        'official' => 'Moritanya İslam Cumhuriyeti',
+        'common' => 'Moritanya',
       ],
       'urd' => [
         'official' => 'اسلامی جمہوریہ موریتانیہ',
@@ -24526,7 +28081,19 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مونتسرات',
+        'common' => 'مونتسرات',
+      ],
+      'bre' => [
+        'official' => 'Montserrat',
+        'common' => 'Montserrat',
+      ],
       'ces' => [
+        'official' => 'Montserrat',
+        'common' => 'Montserrat',
+      ],
+      'cym' => [
         'official' => 'Montserrat',
         'common' => 'Montserrat',
       ],
@@ -24551,6 +28118,10 @@ class CountriesDataSource
         'common' => 'Montserrat',
       ],
       'hun' => [
+        'official' => 'Montserrat',
+        'common' => 'Montserrat',
+      ],
+      'ind' => [
         'official' => 'Montserrat',
         'common' => 'Montserrat',
       ],
@@ -24594,7 +28165,15 @@ class CountriesDataSource
         'official' => 'Montserrat',
         'common' => 'Montserrat',
       ],
+      'srp' => [
+        'official' => 'Монтсерат',
+        'common' => 'Монтсерат',
+      ],
       'swe' => [
+        'official' => 'Montserrat',
+        'common' => 'Montserrat',
+      ],
+      'tur' => [
         'official' => 'Montserrat',
         'common' => 'Montserrat',
       ],
@@ -24653,7 +28232,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -24675,9 +28254,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مارتينيك',
+        'common' => 'مارتينيك',
+      ],
+      'bre' => [
+        'official' => 'Martinik',
+        'common' => 'Martinik',
+      ],
       'ces' => [
         'official' => 'Martinik',
         'common' => 'Martinik',
+      ],
+      'cym' => [
+        'official' => 'Martinique',
+        'common' => 'Martinique',
       ],
       'deu' => [
         'official' => 'Martinique',
@@ -24702,6 +28293,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Martinique',
         'common' => 'Martinique',
+      ],
+      'ind' => [
+        'official' => 'Martinik',
+        'common' => 'Martinik',
       ],
       'ita' => [
         'official' => 'Martinique',
@@ -24743,9 +28338,17 @@ class CountriesDataSource
         'official' => 'Martinica',
         'common' => 'Martinica',
       ],
+      'srp' => [
+        'official' => 'Мартиник',
+        'common' => 'Мартиник',
+      ],
       'swe' => [
         'official' => 'Martinique',
         'common' => 'Martinique',
+      ],
+      'tur' => [
+        'official' => 'Martinik',
+        'common' => 'Martinik',
       ],
       'urd' => [
         'official' => 'مارٹینیک',
@@ -24836,9 +28439,21 @@ class CountriesDataSource
       'mfe' => 'Mauritian Creole',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية موريشيوس',
+        'common' => 'موريشيوس',
+      ],
+      'bre' => [
+        'official' => 'Republik Moris',
+        'common' => 'Moris',
+      ],
       'ces' => [
         'official' => 'Mauricijská republika',
         'common' => 'Mauricius',
+      ],
+      'cym' => [
+        'official' => 'Republic of Mauritius',
+        'common' => 'Mauritius',
       ],
       'deu' => [
         'official' => 'Republik Mauritius',
@@ -24862,6 +28477,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Mauritiusi Köztársaság',
+        'common' => 'Mauritius',
+      ],
+      'ind' => [
+        'official' => 'Republik Mauritius',
         'common' => 'Mauritius',
       ],
       'ita' => [
@@ -24904,8 +28523,16 @@ class CountriesDataSource
         'official' => 'República de Mauricio',
         'common' => 'Mauricio',
       ],
+      'srp' => [
+        'official' => 'Република Маурицијус',
+        'common' => 'Маурицијус',
+      ],
       'swe' => [
         'official' => 'Republiken Mauritius',
+        'common' => 'Mauritius',
+      ],
+      'tur' => [
+        'official' => 'Mauritius Cumhuriyeti',
         'common' => 'Mauritius',
       ],
       'urd' => [
@@ -24991,8 +28618,20 @@ class CountriesDataSource
       'nya' => 'Chewa',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية مالاوي',
+        'common' => 'مالاوي',
+      ],
+      'bre' => [
+        'official' => 'Republik Malawi',
+        'common' => 'Malawi',
+      ],
       'ces' => [
         'official' => 'Malawiská republika',
+        'common' => 'Malawi',
+      ],
+      'cym' => [
+        'official' => 'Republic of Malawi',
         'common' => 'Malawi',
       ],
       'deu' => [
@@ -25017,6 +28656,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Malawi Köztársaság',
+        'common' => 'Malawi',
+      ],
+      'ind' => [
+        'official' => 'Republik Malawi',
         'common' => 'Malawi',
       ],
       'ita' => [
@@ -25059,9 +28702,17 @@ class CountriesDataSource
         'official' => 'República de Malawi',
         'common' => 'Malawi',
       ],
+      'srp' => [
+        'official' => 'Република Малави',
+        'common' => 'Малави',
+      ],
       'swe' => [
         'official' => 'Republiken Malawi',
         'common' => 'Malawi',
+      ],
+      'tur' => [
+        'official' => 'Malavi Cumhuriyeti',
+        'common' => 'Malavi',
       ],
       'urd' => [
         'official' => 'جمہوریہ ملاوی',
@@ -25148,9 +28799,21 @@ class CountriesDataSource
       'msa' => 'Malay',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'ماليزيا',
+        'common' => 'ماليزيا',
+      ],
+      'bre' => [
+        'official' => 'Malaysia',
+        'common' => 'Malaysia',
+      ],
       'ces' => [
         'official' => 'Malajsie',
         'common' => 'Malajsie',
+      ],
+      'cym' => [
+        'official' => 'Malaysia',
+        'common' => 'Malaysia',
       ],
       'deu' => [
         'official' => 'Malaysia',
@@ -25175,6 +28838,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Malajzia',
         'common' => 'Malajzia',
+      ],
+      'ind' => [
+        'official' => 'Malaysia',
+        'common' => 'Malaysia',
       ],
       'ita' => [
         'official' => 'Malaysia',
@@ -25216,9 +28883,17 @@ class CountriesDataSource
         'official' => 'Malasia',
         'common' => 'Malasia',
       ],
+      'srp' => [
+        'official' => 'Малезија',
+        'common' => 'Малезија',
+      ],
       'swe' => [
         'official' => 'Malaysia',
         'common' => 'Malaysia',
+      ],
+      'tur' => [
+        'official' => 'Malezya',
+        'common' => 'Malezya',
       ],
       'urd' => [
         'official' => 'ملائیشیا',
@@ -25278,7 +28953,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -25302,8 +28977,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مايوت',
+        'common' => 'مايوت',
+      ],
+      'bre' => [
+        'official' => 'Departamant Mayotte',
+        'common' => 'Mayotte',
+      ],
       'ces' => [
         'official' => 'Mayotte',
+        'common' => 'Mayotte',
+      ],
+      'cym' => [
+        'official' => 'Department of Mayotte',
         'common' => 'Mayotte',
       ],
       'deu' => [
@@ -25328,6 +29015,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Mayotte',
+        'common' => 'Mayotte',
+      ],
+      'ind' => [
+        'official' => 'Region Mayotte',
         'common' => 'Mayotte',
       ],
       'ita' => [
@@ -25370,8 +29061,16 @@ class CountriesDataSource
         'official' => 'Departamento de Mayotte',
         'common' => 'Mayotte',
       ],
+      'srp' => [
+        'official' => 'Мајот',
+        'common' => 'Мајот',
+      ],
       'swe' => [
         'official' => 'Departementsområdet Mayotte',
+        'common' => 'Mayotte',
+      ],
+      'tur' => [
+        'official' => 'Mayotte',
         'common' => 'Mayotte',
       ],
       'urd' => [
@@ -25497,9 +29196,21 @@ class CountriesDataSource
       'tsn' => 'Tswana',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ناميبيا',
+        'common' => 'ناميبيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Namibia',
+        'common' => 'Namibia',
+      ],
       'ces' => [
         'official' => 'Namibijská republika',
         'common' => 'Namibie',
+      ],
+      'cym' => [
+        'official' => 'Republic of Namibia',
+        'common' => 'Namibia',
       ],
       'deu' => [
         'official' => 'Republik Namibia',
@@ -25524,6 +29235,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Namíbiai Köztársaság',
         'common' => 'Namíbia',
+      ],
+      'ind' => [
+        'official' => 'Republik Namibia',
+        'common' => 'Namibia',
       ],
       'ita' => [
         'official' => 'Repubblica di Namibia',
@@ -25565,9 +29280,17 @@ class CountriesDataSource
         'official' => 'República de Namibia',
         'common' => 'Namibia',
       ],
+      'srp' => [
+        'official' => 'Република Намибија',
+        'common' => 'Намибија',
+      ],
       'swe' => [
         'official' => 'Republiken Namibia',
         'common' => 'Namibia',
+      ],
+      'tur' => [
+        'official' => 'Namibya Cumhuriyeti',
+        'common' => 'Namibya',
       ],
       'urd' => [
         'official' => 'جمہوریہ نمیبیا',
@@ -25650,9 +29373,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'كاليدونيا الجديدة',
+        'common' => 'كاليدونيا الجديدة',
+      ],
+      'bre' => [
+        'official' => 'Kaledonia-Nevez',
+        'common' => 'Kaledonia-Nevez',
+      ],
       'ces' => [
         'official' => 'Nová Kaledonie',
         'common' => 'Nová Kaledonie',
+      ],
+      'cym' => [
+        'official' => 'New Caledonia',
+        'common' => 'New Caledonia',
       ],
       'deu' => [
         'official' => 'Neukaledonien',
@@ -25677,6 +29412,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Új-Kaledónia',
         'common' => 'Új-Kaledónia',
+      ],
+      'ind' => [
+        'official' => 'Kaledonia Baru',
+        'common' => 'Kaledonia Baru',
       ],
       'ita' => [
         'official' => 'Nuova Caledonia',
@@ -25718,9 +29457,17 @@ class CountriesDataSource
         'official' => 'nueva Caledonia',
         'common' => 'Nueva Caledonia',
       ],
+      'srp' => [
+        'official' => 'Нова Каледонија',
+        'common' => 'Нова Каледонија',
+      ],
       'swe' => [
         'official' => 'Nya Kaledonien',
         'common' => 'Nya Kaledonien',
+      ],
+      'tur' => [
+        'official' => 'Yeni Kaledonya',
+        'common' => 'Yeni Kaledonya',
       ],
       'urd' => [
         'official' => 'نیو کیلیڈونیا',
@@ -25800,8 +29547,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية النيجر',
+        'common' => 'النيجر',
+      ],
+      'bre' => [
+        'official' => 'Republik Niger',
+        'common' => 'Niger',
+      ],
       'ces' => [
         'official' => 'Nigerská republika',
+        'common' => 'Niger',
+      ],
+      'cym' => [
+        'official' => 'Republic of Niger',
         'common' => 'Niger',
       ],
       'deu' => [
@@ -25826,6 +29585,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Nigeri Köztársaság',
+        'common' => 'Niger',
+      ],
+      'ind' => [
+        'official' => 'Republik Niger',
         'common' => 'Niger',
       ],
       'ita' => [
@@ -25868,9 +29631,17 @@ class CountriesDataSource
         'official' => 'República de Níger',
         'common' => 'Níger',
       ],
+      'srp' => [
+        'official' => 'Република Нигер',
+        'common' => 'Нигер',
+      ],
       'swe' => [
         'official' => 'Republiken Niger',
         'common' => 'Niger',
+      ],
+      'tur' => [
+        'official' => 'Nijer Cumhuriyeti',
+        'common' => 'Nijer',
       ],
       'urd' => [
         'official' => 'جمہوریہ نائجر',
@@ -25963,9 +29734,21 @@ class CountriesDataSource
       'pih' => 'Norfuk',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'إقليم جزيرة نورفولك',
+        'common' => 'جزيرة نورفولك',
+      ],
+      'bre' => [
+        'official' => 'Tiriad Enez Norfolk',
+        'common' => 'Enez Norfolk',
+      ],
       'ces' => [
         'official' => 'Teritorium ostrova Norfolk',
         'common' => 'Norfolk',
+      ],
+      'cym' => [
+        'official' => 'Territory of Norfolk Island',
+        'common' => 'Norfolk Island',
       ],
       'deu' => [
         'official' => 'Gebiet der Norfolkinsel',
@@ -25990,6 +29773,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Norfolk-sziget',
         'common' => 'Norfolk-sziget',
+      ],
+      'ind' => [
+        'official' => 'Wilayah Pulau Norfolk',
+        'common' => 'Pulau Norfolk',
       ],
       'ita' => [
         'official' => 'Territorio di Norfolk Island',
@@ -26031,9 +29818,17 @@ class CountriesDataSource
         'official' => 'Territorio de la Isla Norfolk',
         'common' => 'Isla de Norfolk',
       ],
+      'srp' => [
+        'official' => 'Територија Острва Норфок',
+        'common' => 'Норфок',
+      ],
       'swe' => [
         'official' => 'Norfolkön',
         'common' => 'Norfolkön',
+      ],
+      'tur' => [
+        'official' => 'Norfolk Adası',
+        'common' => 'Norfolk Adası',
       ],
       'urd' => [
         'official' => 'جزیرہ نورفک خطہ',
@@ -26115,9 +29910,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية نيجيريا الاتحادية',
+        'common' => 'نيجيريا',
+      ],
+      'bre' => [
+        'official' => 'Republik Kevreadel Nigeria',
+        'common' => 'Nigeria',
+      ],
       'ces' => [
         'official' => 'Nigerijská federativní republika',
         'common' => 'Nigérie',
+      ],
+      'cym' => [
+        'official' => 'Federal Republic of Nigeria',
+        'common' => 'Nigeria',
       ],
       'deu' => [
         'official' => 'Bundesrepublik Nigeria',
@@ -26142,6 +29949,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Nigéria',
         'common' => 'Nigéria',
+      ],
+      'ind' => [
+        'official' => 'Republik Federal Nigeria',
+        'common' => 'Nigeria',
       ],
       'ita' => [
         'official' => 'Repubblica federale di Nigeria',
@@ -26183,9 +29994,17 @@ class CountriesDataSource
         'official' => 'República Federal de Nigeria',
         'common' => 'Nigeria',
       ],
+      'srp' => [
+        'official' => 'Савезна Република Нигерија',
+        'common' => 'Нигерија ',
+      ],
       'swe' => [
         'official' => 'Förbundsrepubliken Nigeria',
         'common' => 'Nigeria',
+      ],
+      'tur' => [
+        'official' => 'Nijerya Federal Cumhuriyeti',
+        'common' => 'Nijerya',
       ],
       'urd' => [
         'official' => 'وفاقی جمہوریہ نائجیریا',
@@ -26270,9 +30089,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية نيكاراغوا',
+        'common' => 'نيكاراغوا',
+      ],
+      'bre' => [
+        'official' => 'Republik Nicaragua',
+        'common' => 'Nicaragua',
+      ],
       'ces' => [
         'official' => 'Republika Nikaragua',
         'common' => 'Nikaragua',
+      ],
+      'cym' => [
+        'official' => 'Republic of Nicaragua',
+        'common' => 'Nicaragua',
       ],
       'deu' => [
         'official' => 'Republik Nicaragua',
@@ -26297,6 +30128,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Nicaraguai Köztársaság',
         'common' => 'Nicaragua',
+      ],
+      'ind' => [
+        'official' => 'Republik Nikaragua',
+        'common' => 'Nikaragua',
       ],
       'ita' => [
         'official' => 'Repubblica del Nicaragua',
@@ -26338,9 +30173,17 @@ class CountriesDataSource
         'official' => 'República de Nicaragua',
         'common' => 'Nicaragua',
       ],
+      'srp' => [
+        'official' => 'Република Никарагва',
+        'common' => 'Никарагва',
+      ],
       'swe' => [
         'official' => 'Republiken Nicaragua',
         'common' => 'Nicaragua',
+      ],
+      'tur' => [
+        'official' => 'Nikaragua Cumhuriyeti',
+        'common' => 'Nikaragua',
       ],
       'urd' => [
         'official' => 'جمہوریہ نکاراگوا',
@@ -26426,7 +30269,19 @@ class CountriesDataSource
       'niu' => 'Niuean',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'نييوي',
+        'common' => 'نييوي',
+      ],
+      'bre' => [
+        'official' => 'Niue',
+        'common' => 'Niue',
+      ],
       'ces' => [
+        'official' => 'Niue',
+        'common' => 'Niue',
+      ],
+      'cym' => [
         'official' => 'Niue',
         'common' => 'Niue',
       ],
@@ -26451,6 +30306,10 @@ class CountriesDataSource
         'common' => 'Niue',
       ],
       'hun' => [
+        'official' => 'Niue',
+        'common' => 'Niue',
+      ],
+      'ind' => [
         'official' => 'Niue',
         'common' => 'Niue',
       ],
@@ -26494,7 +30353,15 @@ class CountriesDataSource
         'official' => 'Niue',
         'common' => 'Niue',
       ],
+      'srp' => [
+        'official' => 'Нијуе',
+        'common' => 'Нијуе',
+      ],
       'swe' => [
+        'official' => 'Niue',
+        'common' => 'Niue',
+      ],
+      'tur' => [
         'official' => 'Niue',
         'common' => 'Niue',
       ],
@@ -26553,7 +30420,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -26578,9 +30445,21 @@ class CountriesDataSource
       'nld' => 'Dutch',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة هولندا',
+        'common' => 'هولندا',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh an Izelvroioù',
+        'common' => 'Izelvroioù',
+      ],
       'ces' => [
         'official' => 'Nizozemské království',
         'common' => 'Nizozemsko',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of the Netherlands',
+        'common' => 'Netherlands',
       ],
       'deu' => [
         'official' => 'Niederlande',
@@ -26605,6 +30484,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Holland Királyság',
         'common' => 'Hollandia',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Belanda',
+        'common' => 'Belanda',
       ],
       'ita' => [
         'official' => 'Paesi Bassi',
@@ -26646,9 +30529,17 @@ class CountriesDataSource
         'official' => 'Países Bajos',
         'common' => 'Países Bajos',
       ],
+      'srp' => [
+        'official' => 'Краљевина Холандија',
+        'common' => 'Холандија',
+      ],
       'swe' => [
         'official' => 'Nederländerna',
         'common' => 'Nederländerna',
+      ],
+      'tur' => [
+        'official' => 'Hollanda',
+        'common' => 'Hollanda',
       ],
       'urd' => [
         'official' => 'مملکتِ نیدرلینڈز',
@@ -26668,7 +30559,7 @@ class CountriesDataSource
       0 => 'BEL',
       1 => 'DEU',
     ],
-    'area' => 41850,
+    'area' => 41865,
     'flag' => '🇳🇱',
     'demonyms' => [
       'eng' => [
@@ -26744,9 +30635,21 @@ class CountriesDataSource
       'smi' => 'Sami',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة النرويج',
+        'common' => 'النرويج',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Norvegia',
+        'common' => 'Norvegia',
+      ],
       'ces' => [
         'official' => 'Norské království',
         'common' => 'Norsko',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Norway',
+        'common' => 'Norway',
       ],
       'deu' => [
         'official' => 'Königreich Norwegen',
@@ -26771,6 +30674,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Norvég Királyság',
         'common' => 'Norvégia',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Norwegia',
+        'common' => 'Norwegia',
       ],
       'ita' => [
         'official' => 'Regno di Norvegia',
@@ -26812,9 +30719,17 @@ class CountriesDataSource
         'official' => 'Reino de Noruega',
         'common' => 'Noruega',
       ],
+      'srp' => [
+        'official' => 'Краљевина Норвешка',
+        'common' => 'Норвешка',
+      ],
       'swe' => [
         'official' => 'Konungariket Norge',
         'common' => 'Norge',
+      ],
+      'tur' => [
+        'official' => 'Norveç Krallığı',
+        'common' => 'Norveç',
       ],
       'urd' => [
         'official' => 'مملکتِ ناروے',
@@ -26835,7 +30750,7 @@ class CountriesDataSource
       1 => 'SWE',
       2 => 'RUS',
     ],
-    'area' => 323802,
+    'area' => 386224,
     'flag' => '🇳🇴',
     'demonyms' => [
       'eng' => [
@@ -26898,9 +30813,21 @@ class CountriesDataSource
       'nep' => 'Nepali',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية نيبال الديمقراطية الاتحادية',
+        'common' => 'نيبال',
+      ],
+      'bre' => [
+        'official' => 'Republik Demokratel Kevreadel Nepal',
+        'common' => 'Nepal',
+      ],
       'ces' => [
         'official' => 'Federativní demokratická republika Nepál',
         'common' => 'Nepál',
+      ],
+      'cym' => [
+        'official' => 'Federal Democratic Republic of Nepal',
+        'common' => 'Nepal',
       ],
       'deu' => [
         'official' => 'Demokratische Bundesrepublik Nepal',
@@ -26925,6 +30852,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Nepáli Szövetségi Demokratikus Köztársaság',
         'common' => 'Nepál',
+      ],
+      'ind' => [
+        'official' => 'Nepal',
+        'common' => 'Nepal',
       ],
       'ita' => [
         'official' => 'Repubblica federale democratica del Nepal',
@@ -26966,8 +30897,16 @@ class CountriesDataSource
         'official' => 'República Democrática Federal de Nepal',
         'common' => 'Nepal',
       ],
+      'srp' => [
+        'official' => 'Савезна Демократска Република Непал',
+        'common' => 'Непал',
+      ],
       'swe' => [
         'official' => 'Demokratiska förbundsrepubliken Nepal',
+        'common' => 'Nepal',
+      ],
+      'tur' => [
+        'official' => 'Nepal Federal Demokratik Cumhuriyeti',
         'common' => 'Nepal',
       ],
       'urd' => [
@@ -27058,8 +30997,20 @@ class CountriesDataSource
       'nau' => 'Nauru',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ناورو',
+        'common' => 'ناورو',
+      ],
+      'bre' => [
+        'official' => 'Republik Nauru',
+        'common' => 'Nauru',
+      ],
       'ces' => [
         'official' => 'Republika Nauru',
+        'common' => 'Nauru',
+      ],
+      'cym' => [
+        'official' => 'Republic of Nauru',
         'common' => 'Nauru',
       ],
       'deu' => [
@@ -27084,6 +31035,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Naurui Köztársaság',
+        'common' => 'Nauru',
+      ],
+      'ind' => [
+        'official' => 'Republik Nauru',
         'common' => 'Nauru',
       ],
       'ita' => [
@@ -27126,8 +31081,16 @@ class CountriesDataSource
         'official' => 'República de Nauru',
         'common' => 'Nauru',
       ],
+      'srp' => [
+        'official' => 'Република Науру',
+        'common' => 'Науру',
+      ],
       'swe' => [
         'official' => 'Republiken Nauru',
+        'common' => 'Nauru',
+      ],
+      'tur' => [
+        'official' => 'Nauru Cumhuriyeti',
         'common' => 'Nauru',
       ],
       'urd' => [
@@ -27218,9 +31181,21 @@ class CountriesDataSource
       'nzs' => 'New Zealand Sign Language',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'نيوزيلندا',
+        'common' => 'نيوزيلندا',
+      ],
+      'bre' => [
+        'official' => 'Zeland-Nevez',
+        'common' => 'Zeland-Nevez',
+      ],
       'ces' => [
         'official' => 'Nový Zéland',
         'common' => 'Nový Zéland',
+      ],
+      'cym' => [
+        'official' => 'New Zealand',
+        'common' => 'New Zealand',
       ],
       'deu' => [
         'official' => 'Neuseeland',
@@ -27245,6 +31220,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Új-Zéland',
         'common' => 'Új-Zéland',
+      ],
+      'ind' => [
+        'official' => 'Selandia Baru',
+        'common' => 'Selandia Baru',
       ],
       'ita' => [
         'official' => 'Nuova Zelanda',
@@ -27286,9 +31265,17 @@ class CountriesDataSource
         'official' => 'nueva Zelanda',
         'common' => 'Nueva Zelanda',
       ],
+      'srp' => [
+        'official' => 'Нови Зеланд',
+        'common' => 'Нови Зеланд',
+      ],
       'swe' => [
         'official' => 'Nya Zeeland',
         'common' => 'Nya Zeeland',
+      ],
+      'tur' => [
+        'official' => 'Yeni Zelanda',
+        'common' => 'Yeni Zelanda',
       ],
       'urd' => [
         'official' => 'نیوزی لینڈ',
@@ -27306,7 +31293,7 @@ class CountriesDataSource
     'landlocked' => false,
     'borders' => [
     ],
-    'area' => 270467,
+    'area' => 268838,
     'flag' => '🇳🇿',
     'demonyms' => [
       'eng' => [
@@ -27369,9 +31356,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سلطنة عمان',
+        'common' => 'عمان',
+      ],
+      'bre' => [
+        'official' => 'Sultanelezh Oman',
+        'common' => 'Oman',
+      ],
       'ces' => [
         'official' => 'Sultanát Omán',
         'common' => 'Omán',
+      ],
+      'cym' => [
+        'official' => 'Sultanate of Oman',
+        'common' => 'Oman',
       ],
       'deu' => [
         'official' => 'Sultanat Oman',
@@ -27396,6 +31395,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ománi Szultanátus',
         'common' => 'Omán',
+      ],
+      'ind' => [
+        'official' => 'Kesultanan Oman',
+        'common' => 'Oman',
       ],
       'ita' => [
         'official' => 'Sultanato dell\'Oman',
@@ -27437,9 +31440,17 @@ class CountriesDataSource
         'official' => 'Sultanato de Omán',
         'common' => 'Omán',
       ],
+      'srp' => [
+        'official' => 'Султанат Оман',
+        'common' => 'Оман',
+      ],
       'swe' => [
         'official' => 'Sultanatet Oman',
         'common' => 'Oman',
+      ],
+      'tur' => [
+        'official' => 'Umman Sultanlığı',
+        'common' => 'Umman',
       ],
       'urd' => [
         'official' => 'سلطنت عمان',
@@ -27529,9 +31540,21 @@ class CountriesDataSource
       'urd' => 'Urdu',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية باكستان الإسلامية',
+        'common' => 'باكستان',
+      ],
+      'bre' => [
+        'official' => 'Republik islamek Pakistan',
+        'common' => 'Pakistan',
+      ],
       'ces' => [
         'official' => 'Pákistánská islámská republika',
         'common' => 'Pákistán',
+      ],
+      'cym' => [
+        'official' => 'Islamic Republic of Pakistan',
+        'common' => 'Pakistan',
       ],
       'deu' => [
         'official' => 'Islamische Republik Pakistan',
@@ -27556,6 +31579,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Pakisztán',
         'common' => 'Pakisztán',
+      ],
+      'ind' => [
+        'official' => 'Republik Islam Pakistan',
+        'common' => 'Pakistan',
       ],
       'ita' => [
         'official' => 'Repubblica islamica del Pakistan',
@@ -27597,8 +31624,16 @@ class CountriesDataSource
         'official' => 'República Islámica de Pakistán',
         'common' => 'Pakistán',
       ],
+      'srp' => [
+        'official' => 'Исламска Република Пакистан',
+        'common' => 'Пакистан',
+      ],
       'swe' => [
         'official' => 'Islamiska republiken Pakistan',
+        'common' => 'Pakistan',
+      ],
+      'tur' => [
+        'official' => 'Pakistan İslam Cumhuriyeti',
         'common' => 'Pakistan',
       ],
       'urd' => [
@@ -27621,7 +31656,7 @@ class CountriesDataSource
       2 => 'IND',
       3 => 'IRN',
     ],
-    'area' => 881912,
+    'area' => 796095,
     'flag' => '🇵🇰',
     'demonyms' => [
       'eng' => [
@@ -27688,8 +31723,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بنما',
+        'common' => 'بنما',
+      ],
+      'bre' => [
+        'official' => 'Republik Panama',
+        'common' => 'Panama',
+      ],
       'ces' => [
         'official' => 'Panamská republika',
+        'common' => 'Panama',
+      ],
+      'cym' => [
+        'official' => 'Republic of Panama',
         'common' => 'Panama',
       ],
       'deu' => [
@@ -27714,6 +31761,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Panamai Köztársaság',
+        'common' => 'Panama',
+      ],
+      'ind' => [
+        'official' => 'Republik Panama',
         'common' => 'Panama',
       ],
       'ita' => [
@@ -27756,8 +31807,16 @@ class CountriesDataSource
         'official' => 'República de Panamá',
         'common' => 'Panamá',
       ],
+      'srp' => [
+        'official' => 'Република Панама',
+        'common' => 'Панама',
+      ],
       'swe' => [
         'official' => 'Republiken Panama',
+        'common' => 'Panama',
+      ],
+      'tur' => [
+        'official' => 'Panama Cumhuriyeti',
         'common' => 'Panama',
       ],
       'urd' => [
@@ -27841,9 +31900,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر بيتكيرن',
+        'common' => 'جزر بيتكيرن',
+      ],
+      'bre' => [
+        'official' => 'Inizi Pitcairn, Henderson, Ducie hag Oeno',
+        'common' => 'Inizi Pitcairn',
+      ],
       'ces' => [
         'official' => 'Pitcairnovy ostrovy',
         'common' => 'Pitcairnovy ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Pitcairn Group of Islands',
+        'common' => 'Pitcairn Islands',
       ],
       'deu' => [
         'official' => 'Pitcairninseln',
@@ -27868,6 +31939,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Pitcairn-szigetek',
         'common' => 'Pitcairn-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kelompok Kepulauan Pitcairn',
+        'common' => 'Kepulauan Pitcairn',
       ],
       'ita' => [
         'official' => 'Pitcairn gruppo di isole',
@@ -27909,9 +31984,17 @@ class CountriesDataSource
         'official' => 'Grupo de Islas Pitcairn',
         'common' => 'Islas Pitcairn',
       ],
+      'srp' => [
+        'official' => 'Острва Питкерн, Хендерсон, Дуци и Оин',
+        'common' => 'Острва Питкерн',
+      ],
       'swe' => [
         'official' => 'Pitcairnöarna',
         'common' => 'Pitcairnöarna',
+      ],
+      'tur' => [
+        'official' => 'Pitcairn, Henderson, Ducie ve Oeno Adaları',
+        'common' => 'Pitcairn Adaları',
       ],
       'urd' => [
         'official' => 'پٹکیرن جزائر',
@@ -27977,7 +32060,7 @@ class CountriesDataSource
     'currencies' => [
       'PEN' => [
         'name' => 'Peruvian sol',
-        'symbol' => 'S/.',
+        'symbol' => 'S/ ',
       ],
     ],
     'idd' => [
@@ -28002,8 +32085,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بيرو',
+        'common' => 'بيرو',
+      ],
+      'bre' => [
+        'official' => 'Republik Perou',
+        'common' => 'Perou',
+      ],
       'ces' => [
         'official' => 'Peruánská republika',
+        'common' => 'Peru',
+      ],
+      'cym' => [
+        'official' => 'Republic of Peru',
         'common' => 'Peru',
       ],
       'deu' => [
@@ -28028,6 +32123,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Perui Köztársaság',
+        'common' => 'Peru',
+      ],
+      'ind' => [
+        'official' => 'Republik Peru',
         'common' => 'Peru',
       ],
       'ita' => [
@@ -28070,8 +32169,16 @@ class CountriesDataSource
         'official' => 'República de Perú',
         'common' => 'Perú',
       ],
+      'srp' => [
+        'official' => 'Република Перу',
+        'common' => 'Перу',
+      ],
       'swe' => [
         'official' => 'Republiken Peru',
+        'common' => 'Peru',
+      ],
+      'tur' => [
+        'official' => 'Peru Cumhuriyeti',
         'common' => 'Peru',
       ],
       'urd' => [
@@ -28163,9 +32270,21 @@ class CountriesDataSource
       'fil' => 'Filipino',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الفلبين',
+        'common' => 'الفلبين',
+      ],
+      'bre' => [
+        'official' => 'Republik Filipinez',
+        'common' => 'Filipinez',
+      ],
       'ces' => [
         'official' => 'Filipínská republika',
         'common' => 'Filipíny',
+      ],
+      'cym' => [
+        'official' => 'Republic of the Philippines',
+        'common' => 'Philippines',
       ],
       'deu' => [
         'official' => 'Republik der Philippinen',
@@ -28190,6 +32309,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Fülöp-szigeteki Köztársaság',
         'common' => 'Fülöp-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Republik Filipina',
+        'common' => 'Filipina',
       ],
       'ita' => [
         'official' => 'Repubblica delle Filippine',
@@ -28231,9 +32354,17 @@ class CountriesDataSource
         'official' => 'República de las Filipinas',
         'common' => 'Filipinas',
       ],
+      'srp' => [
+        'official' => 'Република Филипини',
+        'common' => 'Филипини',
+      ],
       'swe' => [
         'official' => 'Republiken Filippinerna',
         'common' => 'Filippinerna',
+      ],
+      'tur' => [
+        'official' => 'Filipinler Cumhuriyeti',
+        'common' => 'Filipinler',
       ],
       'urd' => [
         'official' => 'جمہوریہ فلپائن',
@@ -28319,8 +32450,20 @@ class CountriesDataSource
       'pau' => 'Palauan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية بالاو',
+        'common' => 'بالاو',
+      ],
+      'bre' => [
+        'official' => 'Republik Palau',
+        'common' => 'Palau',
+      ],
       'ces' => [
         'official' => 'Republika Palau',
+        'common' => 'Palau',
+      ],
+      'cym' => [
+        'official' => 'Republic of Palau',
         'common' => 'Palau',
       ],
       'deu' => [
@@ -28345,6 +32488,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Palaui Köztársaság',
+        'common' => 'Palau',
+      ],
+      'ind' => [
+        'official' => 'Republik Palau',
         'common' => 'Palau',
       ],
       'ita' => [
@@ -28387,8 +32534,16 @@ class CountriesDataSource
         'official' => 'República de Palau',
         'common' => 'Palau',
       ],
+      'srp' => [
+        'official' => 'Република Палау',
+        'common' => 'Палау',
+      ],
       'swe' => [
         'official' => 'Republiken Palau',
+        'common' => 'Palau',
+      ],
+      'tur' => [
+        'official' => 'Palau Cumhuriyeti',
         'common' => 'Palau',
       ],
       'urd' => [
@@ -28480,9 +32635,21 @@ class CountriesDataSource
       'tpi' => 'Tok Pisin',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة بابوا غينيا الجديدة',
+        'common' => 'بابوا غينيا الجديدة',
+      ],
+      'bre' => [
+        'official' => 'Stad dizalc\'h Papoua-Ginea Nevez',
+        'common' => 'Papoua-Ginea Nevez',
+      ],
       'ces' => [
         'official' => 'Nezávislý stát Papua Nová Guinea',
         'common' => 'Papua-Nová Guinea',
+      ],
+      'cym' => [
+        'official' => 'Independent State of Papua New Guinea',
+        'common' => 'Papua New Guinea',
       ],
       'deu' => [
         'official' => 'Unabhängiger Staat Papua-Neuguinea',
@@ -28507,6 +32674,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Pápua Új-Guinea Független Állam',
         'common' => 'Pápua Új-Guinea',
+      ],
+      'ind' => [
+        'official' => 'Papua Nugini',
+        'common' => 'Papua Nugini',
       ],
       'ita' => [
         'official' => 'Stato indipendente di Papua Nuova Guinea',
@@ -28548,9 +32719,17 @@ class CountriesDataSource
         'official' => 'Estado Independiente de Papúa Nueva Guinea',
         'common' => 'Papúa Nueva Guinea',
       ],
+      'srp' => [
+        'official' => 'Независна Држава Папуа Нова Гвинеја',
+        'common' => 'Папуа Нова Гвинеја',
+      ],
       'swe' => [
         'official' => 'Den oberoende staten Papua Nya Guinea',
         'common' => 'Papua Nya Guinea',
+      ],
+      'tur' => [
+        'official' => 'Papua Yeni Gine Bağımsız Devleti',
+        'common' => 'Papua Yeni Gine',
       ],
       'urd' => [
         'official' => 'آزاد ریاستِ پاپوا نیو گنی',
@@ -28632,9 +32811,21 @@ class CountriesDataSource
       'pol' => 'Polish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية البولندية',
+        'common' => 'بولندا',
+      ],
+      'bre' => [
+        'official' => 'Republik Polonia',
+        'common' => 'Polonia',
+      ],
       'ces' => [
         'official' => 'Polská republika',
         'common' => 'Polsko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Poland',
+        'common' => 'Poland',
       ],
       'deu' => [
         'official' => 'Republik Polen',
@@ -28659,6 +32850,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Lengyel Köztársaság',
         'common' => 'Lengyelország',
+      ],
+      'ind' => [
+        'official' => 'Republik Polandia',
+        'common' => 'Polandia',
       ],
       'ita' => [
         'official' => 'Repubblica di Polonia',
@@ -28700,9 +32895,17 @@ class CountriesDataSource
         'official' => 'República de Polonia',
         'common' => 'Polonia',
       ],
+      'srp' => [
+        'official' => 'Република Пољска',
+        'common' => 'Пољска',
+      ],
       'swe' => [
         'official' => 'Republiken Polen',
         'common' => 'Polen',
+      ],
+      'tur' => [
+        'official' => 'Polonya Cumhuriyeti',
+        'common' => 'Polonya',
       ],
       'urd' => [
         'official' => 'جمہوریہ پولینڈ',
@@ -28796,9 +32999,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'كومنولث بويرتوريكو',
+        'common' => 'بويرتوريكو',
+      ],
+      'bre' => [
+        'official' => 'Kenglad Puerto Rico',
+        'common' => 'Puerto Rico',
+      ],
       'ces' => [
         'official' => 'Portoriko',
         'common' => 'Portoriko',
+      ],
+      'cym' => [
+        'official' => 'Commonwealth of Puerto Rico',
+        'common' => 'Puerto Rico',
       ],
       'deu' => [
         'official' => 'Freistaat Puerto Rico',
@@ -28823,6 +33038,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Puerto Rico',
         'common' => 'Puerto Rico',
+      ],
+      'ind' => [
+        'official' => 'Persemakmuran Puerto Riko',
+        'common' => 'Puerto Riko',
       ],
       'ita' => [
         'official' => 'Commonwealth di Porto Rico',
@@ -28864,9 +33083,17 @@ class CountriesDataSource
         'official' => 'Asociado de Puerto Rico',
         'common' => 'Puerto Rico',
       ],
+      'srp' => [
+        'official' => 'Комонвелт Порторико',
+        'common' => 'Порторико',
+      ],
       'swe' => [
         'official' => 'Puerto Rico',
         'common' => 'Puerto Rico',
+      ],
+      'tur' => [
+        'official' => 'Porto Riko Topluluğu',
+        'common' => 'Porto Riko',
       ],
       'urd' => [
         'official' => ' دولتِ مشترکہ پورٹو ریکو',
@@ -28953,9 +33180,21 @@ class CountriesDataSource
       'kor' => 'Korean',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية كوريا الديمقراطية الشعبية',
+        'common' => 'كوريا الشمالية',
+      ],
+      'bre' => [
+        'official' => 'Republik Poblel ha Demokratel Korea',
+        'common' => 'Korea an Norzh',
+      ],
       'ces' => [
         'official' => 'Korejská lidově demokratická republika',
         'common' => 'Severní Korea',
+      ],
+      'cym' => [
+        'official' => 'Democratic People\'s Republic of Korea',
+        'common' => 'North Korea',
       ],
       'deu' => [
         'official' => 'Demokratische Volksrepublik Korea',
@@ -28980,6 +33219,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Koreai Népi Demokratikus Köztársaság',
         'common' => 'Észak-Korea',
+      ],
+      'ind' => [
+        'official' => 'Republik Rakyat Demokratik Korea',
+        'common' => 'Korea Utara',
       ],
       'ita' => [
         'official' => 'Repubblica democratica popolare di Corea',
@@ -29015,15 +33258,23 @@ class CountriesDataSource
       ],
       'slk' => [
         'official' => 'Kórejská ľudovodemokratická republika',
-        'common' => 'Kórejská ľudovodemokratická republika (KĽR, Severná Kórea)',
+        'common' => 'Severná Kórea',
       ],
       'spa' => [
         'official' => 'República Popular Democrática de Corea',
         'common' => 'Corea del Norte',
       ],
+      'srp' => [
+        'official' => 'Демократска Народна Република Кореја',
+        'common' => 'Северна Кореја',
+      ],
       'swe' => [
         'official' => 'Demokratiska Folkrepubliken Korea',
         'common' => 'Nordkorea',
+      ],
+      'tur' => [
+        'official' => 'Kore Demokratik Halk Cumhuriyeti',
+        'common' => 'Kuzey Kore',
       ],
       'urd' => [
         'official' => 'جمہوری عوامی جمہوریہ کوریا',
@@ -29066,7 +33317,7 @@ class CountriesDataSource
       'official' => 'Portuguese Republic',
       'native' => [
         'por' => [
-          'official' => 'República português',
+          'official' => 'República Portuguesa',
           'common' => 'Portugal',
         ],
       ],
@@ -29083,7 +33334,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -29108,9 +33359,21 @@ class CountriesDataSource
       'por' => 'Portuguese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية البرتغالية',
+        'common' => 'البرتغال',
+      ],
+      'bre' => [
+        'official' => 'Republik Portugalat',
+        'common' => 'Portugal',
+      ],
       'ces' => [
         'official' => 'Portugalská republika',
         'common' => 'Portugalsko',
+      ],
+      'cym' => [
+        'official' => 'Portuguese Republic',
+        'common' => 'Portugal',
       ],
       'deu' => [
         'official' => 'Portugiesische Republik',
@@ -29135,6 +33398,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Portugál Köztársaság',
         'common' => 'Portugália',
+      ],
+      'ind' => [
+        'official' => 'Republik Portugal',
+        'common' => 'Portugal',
       ],
       'ita' => [
         'official' => 'Repubblica portoghese',
@@ -29176,9 +33443,17 @@ class CountriesDataSource
         'official' => 'República Portuguesa',
         'common' => 'Portugal',
       ],
+      'srp' => [
+        'official' => 'Португалска Република',
+        'common' => 'Португал',
+      ],
       'swe' => [
         'official' => 'Republiken Portugal',
         'common' => 'Portugal',
+      ],
+      'tur' => [
+        'official' => 'Portekiz Cumhuriyeti',
+        'common' => 'Portekiz',
       ],
       'urd' => [
         'official' => 'جمہوریہ پرتگال',
@@ -29266,8 +33541,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية باراغواي',
+        'common' => 'باراغواي',
+      ],
+      'bre' => [
+        'official' => 'Republik Paraguay',
+        'common' => 'Paraguay',
+      ],
       'ces' => [
         'official' => 'Paraguayská republika',
+        'common' => 'Paraguay',
+      ],
+      'cym' => [
+        'official' => 'Republic of Paraguay',
         'common' => 'Paraguay',
       ],
       'deu' => [
@@ -29293,6 +33580,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Paraguayi Köztársaság',
         'common' => 'Paraguay',
+      ],
+      'ind' => [
+        'official' => 'Republik Paraguai',
+        'common' => 'Paraguai',
       ],
       'ita' => [
         'official' => 'Repubblica del Paraguay',
@@ -29334,8 +33625,16 @@ class CountriesDataSource
         'official' => 'República de Paraguay',
         'common' => 'Paraguay',
       ],
+      'srp' => [
+        'official' => 'Република Парагвај',
+        'common' => 'Парагвај',
+      ],
       'swe' => [
         'official' => 'Republiken Paraguay',
+        'common' => 'Paraguay',
+      ],
+      'tur' => [
+        'official' => 'Paraguay Cumhuriyeti',
         'common' => 'Paraguay',
       ],
       'urd' => [
@@ -29417,6 +33716,7 @@ class CountriesDataSource
     ],
     'capital' => [
       0 => 'Ramallah',
+      1 => 'Jerusalem',
     ],
     'altSpellings' => [
       0 => 'PS',
@@ -29430,9 +33730,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة فلسطين',
+        'common' => 'فلسطين',
+      ],
+      'bre' => [
+        'official' => 'Stad Palestina',
+        'common' => 'Palestina',
+      ],
       'ces' => [
         'official' => 'Stát Palestina',
         'common' => 'Palestina',
+      ],
+      'cym' => [
+        'official' => 'State of Palestine',
+        'common' => 'Palestine',
       ],
       'deu' => [
         'official' => 'Staat Palästina',
@@ -29457,6 +33769,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Palesztin Autonómia',
         'common' => 'Palesztina',
+      ],
+      'ind' => [
+        'official' => 'Negara Palestina',
+        'common' => 'Palestina',
       ],
       'ita' => [
         'official' => 'Stato di Palestina',
@@ -29498,9 +33814,17 @@ class CountriesDataSource
         'official' => 'Estado de Palestina',
         'common' => 'Palestina',
       ],
+      'srp' => [
+        'official' => 'Држава Палестина',
+        'common' => 'Палестина',
+      ],
       'swe' => [
         'official' => 'Palestina',
         'common' => 'Palestina',
+      ],
+      'tur' => [
+        'official' => 'Filistin Devleti',
+        'common' => 'Filistin',
       ],
       'urd' => [
         'official' => 'ریاستِ فلسطین',
@@ -29585,9 +33909,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'بولينزيا الفرنسية',
+        'common' => 'بولينزيا الفرنسية',
+      ],
+      'bre' => [
+        'official' => 'Polinezia C\'hall',
+        'common' => 'Polinezia C\'hall',
+      ],
       'ces' => [
         'official' => 'Francouzská Polynésie',
         'common' => 'Francouzská Polynésie',
+      ],
+      'cym' => [
+        'official' => 'French Polynesia',
+        'common' => 'French Polynesia',
       ],
       'deu' => [
         'official' => 'Französisch-Polynesien',
@@ -29612,6 +33948,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Francia Polinézia',
         'common' => 'Francia Polinézia',
+      ],
+      'ind' => [
+        'official' => 'Polinesia Prancis',
+        'common' => 'Polinesia Prancis',
       ],
       'ita' => [
         'official' => 'Polinesia Francese',
@@ -29653,9 +33993,17 @@ class CountriesDataSource
         'official' => 'Polinesia francés',
         'common' => 'Polinesia Francesa',
       ],
+      'srp' => [
+        'official' => 'Француска Полинезија',
+        'common' => 'Француска Полинезија',
+      ],
       'swe' => [
         'official' => 'Franska Polynesien',
         'common' => 'Franska Polynesien',
+      ],
+      'tur' => [
+        'official' => 'Fransız Polinezyası',
+        'common' => 'Fransız Polinezyası',
       ],
       'urd' => [
         'official' => 'فرانسیسی پولینیشیا',
@@ -29667,8 +34015,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => -15,
-      1 => -140,
+      0 => -17.6797,
+      1 => -149.4068,
     ],
     'landlocked' => false,
     'borders' => [
@@ -29737,9 +34085,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة قطر',
+        'common' => 'قطر',
+      ],
+      'bre' => [
+        'official' => 'Stad Katar',
+        'common' => 'Katar',
+      ],
       'ces' => [
         'official' => 'Stát Katar',
         'common' => 'Katar',
+      ],
+      'cym' => [
+        'official' => 'State of Qatar',
+        'common' => 'Qatar',
       ],
       'deu' => [
         'official' => 'Staat Katar',
@@ -29764,6 +34124,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Katari Állam',
         'common' => 'Katar',
+      ],
+      'ind' => [
+        'official' => 'Negara Qatar',
+        'common' => 'Qatar',
       ],
       'ita' => [
         'official' => 'Stato del Qatar',
@@ -29805,9 +34169,17 @@ class CountriesDataSource
         'official' => 'Estado de Qatar',
         'common' => 'Catar',
       ],
+      'srp' => [
+        'official' => 'Држава Катар',
+        'common' => 'Катар',
+      ],
       'swe' => [
         'official' => 'Staten Qatar',
         'common' => 'Qatar',
+      ],
+      'tur' => [
+        'official' => 'Katar Devleti',
+        'common' => 'Katar',
       ],
       'urd' => [
         'official' => 'ریاستِ قطر',
@@ -29865,7 +34237,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -29888,8 +34260,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزيرة لا ريونيون',
+        'common' => 'لا ريونيون',
+      ],
+      'bre' => [
+        'official' => 'Enez ar Reünion',
+        'common' => 'Reünion',
+      ],
       'ces' => [
         'official' => 'Réunion',
+        'common' => 'Réunion',
+      ],
+      'cym' => [
+        'official' => 'Réunion Island',
         'common' => 'Réunion',
       ],
       'deu' => [
@@ -29913,6 +34297,10 @@ class CountriesDataSource
         'common' => 'Réunion',
       ],
       'hun' => [
+        'official' => 'Réunion',
+        'common' => 'Réunion',
+      ],
+      'ind' => [
         'official' => 'Réunion',
         'common' => 'Réunion',
       ],
@@ -29956,7 +34344,15 @@ class CountriesDataSource
         'official' => 'Isla de la Reunión',
         'common' => 'Reunión',
       ],
+      'srp' => [
+        'official' => 'Реинион',
+        'common' => 'Реинион',
+      ],
       'swe' => [
+        'official' => 'Réunion',
+        'common' => 'Réunion',
+      ],
+      'tur' => [
         'official' => 'Réunion',
         'common' => 'Réunion',
       ],
@@ -30040,9 +34436,21 @@ class CountriesDataSource
       'ron' => 'Romanian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'رومانيا',
+        'common' => 'رومانيا',
+      ],
+      'bre' => [
+        'official' => 'Roumania',
+        'common' => 'Roumania',
+      ],
       'ces' => [
         'official' => 'Rumunsko',
         'common' => 'Rumunsko',
+      ],
+      'cym' => [
+        'official' => 'Romania',
+        'common' => 'Romania',
       ],
       'deu' => [
         'official' => 'Rumänien',
@@ -30067,6 +34475,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Románia',
         'common' => 'Románia',
+      ],
+      'ind' => [
+        'official' => 'Rumania',
+        'common' => 'Rumania',
       ],
       'ita' => [
         'official' => 'Romania',
@@ -30108,9 +34520,17 @@ class CountriesDataSource
         'official' => 'Rumania',
         'common' => 'Rumania',
       ],
+      'srp' => [
+        'official' => 'Румунија',
+        'common' => 'Румунија',
+      ],
       'swe' => [
         'official' => 'Rumänien',
         'common' => 'Rumänien',
+      ],
+      'tur' => [
+        'official' => 'Romanya',
+        'common' => 'Romanya',
       ],
       'urd' => [
         'official' => 'رومانیہ',
@@ -30202,9 +34622,21 @@ class CountriesDataSource
       'rus' => 'Russian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'روسيا الاتحادية',
+        'common' => 'روسيا',
+      ],
+      'bre' => [
+        'official' => 'Kevread Rusia',
+        'common' => 'Rusia',
+      ],
       'ces' => [
         'official' => 'Ruská federace',
         'common' => 'Rusko',
+      ],
+      'cym' => [
+        'official' => 'Russian Federation',
+        'common' => 'Russia',
       ],
       'deu' => [
         'official' => 'Russische Föderation',
@@ -30229,6 +34661,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Oroszországi Föderáció',
         'common' => 'Oroszország',
+      ],
+      'ind' => [
+        'official' => 'Federasi Rusia',
+        'common' => 'Rusia',
       ],
       'ita' => [
         'official' => 'Federazione russa',
@@ -30270,9 +34706,17 @@ class CountriesDataSource
         'official' => 'Federación de Rusia',
         'common' => 'Rusia',
       ],
+      'srp' => [
+        'official' => 'Руска Федерација',
+        'common' => 'Русија',
+      ],
       'swe' => [
         'official' => 'Ryska federationen',
         'common' => 'Ryssland',
+      ],
+      'tur' => [
+        'official' => 'Rusya Federasyonu',
+        'common' => 'Rusya',
       ],
       'urd' => [
         'official' => 'روسی وفاق',
@@ -30304,7 +34748,7 @@ class CountriesDataSource
       12 => 'POL',
       13 => 'UKR',
     ],
-    'area' => 17098242,
+    'area' => 17098246,
     'flag' => '🇷🇺',
     'demonyms' => [
       'eng' => [
@@ -30382,8 +34826,20 @@ class CountriesDataSource
       'kin' => 'Kinyarwanda',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية رواندا',
+        'common' => 'رواندا',
+      ],
+      'bre' => [
+        'official' => 'Republik Rwanda',
+        'common' => 'Rwanda',
+      ],
       'ces' => [
         'official' => 'Rwandská republika',
+        'common' => 'Rwanda',
+      ],
+      'cym' => [
+        'official' => 'Republic of Rwanda',
         'common' => 'Rwanda',
       ],
       'deu' => [
@@ -30409,6 +34865,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ruandai Köztársaság',
         'common' => 'Ruanda',
+      ],
+      'ind' => [
+        'official' => 'Republik Ruwanda',
+        'common' => 'Ruwanda',
       ],
       'ita' => [
         'official' => 'Repubblica del Ruanda',
@@ -30450,9 +34910,17 @@ class CountriesDataSource
         'official' => 'República de Rwanda',
         'common' => 'Ruanda',
       ],
+      'srp' => [
+        'official' => 'Република Руанда',
+        'common' => 'Руанда',
+      ],
       'swe' => [
         'official' => 'Republiken Rwanda',
         'common' => 'Rwanda',
+      ],
+      'tur' => [
+        'official' => 'Ruanda Cumhuriyeti',
+        'common' => 'Ruanda',
       ],
       'urd' => [
         'official' => 'جمہوریہ روانڈا',
@@ -30539,9 +35007,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'المملكة العربية السعودية',
+        'common' => 'السعودية',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Arabia Saoudat',
+        'common' => 'Arabia Saoudat',
+      ],
       'ces' => [
         'official' => 'Saúdskoarabské království',
         'common' => 'Saúdská Arábie',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Saudi Arabia',
+        'common' => 'Saudi Arabia',
       ],
       'deu' => [
         'official' => 'Königreich Saudi-Arabien',
@@ -30566,6 +35046,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szaúd-Arábia',
         'common' => 'Szaúd-Arábia',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Arab Saudi',
+        'common' => 'Arab Saudi',
       ],
       'ita' => [
         'official' => 'Arabia Saudita',
@@ -30607,9 +35091,17 @@ class CountriesDataSource
         'official' => 'Reino de Arabia Saudita',
         'common' => 'Arabia Saudí',
       ],
+      'srp' => [
+        'official' => 'Краљевина Саудијска Арабија',
+        'common' => 'Саудијска Арабија',
+      ],
       'swe' => [
         'official' => 'Kungadömet Saudiarabien',
         'common' => 'Saudiarabien',
+      ],
+      'tur' => [
+        'official' => 'Suudi Arabistan Krallığı',
+        'common' => 'Suudi Arabistan',
       ],
       'urd' => [
         'official' => 'مملکتِ سعودی عرب',
@@ -30678,7 +35170,7 @@ class CountriesDataSource
     'currencies' => [
       'SDG' => [
         'name' => 'Sudanese pound',
-        'symbol' => 'PT',
+        'symbol' => 'ج.س',
       ],
     ],
     'idd' => [
@@ -30702,9 +35194,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية السودان',
+        'common' => 'السودان',
+      ],
+      'bre' => [
+        'official' => 'Republik Soudan',
+        'common' => 'Soudan',
+      ],
       'ces' => [
         'official' => 'Súdánská republika',
         'common' => 'Súdán',
+      ],
+      'cym' => [
+        'official' => 'Republic of the Sudan',
+        'common' => 'Sudan',
       ],
       'deu' => [
         'official' => 'Republik Sudan',
@@ -30729,6 +35233,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szudáni Köztársaság',
         'common' => 'Szudán',
+      ],
+      'ind' => [
+        'official' => 'Republik Sudan',
+        'common' => 'Sudan',
       ],
       'ita' => [
         'official' => 'Repubblica del Sudan',
@@ -30770,8 +35278,16 @@ class CountriesDataSource
         'official' => 'República de Sudán',
         'common' => 'Sudán',
       ],
+      'srp' => [
+        'official' => 'Република Судан',
+        'common' => 'Судан',
+      ],
       'swe' => [
         'official' => 'Republiken Sudan',
+        'common' => 'Sudan',
+      ],
+      'tur' => [
+        'official' => 'Sudan Cumhuriyeti',
         'common' => 'Sudan',
       ],
       'urd' => [
@@ -30860,8 +35376,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية السنغال',
+        'common' => 'السنغال',
+      ],
+      'bre' => [
+        'official' => 'Republik Senegal',
+        'common' => 'Senegal',
+      ],
       'ces' => [
         'official' => 'Senegalská republika',
+        'common' => 'Senegal',
+      ],
+      'cym' => [
+        'official' => 'Republic of Senegal',
         'common' => 'Senegal',
       ],
       'deu' => [
@@ -30887,6 +35415,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szenegáli Köztársaság',
         'common' => 'Szenegál',
+      ],
+      'ind' => [
+        'official' => 'Republik Senegal',
+        'common' => 'Senegal',
       ],
       'ita' => [
         'official' => 'Repubblica del Senegal',
@@ -30928,8 +35460,16 @@ class CountriesDataSource
         'official' => 'República de Senegal',
         'common' => 'Senegal',
       ],
+      'srp' => [
+        'official' => 'Република Сенегал',
+        'common' => 'Сенегал',
+      ],
       'swe' => [
         'official' => 'Republiken Senegal',
+        'common' => 'Senegal',
+      ],
+      'tur' => [
+        'official' => 'Senegal Cumhuriyeti',
         'common' => 'Senegal',
       ],
       'urd' => [
@@ -30978,6 +35518,10 @@ class CountriesDataSource
           'official' => 'Republic of Singapore',
           'common' => 'Singapore',
         ],
+        'zho' => [
+          'official' => '新加坡共和国',
+          'common' => '新加坡',
+        ],
         'msa' => [
           'official' => 'Republik Singapura',
           'common' => 'Singapura',
@@ -30985,10 +35529,6 @@ class CountriesDataSource
         'tam' => [
           'official' => 'சிங்கப்பூர் குடியரசு',
           'common' => 'சிங்கப்பூர்',
-        ],
-        'zho' => [
-          'official' => '新加坡共和国',
-          'common' => '新加坡',
         ],
       ],
     ],
@@ -31029,14 +35569,26 @@ class CountriesDataSource
     'subregion' => 'South-Eastern Asia',
     'languages' => [
       'eng' => 'English',
+      'zho' => 'Chinese',
       'msa' => 'Malay',
       'tam' => 'Tamil',
-      'zho' => 'Chinese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سنغافورة',
+        'common' => 'سنغافورة',
+      ],
+      'bre' => [
+        'official' => 'Republik Singapour',
+        'common' => 'Singapour',
+      ],
       'ces' => [
         'official' => 'Singapurská republika',
         'common' => 'Singapur',
+      ],
+      'cym' => [
+        'official' => 'Republic of Singapore',
+        'common' => 'Singapore',
       ],
       'deu' => [
         'official' => 'Republik Singapur',
@@ -31061,6 +35613,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szingapúri Köztársaság',
         'common' => 'Szingapúr',
+      ],
+      'ind' => [
+        'official' => 'Republik Singapura',
+        'common' => 'Singapura',
       ],
       'ita' => [
         'official' => 'Repubblica di Singapore',
@@ -31102,17 +35658,21 @@ class CountriesDataSource
         'official' => 'República de Singapur',
         'common' => 'Singapur',
       ],
+      'srp' => [
+        'official' => 'Република Сингапур',
+        'common' => 'Сингапур',
+      ],
       'swe' => [
         'official' => 'Republiken Singapore',
         'common' => 'Singapore',
       ],
+      'tur' => [
+        'official' => 'Singapur Cumhuriyeti',
+        'common' => 'Singapur',
+      ],
       'urd' => [
         'official' => 'جمہوریہ سنگاپور',
         'common' => 'سنگاپور',
-      ],
-      'zho' => [
-        'official' => '新加坡共和国',
-        'common' => '新加坡',
       ],
     ],
     'latlng' => [
@@ -31160,8 +35720,8 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => false,
     'currencies' => [
-      'SHP' => [
-        'name' => 'Saint Helena pound',
+      'GBP' => [
+        'name' => 'British pound',
         'symbol' => '£',
       ],
     ],
@@ -31184,9 +35744,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جورجيا الجنوبية وجزر ساندوتش الجنوبية',
+        'common' => 'جورجيا الجنوبية',
+      ],
+      'bre' => [
+        'official' => 'Georgia ar Su hag Inizi Sandwich ar Su',
+        'common' => 'Georgia ar Su hag Inizi Sandwich ar Su',
+      ],
       'ces' => [
         'official' => 'Jižní Georgie a Jižní Sandwichovy ostrovy',
         'common' => 'Jižní Georgie a Jižní Sandwichovy ostrovy',
+      ],
+      'cym' => [
+        'official' => 'South Georgia and the South Sandwich Islands',
+        'common' => 'South Georgia',
       ],
       'deu' => [
         'official' => 'Südgeorgien und die Südlichen Sandwichinseln',
@@ -31212,6 +35784,10 @@ class CountriesDataSource
         'official' => 'Déli-Georgia és Déli-Sandwich-szigetek',
         'common' => 'Déli-Georgia és Déli-Sandwich-szigetek',
       ],
+      'ind' => [
+        'official' => 'Georgia Selatan dan Kepulauan Sandwich Selatan',
+        'common' => 'Georgia Selatan dan Kepulauan Sandwich Selatan',
+      ],
       'ita' => [
         'official' => 'Georgia del Sud e isole Sandwich del Sud',
         'common' => 'Georgia del Sud e Isole Sandwich Meridionali',
@@ -31221,8 +35797,8 @@ class CountriesDataSource
         'common' => 'サウスジョージア・サウスサンドウィッチ諸島',
       ],
       'kor' => [
-        'official' => '조지아',
-        'common' => '조지아',
+        'official' => '사우스조지아 사우스샌드위치 제도',
+        'common' => '사우스조지아 사우스샌드위치 제도',
       ],
       'nld' => [
         'official' => 'Zuid-Georgië en de Zuidelijke Sandwich-eilanden',
@@ -31252,9 +35828,17 @@ class CountriesDataSource
         'official' => 'Georgia del Sur y las Islas Sandwich del Sur',
         'common' => 'Islas Georgias del Sur y Sandwich del Sur',
       ],
+      'srp' => [
+        'official' => 'Јужна Џорџија и Јужна Сендвичка Острва',
+        'common' => 'Јужна Џорџија и Јужна Сендвичка Острва',
+      ],
       'swe' => [
         'official' => 'Sydgeorgien',
         'common' => 'Sydgeorgien',
+      ],
+      'tur' => [
+        'official' => 'Güney Georgia ve Güney Sandwich Adaları',
+        'common' => 'Güney Georgia ve Güney Sandwich Adaları',
       ],
       'urd' => [
         'official' => 'جنوبی جارجیا و جزائر جنوبی سینڈوچ',
@@ -31334,9 +35918,21 @@ class CountriesDataSource
       'nor' => 'Norwegian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سفالبارد ويان ماين',
+        'common' => 'سفالبارد ويان ماين',
+      ],
+      'bre' => [
+        'official' => 'Svalbard ha Jan Mayen',
+        'common' => 'Svalbard ha Jan Mayen',
+      ],
       'ces' => [
         'official' => 'Špicberky a Jan Mayen',
         'common' => 'Špicberky a Jan Mayen',
+      ],
+      'cym' => [
+        'official' => 'Svalbard og Jan Mayen',
+        'common' => 'Svalbard and Jan Mayen',
       ],
       'deu' => [
         'official' => 'Spitzbergen und Jan Mayen',
@@ -31361,6 +35957,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Svalbard és Jan Mayen',
         'common' => 'Svalbard és Jan Mayen',
+      ],
+      'ind' => [
+        'official' => 'Svalbard dan Jan Mayen',
+        'common' => 'Svalbard dan Jan Mayen',
       ],
       'ita' => [
         'official' => 'Svalbard og Jan Mayen',
@@ -31402,9 +36002,17 @@ class CountriesDataSource
         'official' => 'Svalbard og Jan Mayen',
         'common' => 'Islas Svalbard y Jan Mayen',
       ],
+      'srp' => [
+        'official' => 'Свалбард и Јан Мајен',
+        'common' => 'Свалбард и Јан Мајен',
+      ],
       'swe' => [
         'official' => 'Svalbard och Jan Mayen',
         'common' => 'Svalbard och Jan Mayen',
+      ],
+      'tur' => [
+        'official' => 'Svalbard ve Jan Mayen',
+        'common' => 'Svalbard ve Jan Mayen',
       ],
       'urd' => [
         'official' => 'سوالبارڈ اور جان میئن',
@@ -31422,7 +36030,7 @@ class CountriesDataSource
     'landlocked' => false,
     'borders' => [
     ],
-    'area' => -1,
+    'area' => 61399,
     'flag' => '🇸🇯',
     'demonyms' => [
       'eng' => [
@@ -31483,9 +36091,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر سليمان',
+        'common' => 'جزر سليمان',
+      ],
+      'bre' => [
+        'official' => 'Inizi Salomon',
+        'common' => 'Inizi Salomon',
+      ],
       'ces' => [
         'official' => 'Šalamounovy ostrovy',
         'common' => 'Šalamounovy ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Solomon Islands',
+        'common' => 'Solomon Islands',
       ],
       'deu' => [
         'official' => 'Salomonen',
@@ -31510,6 +36130,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Salamon-szigetek',
         'common' => 'Salamon-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Solomon',
+        'common' => 'Kepulauan Solomon',
       ],
       'ita' => [
         'official' => 'Isole Salomone',
@@ -31551,9 +36175,17 @@ class CountriesDataSource
         'official' => 'islas Salomón',
         'common' => 'Islas Salomón',
       ],
+      'srp' => [
+        'official' => 'Соломонска Острва',
+        'common' => 'Соломонска Острва',
+      ],
       'swe' => [
         'official' => 'Salomonöarna',
         'common' => 'Salomonöarna',
+      ],
+      'tur' => [
+        'official' => 'Solomon Adaları',
+        'common' => 'Solomon Adaları',
       ],
       'urd' => [
         'official' => 'جزائر سلیمان',
@@ -31610,7 +36242,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'SLE' => [
-        'name' => 'Sierra Leonean leone',
+        'name' => 'Leone',
         'symbol' => 'Le',
       ],
     ],
@@ -31633,8 +36265,20 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سيراليون',
+        'common' => 'سيراليون',
+      ],
+      'bre' => [
+        'official' => 'Republik Sierra Leone',
+        'common' => 'Sierra Leone',
+      ],
       'ces' => [
         'official' => 'Republika Sierra Leone',
+        'common' => 'Sierra Leone',
+      ],
+      'cym' => [
+        'official' => 'Republic of Sierra Leone',
         'common' => 'Sierra Leone',
       ],
       'deu' => [
@@ -31660,6 +36304,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Sierra Leone Köztársaság',
         'common' => 'Sierra Leone',
+      ],
+      'ind' => [
+        'official' => 'Republik Siera Leoni',
+        'common' => 'Siera Leoni',
       ],
       'ita' => [
         'official' => 'Repubblica della Sierra Leone',
@@ -31701,8 +36349,16 @@ class CountriesDataSource
         'official' => 'República de Sierra Leona',
         'common' => 'Sierra Leone',
       ],
+      'srp' => [
+        'official' => 'Република Сијера Леоне',
+        'common' => 'Сијера Леоне',
+      ],
       'swe' => [
         'official' => 'Republiken Sierra Leone',
+        'common' => 'Sierra Leone',
+      ],
+      'tur' => [
+        'official' => 'Sierra Leone Cumhuriyeti',
         'common' => 'Sierra Leone',
       ],
       'urd' => [
@@ -31786,9 +36442,21 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية السلفادور',
+        'common' => 'السلفادور',
+      ],
+      'bre' => [
+        'official' => 'Republik El Salvador',
+        'common' => 'El Salvador',
+      ],
       'ces' => [
         'official' => 'Salvadorská republika',
         'common' => 'Salvador',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth El Salfador',
+        'common' => 'El Salfador',
       ],
       'deu' => [
         'official' => 'Republik El Salvador',
@@ -31813,6 +36481,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Salvadori Köztársaság',
         'common' => 'Salvador',
+      ],
+      'ind' => [
+        'official' => 'Republik El Salvador',
+        'common' => 'El Salvador',
       ],
       'ita' => [
         'official' => 'Repubblica di El Salvador',
@@ -31854,8 +36526,16 @@ class CountriesDataSource
         'official' => 'República de El Salvador',
         'common' => 'El Salvador',
       ],
+      'srp' => [
+        'official' => 'Република Ел Салвадор',
+        'common' => 'Салвадор',
+      ],
       'swe' => [
         'official' => 'Republiken El Salvador',
+        'common' => 'El Salvador',
+      ],
+      'tur' => [
+        'official' => 'El Salvador Cumhuriyeti',
         'common' => 'El Salvador',
       ],
       'urd' => [
@@ -31895,10 +36575,10 @@ class CountriesDataSource
   202 => [
     'name' => [
       'common' => 'San Marino',
-      'official' => 'Most Serene Republic of San Marino',
+      'official' => 'Republic of San Marino',
       'native' => [
         'ita' => [
-          'official' => 'Serenissima Repubblica di San Marino',
+          'official' => 'Repubblica di San Marino',
           'common' => 'San Marino',
         ],
       ],
@@ -31915,7 +36595,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -31939,8 +36619,20 @@ class CountriesDataSource
       'ita' => 'Italian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سان مارينو',
+        'common' => 'سان مارينو',
+      ],
+      'bre' => [
+        'official' => 'Republik San Marino',
+        'common' => 'San Marino',
+      ],
       'ces' => [
         'official' => 'Republika San Marino',
+        'common' => 'San Marino',
+      ],
+      'cym' => [
+        'official' => 'Republic of San Marino',
         'common' => 'San Marino',
       ],
       'deu' => [
@@ -31965,6 +36657,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'San Marino Köztársaság',
+        'common' => 'San Marino',
+      ],
+      'ind' => [
+        'official' => 'Republik San Marino',
         'common' => 'San Marino',
       ],
       'ita' => [
@@ -32007,8 +36703,16 @@ class CountriesDataSource
         'official' => 'Serenísima República de San Marino',
         'common' => 'San Marino',
       ],
+      'srp' => [
+        'official' => 'Најузвишенија Република Сан Марино',
+        'common' => 'Сан Марино',
+      ],
       'swe' => [
         'official' => 'Republiken San Marino',
+        'common' => 'San Marino',
+      ],
+      'tur' => [
+        'official' => 'San Marino Cumhuriyeti',
         'common' => 'San Marino',
       ],
       'urd' => [
@@ -32098,9 +36802,21 @@ class CountriesDataSource
       'som' => 'Somali',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الصومال الفيدرالية',
+        'common' => 'الصومال',
+      ],
+      'bre' => [
+        'official' => 'Republik Kevreadel Somalia',
+        'common' => 'Somalia',
+      ],
       'ces' => [
         'official' => 'Somálská demokratická republika',
         'common' => 'Somálsko',
+      ],
+      'cym' => [
+        'official' => 'Federal Republic of Somalia',
+        'common' => 'Somalia',
       ],
       'deu' => [
         'official' => 'Bundesrepublik Somalia',
@@ -32125,6 +36841,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szomáli Szövetségi Köztársaság',
         'common' => 'Szomália',
+      ],
+      'ind' => [
+        'official' => 'Republik Federal Somalia',
+        'common' => 'Somalia',
       ],
       'ita' => [
         'official' => 'Repubblica federale di Somalia',
@@ -32166,9 +36886,17 @@ class CountriesDataSource
         'official' => 'República Federal de Somalia',
         'common' => 'Somalia',
       ],
+      'srp' => [
+        'official' => 'Савезна Република Сомалија',
+        'common' => 'Сомалија',
+      ],
       'swe' => [
         'official' => 'Förbundsrepubliken Somalia',
         'common' => 'Somalia',
+      ],
+      'tur' => [
+        'official' => 'Somali Federal Cumhuriyeti',
+        'common' => 'Somali',
       ],
       'urd' => [
         'official' => 'وفاقی جمہوریہ صومالیہ',
@@ -32228,7 +36956,7 @@ class CountriesDataSource
     'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -32251,9 +36979,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سان بيير وميكلون',
+        'common' => 'سان بيير وميكلون',
+      ],
+      'bre' => [
+        'official' => 'Sant-Pêr-ha-Mikelon',
+        'common' => 'Sant-Pêr-ha-Mikelon',
+      ],
       'ces' => [
         'official' => 'Saint-Pierre a Miquelon',
         'common' => 'Saint-Pierre a Miquelon',
+      ],
+      'cym' => [
+        'official' => 'Saint Pierre and Miquelon',
+        'common' => 'Saint Pierre and Miquelon',
       ],
       'deu' => [
         'official' => 'St. Pierre und Miquelon',
@@ -32278,6 +37018,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Saint-Pierre és Miquelon',
         'common' => 'Saint-Pierre és Miquelon',
+      ],
+      'ind' => [
+        'official' => 'Wilayah Jajahan Saint Pierre dan Miquelon',
+        'common' => 'Saint Pierre dan Miquelon',
       ],
       'ita' => [
         'official' => 'Saint Pierre e Miquelon',
@@ -32319,9 +37063,17 @@ class CountriesDataSource
         'official' => 'San Pedro y Miquelón',
         'common' => 'San Pedro y Miquelón',
       ],
+      'srp' => [
+        'official' => 'Сен Пјер и Микелон',
+        'common' => 'Сен Пјер и Микелон',
+      ],
       'swe' => [
         'official' => 'Saint-Pierre och Miquelon',
         'common' => 'Saint-Pierre och Miquelon',
+      ],
+      'tur' => [
+        'official' => 'Saint Pierre ve Miquelon',
+        'common' => 'Saint Pierre ve Miquelon',
       ],
       'urd' => [
         'official' => 'سینٹ پیئر و میکیلون',
@@ -32405,9 +37157,21 @@ class CountriesDataSource
       'srp' => 'Serbian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية صيربيا',
+        'common' => 'صيربيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Serbia',
+        'common' => 'Serbia',
+      ],
       'ces' => [
         'official' => 'Srbská republika',
         'common' => 'Srbsko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Serbia',
+        'common' => 'Serbia',
       ],
       'deu' => [
         'official' => 'Republik Serbien',
@@ -32432,6 +37196,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szerb Köztársaság',
         'common' => 'Szerbia',
+      ],
+      'ind' => [
+        'official' => 'Republik Serbia',
+        'common' => 'Serbia',
       ],
       'ita' => [
         'official' => 'Repubblica di Serbia',
@@ -32473,9 +37241,17 @@ class CountriesDataSource
         'official' => 'República de Serbia',
         'common' => 'Serbia',
       ],
+      'srp' => [
+        'official' => 'Република Србија',
+        'common' => 'Србија',
+      ],
       'swe' => [
         'official' => 'Republiken Serbien',
         'common' => 'Serbien',
+      ],
+      'tur' => [
+        'official' => 'Sırbistan Cumhuriyeti',
+        'common' => 'Sırbistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ سربیا',
@@ -32501,7 +37277,7 @@ class CountriesDataSource
       6 => 'MNE',
       7 => 'ROU',
     ],
-    'area' => 88361,
+    'area' => 77589,
     'flag' => '🇷🇸',
     'demonyms' => [
       'eng' => [
@@ -32534,7 +37310,7 @@ class CountriesDataSource
     'cca2' => 'SS',
     'ccn3' => '728',
     'cca3' => 'SSD',
-    'cioc' => '',
+    'cioc' => 'SSD',
     'independent' => true,
     'status' => 'officially-assigned',
     'unMember' => true,
@@ -32562,9 +37338,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية جنوب السودان',
+        'common' => 'جنوب السودان',
+      ],
+      'bre' => [
+        'official' => 'Republik Soudan ar Su',
+        'common' => 'Soudan ar Su',
+      ],
       'ces' => [
         'official' => 'Jihosúdánská republika',
         'common' => 'Jižní Súdán',
+      ],
+      'cym' => [
+        'official' => 'Republic of South Sudan',
+        'common' => 'South Sudan',
       ],
       'deu' => [
         'official' => 'Republik Südsudan',
@@ -32589,6 +37377,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Dél-szudáni Köztársaság',
         'common' => 'Dél-Szudán',
+      ],
+      'ind' => [
+        'official' => 'Republik Sudan Selatan',
+        'common' => 'Sudan Selatan',
       ],
       'ita' => [
         'official' => 'Repubblica del Sudan del Sud',
@@ -32630,9 +37422,17 @@ class CountriesDataSource
         'official' => 'República de Sudán del Sur',
         'common' => 'Sudán del Sur',
       ],
+      'srp' => [
+        'official' => 'Република Јужни Судан',
+        'common' => 'Јужни Судан',
+      ],
       'swe' => [
         'official' => 'Republiken Sydsudan',
         'common' => 'Sydsudan',
+      ],
+      'tur' => [
+        'official' => 'Güney Sudan Cumhuriyeti',
+        'common' => 'Güney Sudan',
       ],
       'urd' => [
         'official' => 'جمہوریہ جنوبی سوڈان',
@@ -32720,9 +37520,21 @@ class CountriesDataSource
       'por' => 'Portuguese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ساو تومي وبرينسيب الديمقراطية',
+        'common' => 'ساو تومي وبرينسيب',
+      ],
+      'bre' => [
+        'official' => 'Republik Demokratel São Tomé ha Príncipe',
+        'common' => 'São Tomé ha Príncipe',
+      ],
       'ces' => [
         'official' => 'Demokratická republika Svatý Tomáš a Princův ostrov',
         'common' => 'Svatý Tomáš a Princův ostrov',
+      ],
+      'cym' => [
+        'official' => 'Democratic Republic of São Tomé and Príncipe',
+        'common' => 'São Tomé and Príncipe',
       ],
       'deu' => [
         'official' => 'Demokratische Republik São Tomé und Príncipe',
@@ -32747,6 +37559,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'São Tomé és Príncipe Demokratikus Köztársaság',
         'common' => 'São Tomé és Príncipe',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Santo Tomas dan Prinsipe',
+        'common' => 'Santo Tomas dan Prinsipe',
       ],
       'ita' => [
         'official' => 'Repubblica democratica di São Tomé e Príncipe',
@@ -32788,9 +37604,17 @@ class CountriesDataSource
         'official' => 'República Democrática de Santo Tomé y Príncipe',
         'common' => 'Santo Tomé y Príncipe',
       ],
+      'srp' => [
+        'official' => 'Демократска Република Сао Томе и Принсипе',
+        'common' => 'Сао Томе и Принсипе',
+      ],
       'swe' => [
         'official' => 'Demokratiska republiken São Tomé och Príncipe',
         'common' => 'São Tomé och Príncipe',
+      ],
+      'tur' => [
+        'official' => 'São Tomé ve Príncipe Demokratik Cumhuriyeti',
+        'common' => 'São Tomé ve Príncipe',
       ],
       'urd' => [
         'official' => 'جمہوریہ ساؤ ٹومے و پرنسپے',
@@ -32873,9 +37697,21 @@ class CountriesDataSource
       'nld' => 'Dutch',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سورينام',
+        'common' => 'سورينام',
+      ],
+      'bre' => [
+        'official' => 'Republik Surinam',
+        'common' => 'Surinam',
+      ],
       'ces' => [
         'official' => 'Republika Surinam',
         'common' => 'Surinam',
+      ],
+      'cym' => [
+        'official' => 'Republic of Suriname',
+        'common' => 'Suriname',
       ],
       'deu' => [
         'official' => 'Republik Suriname',
@@ -32899,6 +37735,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Suriname Köztársaság',
+        'common' => 'Suriname',
+      ],
+      'ind' => [
+        'official' => 'Republik Suriname',
         'common' => 'Suriname',
       ],
       'ita' => [
@@ -32941,8 +37781,16 @@ class CountriesDataSource
         'official' => 'República de Suriname',
         'common' => 'Surinam',
       ],
+      'srp' => [
+        'official' => 'Република Суринам',
+        'common' => 'Суринам',
+      ],
       'swe' => [
         'official' => 'Republiken Surinam',
+        'common' => 'Surinam',
+      ],
+      'tur' => [
+        'official' => 'Surinam Cumhuriyeti',
         'common' => 'Surinam',
       ],
       'urd' => [
@@ -33003,7 +37851,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -33027,9 +37875,21 @@ class CountriesDataSource
       'slk' => 'Slovak',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سلوفاكيا',
+        'common' => 'سلوفاكيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Slovak',
+        'common' => 'Slovakia',
+      ],
       'ces' => [
         'official' => 'Slovenská republika',
         'common' => 'Slovensko',
+      ],
+      'cym' => [
+        'official' => 'Slovak Republic',
+        'common' => 'Slovakia',
       ],
       'deu' => [
         'official' => 'Slowakische Republik',
@@ -33054,6 +37914,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szlovák Köztársaság',
         'common' => 'Szlovákia',
+      ],
+      'ind' => [
+        'official' => 'Republik Slowakia',
+        'common' => 'Slowakia',
       ],
       'ita' => [
         'official' => 'Repubblica slovacca',
@@ -33095,9 +37959,17 @@ class CountriesDataSource
         'official' => 'República Eslovaca',
         'common' => 'República Eslovaca',
       ],
+      'srp' => [
+        'official' => 'Словачка Република',
+        'common' => 'Словачка',
+      ],
       'swe' => [
         'official' => 'Republiken Slovakien',
         'common' => 'Slovakien',
+      ],
+      'tur' => [
+        'official' => 'Slovak Cumhuriyeti',
+        'common' => 'Slovakya',
       ],
       'urd' => [
         'official' => 'جمہوریہ سلوواکیہ',
@@ -33159,7 +38031,7 @@ class CountriesDataSource
     'unMember' => true,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -33183,9 +38055,21 @@ class CountriesDataSource
       'slv' => 'Slovene',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سلوفينيا',
+        'common' => 'سلوفينيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Slovenia',
+        'common' => 'Slovenia',
+      ],
       'ces' => [
         'official' => 'Slovinská republika',
         'common' => 'Slovinsko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Slovenia',
+        'common' => 'Slovenia',
       ],
       'deu' => [
         'official' => 'Republik Slowenien',
@@ -33210,6 +38094,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szlovén Köztársaság',
         'common' => 'Szlovénia',
+      ],
+      'ind' => [
+        'official' => 'Republik Slowenia',
+        'common' => 'Slowenia',
       ],
       'ita' => [
         'official' => 'Repubblica di Slovenia',
@@ -33251,9 +38139,17 @@ class CountriesDataSource
         'official' => 'República de Eslovenia',
         'common' => 'Eslovenia',
       ],
+      'srp' => [
+        'official' => 'Република Словенија',
+        'common' => 'Словенија',
+      ],
       'swe' => [
         'official' => 'Republiken Slovenien',
         'common' => 'Slovenien',
+      ],
+      'tur' => [
+        'official' => 'Slovenya Cumhuriyeti',
+        'common' => 'Slovenya',
       ],
       'urd' => [
         'official' => 'جمہوریہ سلووینیا',
@@ -33338,9 +38234,21 @@ class CountriesDataSource
       'swe' => 'Swedish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة السويد',
+        'common' => 'السويد',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Sveden',
+        'common' => 'Sveden',
+      ],
       'ces' => [
         'official' => 'Švédské království',
         'common' => 'Švédsko',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Sweden',
+        'common' => 'Sweden',
       ],
       'deu' => [
         'official' => 'Königreich Schweden',
@@ -33365,6 +38273,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Svéd Királyság',
         'common' => 'Svédország',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Swedia',
+        'common' => 'Swedia',
       ],
       'ita' => [
         'official' => 'Regno di Svezia',
@@ -33406,9 +38318,17 @@ class CountriesDataSource
         'official' => 'Reino de Suecia',
         'common' => 'Suecia',
       ],
+      'srp' => [
+        'official' => 'Краљевина Шведска',
+        'common' => 'Шведска',
+      ],
       'swe' => [
         'official' => 'Konungariket Sverige',
         'common' => 'Sverige',
+      ],
+      'tur' => [
+        'official' => 'İsveç Krallığı',
+        'common' => 'İsveç',
       ],
       'urd' => [
         'official' => 'مملکتِ سویڈن',
@@ -33486,7 +38406,7 @@ class CountriesDataSource
       ],
     ],
     'capital' => [
-      0 => 'Lobamba',
+      0 => 'Mbabane',
     ],
     'altSpellings' => [
       0 => 'SZ',
@@ -33504,9 +38424,21 @@ class CountriesDataSource
       'ssw' => 'Swazi',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة إسواتيني',
+        'common' => 'إسواتيني',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Eswatini',
+        'common' => 'Eswatini',
+      ],
       'ces' => [
         'official' => 'Svazijské království',
         'common' => 'Svazijsko',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Eswatini',
+        'common' => 'Eswatini',
       ],
       'deu' => [
         'official' => 'Königreich Eswatini',
@@ -33531,6 +38463,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szváziföldi Királyság',
         'common' => 'Szváziföld',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Eswatini',
+        'common' => 'Eswatini',
       ],
       'ita' => [
         'official' => 'Regno di eSwatini',
@@ -33572,9 +38508,17 @@ class CountriesDataSource
         'official' => 'Reino de eSwatini',
         'common' => 'Suazilandia',
       ],
+      'srp' => [
+        'official' => 'Краљевина Есватини',
+        'common' => 'Есватини',
+      ],
       'swe' => [
         'official' => 'Konungariket Eswatini',
         'common' => 'Swaziland',
+      ],
+      'tur' => [
+        'official' => 'Esvatini Krallığı',
+        'common' => 'Esvatini',
       ],
       'urd' => [
         'official' => 'مملکتِ سوازی لینڈ',
@@ -33666,9 +38610,21 @@ class CountriesDataSource
       'nld' => 'Dutch',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سينت مارتن',
+        'common' => 'سينت مارتن',
+      ],
+      'bre' => [
+        'official' => 'Sint Maarten',
+        'common' => 'Sint Maarten',
+      ],
       'ces' => [
         'official' => 'Svatý Martin',
         'common' => 'Svatý Martin (Nizozemsko)',
+      ],
+      'cym' => [
+        'official' => 'Sint Maarten',
+        'common' => 'Sint Maarten',
       ],
       'deu' => [
         'official' => 'Sint Maarten',
@@ -33691,6 +38647,10 @@ class CountriesDataSource
         'common' => 'Sveti Martin',
       ],
       'hun' => [
+        'official' => 'Sint Maarten',
+        'common' => 'Sint Maarten',
+      ],
+      'ind' => [
         'official' => 'Sint Maarten',
         'common' => 'Sint Maarten',
       ],
@@ -33734,7 +38694,15 @@ class CountriesDataSource
         'official' => 'Sint Maarten',
         'common' => 'Sint Maarten',
       ],
+      'srp' => [
+        'official' => 'Свети Мартин',
+        'common' => 'Свети Мартин',
+      ],
       'swe' => [
+        'official' => 'Sint Maarten',
+        'common' => 'Sint Maarten',
+      ],
+      'tur' => [
         'official' => 'Sint Maarten',
         'common' => 'Sint Maarten',
       ],
@@ -33829,9 +38797,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية سيشل',
+        'common' => 'سيشل',
+      ],
+      'bre' => [
+        'official' => 'Republik Sechelez',
+        'common' => 'Sechelez',
+      ],
       'ces' => [
         'official' => 'Seychelská republika',
         'common' => 'Seychely',
+      ],
+      'cym' => [
+        'official' => 'Republic of Seychelles',
+        'common' => 'Seychelles',
       ],
       'deu' => [
         'official' => 'Republik der Seychellen',
@@ -33856,6 +38836,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Seychelle Köztársaság',
         'common' => 'Seychelle-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Republik Seisel',
+        'common' => 'Seisel',
       ],
       'ita' => [
         'official' => 'Repubblica delle Seychelles',
@@ -33897,9 +38881,17 @@ class CountriesDataSource
         'official' => 'República de las Seychelles',
         'common' => 'Seychelles',
       ],
+      'srp' => [
+        'official' => 'Република Сејшели',
+        'common' => 'Сејшели',
+      ],
       'swe' => [
         'official' => 'Republiken Seychellerna',
         'common' => 'Seychellerna',
+      ],
+      'tur' => [
+        'official' => 'Seyşeller Cumhuriyeti',
+        'common' => 'Seyşeller',
       ],
       'urd' => [
         'official' => 'جمہوریہ سیچیلیس',
@@ -33981,9 +38973,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية العربية السورية',
+        'common' => 'سوريا',
+      ],
+      'bre' => [
+        'official' => 'Republik Arab Siriat',
+        'common' => 'Siria',
+      ],
       'ces' => [
         'official' => 'Syrská arabská republika',
         'common' => 'Sýrie',
+      ],
+      'cym' => [
+        'official' => 'Syrian Arab Republic',
+        'common' => 'Syria',
       ],
       'deu' => [
         'official' => 'Arabische Republik Syrien',
@@ -34008,6 +39012,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szíriai Arab Köztársaság',
         'common' => 'Szíria',
+      ],
+      'ind' => [
+        'official' => 'Republik Arab Suriah',
+        'common' => 'Suriah',
       ],
       'ita' => [
         'official' => 'Repubblica araba siriana',
@@ -34049,9 +39057,17 @@ class CountriesDataSource
         'official' => 'República Árabe Siria',
         'common' => 'Siria',
       ],
+      'srp' => [
+        'official' => 'Сиријска Арапска Република',
+        'common' => 'Сирија',
+      ],
       'swe' => [
         'official' => 'Syriska arabiska republiken',
         'common' => 'Syrien',
+      ],
+      'tur' => [
+        'official' => 'Suriye Arap Cumhuriyeti',
+        'common' => 'Suriye',
       ],
       'urd' => [
         'official' => 'عرب جمہوریہ سوریہ',
@@ -34135,9 +39151,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر توركس وكايكوس',
+        'common' => 'جزر توركس وكايكوس',
+      ],
+      'bre' => [
+        'official' => 'Inizi Turks ha Caicos',
+        'common' => 'Inizi Turks ha Caicos',
+      ],
       'ces' => [
         'official' => 'Turks a Caicos',
         'common' => 'Turks a Caicos',
+      ],
+      'cym' => [
+        'official' => 'Turks and Caicos Islands',
+        'common' => 'Turks and Caicos Islands',
       ],
       'deu' => [
         'official' => 'Turks und Caicos Inseln',
@@ -34162,6 +39190,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Turks- és Caicos-szigetek',
         'common' => 'Turks- és Caicos-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Turks dan Caicos',
+        'common' => 'Kepulauan Turks dan Caicos',
       ],
       'ita' => [
         'official' => 'Turks e Caicos',
@@ -34203,9 +39235,17 @@ class CountriesDataSource
         'official' => 'Islas Turcas y Caicos',
         'common' => 'Islas Turks y Caicos',
       ],
+      'srp' => [
+        'official' => 'Острва Теркс и Кејкос',
+        'common' => 'Теркс и Кејкос',
+      ],
       'swe' => [
         'official' => 'Turks- och Caicosöarna',
         'common' => 'Turks- och Caicosöarna',
+      ],
+      'tur' => [
+        'official' => 'Turks ve Caicos Adaları',
+        'common' => 'Turks ve Caicos Adaları',
       ],
       'urd' => [
         'official' => 'جزائر کیکس و ترکیہ',
@@ -34292,9 +39332,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية تشاد',
+        'common' => 'تشاد',
+      ],
+      'bre' => [
+        'official' => 'Republik Tchad',
+        'common' => 'Tchad',
+      ],
       'ces' => [
         'official' => 'Čadská republika',
         'common' => 'Čad',
+      ],
+      'cym' => [
+        'official' => 'Gweriniaeth Tsiad',
+        'common' => 'Tsiad',
       ],
       'deu' => [
         'official' => 'Republik Tschad',
@@ -34319,6 +39371,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Csád Köztársaság',
         'common' => 'Csád',
+      ],
+      'ind' => [
+        'official' => 'Republik Cad',
+        'common' => 'Cad',
       ],
       'ita' => [
         'official' => 'Repubblica del Ciad',
@@ -34360,9 +39416,17 @@ class CountriesDataSource
         'official' => 'República de Chad',
         'common' => 'Chad',
       ],
+      'srp' => [
+        'official' => 'Република Чад',
+        'common' => 'Чад',
+      ],
       'swe' => [
         'official' => 'Republiken Tchad',
         'common' => 'Tchad',
+      ],
+      'tur' => [
+        'official' => 'Çad Cumhuriyeti',
+        'common' => 'Çad',
       ],
       'urd' => [
         'official' => 'جمہوریہ چاڈ',
@@ -34450,8 +39514,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية توغو',
+        'common' => 'توغو',
+      ],
+      'bre' => [
+        'official' => 'Republik Togoat',
+        'common' => 'Togo',
+      ],
       'ces' => [
         'official' => 'Republika Togo',
+        'common' => 'Togo',
+      ],
+      'cym' => [
+        'official' => 'Togolese Republic',
         'common' => 'Togo',
       ],
       'deu' => [
@@ -34476,6 +39552,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Togói Köztársaság',
+        'common' => 'Togo',
+      ],
+      'ind' => [
+        'official' => 'Republik Togo',
         'common' => 'Togo',
       ],
       'ita' => [
@@ -34518,8 +39598,16 @@ class CountriesDataSource
         'official' => 'República de Togo',
         'common' => 'Togo',
       ],
+      'srp' => [
+        'official' => 'Тоголешка Република',
+        'common' => 'Того',
+      ],
       'swe' => [
         'official' => 'Republiken Togo',
+        'common' => 'Togo',
+      ],
+      'tur' => [
+        'official' => 'Togo Cumhuriyeti',
         'common' => 'Togo',
       ],
       'urd' => [
@@ -34608,9 +39696,21 @@ class CountriesDataSource
       'tha' => 'Thai',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة تايلند',
+        'common' => 'تايلند',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Thailand',
+        'common' => 'Thailand',
+      ],
       'ces' => [
         'official' => 'Thajské království',
         'common' => 'Thajsko',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Thailand',
+        'common' => 'Thailand',
       ],
       'deu' => [
         'official' => 'Königreich Thailand',
@@ -34635,6 +39735,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Thaiföldi Királyság',
         'common' => 'Thaiföld',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Tailan',
+        'common' => 'Tailan',
       ],
       'ita' => [
         'official' => 'Regno di Thailandia',
@@ -34676,9 +39780,17 @@ class CountriesDataSource
         'official' => 'Reino de Tailandia',
         'common' => 'Tailandia',
       ],
+      'srp' => [
+        'official' => 'Краљевина Тајланд',
+        'common' => 'Тајланд',
+      ],
       'swe' => [
         'official' => 'Konungariket Thailand',
         'common' => 'Thailand',
+      ],
+      'tur' => [
+        'official' => 'Tayland Krallığı',
+        'common' => 'Tayland',
       ],
       'urd' => [
         'official' => 'مملکتِ تھائی لینڈ',
@@ -34770,9 +39882,21 @@ class CountriesDataSource
       'tgk' => 'Tajik',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية طاجيكستان',
+        'common' => 'طاجيكستان',
+      ],
+      'bre' => [
+        'official' => 'Republik Tadjikistan',
+        'common' => 'Tadjikistan',
+      ],
       'ces' => [
         'official' => 'Republika Tádžikistán',
         'common' => 'Tádžikistán',
+      ],
+      'cym' => [
+        'official' => 'Republic of Tajikistan',
+        'common' => 'Tajikistan',
       ],
       'deu' => [
         'official' => 'Republik Tadschikistan',
@@ -34797,6 +39921,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Tádzsik Köztársaság',
         'common' => 'Tádzsikisztán',
+      ],
+      'ind' => [
+        'official' => 'Republik Tajikistan',
+        'common' => 'Tajikistan',
       ],
       'ita' => [
         'official' => 'Repubblica del Tajikistan',
@@ -34838,9 +39966,17 @@ class CountriesDataSource
         'official' => 'República de Tayikistán',
         'common' => 'Tayikistán',
       ],
+      'srp' => [
+        'official' => 'Република Таџикистан',
+        'common' => 'Таџикистан',
+      ],
       'swe' => [
         'official' => 'Republiken Tadzjikistan',
         'common' => 'Tadzjikistan',
+      ],
+      'tur' => [
+        'official' => 'Tacikistan Cumhuriyeti',
+        'common' => 'Tacikistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ تاجکستان',
@@ -34933,7 +40069,19 @@ class CountriesDataSource
       'tkl' => 'Tokelauan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'توكيلاو',
+        'common' => 'توكيلاو',
+      ],
+      'bre' => [
+        'official' => 'Tokelau',
+        'common' => 'Tokelau',
+      ],
       'ces' => [
+        'official' => 'Tokelau',
+        'common' => 'Tokelau',
+      ],
+      'cym' => [
         'official' => 'Tokelau',
         'common' => 'Tokelau',
       ],
@@ -34960,6 +40108,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Tokelau-szigetek',
         'common' => 'Tokelau-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Tokelau',
+        'common' => 'Tokelau',
       ],
       'ita' => [
         'official' => 'Tokelau',
@@ -35001,9 +40153,17 @@ class CountriesDataSource
         'official' => 'Tokelau',
         'common' => 'Islas Tokelau',
       ],
+      'srp' => [
+        'official' => 'Токелау',
+        'common' => 'Токелау',
+      ],
       'swe' => [
         'official' => 'Tokelauöarna',
         'common' => 'Tokelauöarna',
+      ],
+      'tur' => [
+        'official' => 'Tokelau',
+        'common' => 'Tokelau',
       ],
       'urd' => [
         'official' => 'ٹوکیلاؤ',
@@ -35087,9 +40247,21 @@ class CountriesDataSource
       'tuk' => 'Turkmen',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'تركمانستان',
+        'common' => 'تركمانستان',
+      ],
+      'bre' => [
+        'official' => 'Republik Turkmenistan',
+        'common' => 'Turkmenistan',
+      ],
       'ces' => [
         'official' => 'Turkmenistán',
         'common' => 'Turkmenistán',
+      ],
+      'cym' => [
+        'official' => 'Turkmenistan',
+        'common' => 'Turkmenistan',
       ],
       'deu' => [
         'official' => 'Turkmenistan',
@@ -35114,6 +40286,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Türkmén Köztársaság',
         'common' => 'Türkmenisztán',
+      ],
+      'ind' => [
+        'official' => 'Turmenistan',
+        'common' => 'Turmenistan',
       ],
       'ita' => [
         'official' => 'Turkmenistan',
@@ -35155,9 +40331,17 @@ class CountriesDataSource
         'official' => 'Turkmenistán',
         'common' => 'Turkmenistán',
       ],
+      'srp' => [
+        'official' => 'Туркменистан',
+        'common' => 'Туркменистан',
+      ],
       'swe' => [
         'official' => 'Turkmenistan',
         'common' => 'Turkmenistan',
+      ],
+      'tur' => [
+        'official' => 'Türkmenistan',
+        'common' => 'Türkmenistan',
       ],
       'urd' => [
         'official' => 'ترکمانستان',
@@ -35251,9 +40435,21 @@ class CountriesDataSource
       'tet' => 'Tetum',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية تيمور الشرقية الديمقراطية',
+        'common' => 'تيمور الشرقية',
+      ],
+      'bre' => [
+        'official' => 'Republik demakratel Timor ar Reter',
+        'common' => 'Timor ar Reter',
+      ],
       'ces' => [
         'official' => 'Demokratická republika Východní Timor',
         'common' => 'Východní Timor',
+      ],
+      'cym' => [
+        'official' => 'Democratic Republic of Timor-Leste',
+        'common' => 'Timor-Leste',
       ],
       'deu' => [
         'official' => 'Demokratische Republik Timor-Leste',
@@ -35278,6 +40474,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kelet-timori Demokratikus Köztársaság',
         'common' => 'Kelet-Timor',
+      ],
+      'ind' => [
+        'official' => 'Republik Demokratik Timor Leste',
+        'common' => 'Timor Leste',
       ],
       'ita' => [
         'official' => 'Repubblica Democratica di Timor Est',
@@ -35319,9 +40519,17 @@ class CountriesDataSource
         'official' => 'República Democrática de Timor-Leste',
         'common' => 'Timor Oriental',
       ],
+      'srp' => [
+        'official' => 'Демократска Република Источни Тимор',
+        'common' => 'Источни Тимор',
+      ],
       'swe' => [
         'official' => 'Demokratiska republiken Östtimor',
         'common' => 'Östtimor',
+      ],
+      'tur' => [
+        'official' => 'Doğu Timor Demokratik Cumhuriyeti',
+        'common' => 'Doğu Timor',
       ],
       'urd' => [
         'official' => 'جمہوری جمہوریہ مشرقی تیمور',
@@ -35406,8 +40614,20 @@ class CountriesDataSource
       'ton' => 'Tongan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'مملكة تونغا',
+        'common' => 'تونغا',
+      ],
+      'bre' => [
+        'official' => 'Rouantelezh Tonga',
+        'common' => 'Tonga',
+      ],
       'ces' => [
         'official' => 'Království Tonga',
+        'common' => 'Tonga',
+      ],
+      'cym' => [
+        'official' => 'Kingdom of Tonga',
         'common' => 'Tonga',
       ],
       'deu' => [
@@ -35432,6 +40652,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Tongai Királyság',
+        'common' => 'Tonga',
+      ],
+      'ind' => [
+        'official' => 'Kerajaan Tonga',
         'common' => 'Tonga',
       ],
       'ita' => [
@@ -35474,8 +40698,16 @@ class CountriesDataSource
         'official' => 'Reino de Tonga',
         'common' => 'Tonga',
       ],
+      'srp' => [
+        'official' => 'Краљевина Тонга',
+        'common' => 'Тонга',
+      ],
       'swe' => [
         'official' => 'Konungariket Tonga',
+        'common' => 'Tonga',
+      ],
+      'tur' => [
+        'official' => 'Tonga Krallığı',
         'common' => 'Tonga',
       ],
       'urd' => [
@@ -35556,9 +40788,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية ترينيداد وتوباغو',
+        'common' => 'ترينيداد وتوباغو',
+      ],
+      'bre' => [
+        'official' => 'Republik Trinidad ha Tobago',
+        'common' => 'Trinidad ha Tobago',
+      ],
       'ces' => [
         'official' => 'Republika Trinidad a Tobago',
         'common' => 'Trinidad a Tobago',
+      ],
+      'cym' => [
+        'official' => 'Republic of Trinidad and Tobago',
+        'common' => 'Trinidad and Tobago',
       ],
       'deu' => [
         'official' => 'Republik Trinidad und Tobago',
@@ -35583,6 +40827,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Trinidad és Tobago Köztársaság',
         'common' => 'Trinidad és Tobago',
+      ],
+      'ind' => [
+        'official' => 'Republik Trinidad dan Tobago',
+        'common' => 'Trinidad dan Tobago',
       ],
       'ita' => [
         'official' => 'Repubblica di Trinidad e Tobago',
@@ -35624,9 +40872,17 @@ class CountriesDataSource
         'official' => 'República de Trinidad y Tobago',
         'common' => 'Trinidad y Tobago',
       ],
+      'srp' => [
+        'official' => 'Република Тринидад и Тобаго',
+        'common' => 'Тринидад и Тобаго',
+      ],
       'swe' => [
         'official' => 'Republiken Trinidad och Tobago',
         'common' => 'Trinidad och Tobago',
+      ],
+      'tur' => [
+        'official' => 'Trinidad ve Tobago',
+        'common' => 'Trinidad ve Tobago',
       ],
       'urd' => [
         'official' => 'جمہوریہ ٹرینیڈاڈ و ٹوباگو',
@@ -35638,8 +40894,8 @@ class CountriesDataSource
       ],
     ],
     'latlng' => [
-      0 => 11,
-      1 => -61,
+      0 => 10.6918,
+      1 => -61.2225,
     ],
     'landlocked' => false,
     'borders' => [
@@ -35707,9 +40963,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية التونسية',
+        'common' => 'تونس',
+      ],
+      'bre' => [
+        'official' => 'Republik Tunizian',
+        'common' => 'Tunizia',
+      ],
       'ces' => [
         'official' => 'Tuniská republika',
         'common' => 'Tunisko',
+      ],
+      'cym' => [
+        'official' => 'Tunisian Republic',
+        'common' => 'Tunisia',
       ],
       'deu' => [
         'official' => 'Tunesische Republik',
@@ -35734,6 +41002,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Tunéziai Köztársaság',
         'common' => 'Tunézia',
+      ],
+      'ind' => [
+        'official' => 'Republik Tunisia',
+        'common' => 'Tunisia',
       ],
       'ita' => [
         'official' => 'Repubblica tunisina',
@@ -35775,9 +41047,17 @@ class CountriesDataSource
         'official' => 'República de Túnez',
         'common' => 'Túnez',
       ],
+      'srp' => [
+        'official' => 'Тунишанска Република',
+        'common' => 'Тунис',
+      ],
       'swe' => [
         'official' => 'Republiken Tunisien',
         'common' => 'Tunisien',
+      ],
+      'tur' => [
+        'official' => 'Tunus Cumhuriyeti',
+        'common' => 'Tunus',
       ],
       'urd' => [
         'official' => 'جمہوریہ تونس',
@@ -35816,7 +41096,7 @@ class CountriesDataSource
   227 => [
     'name' => [
       'common' => 'Turkey',
-      'official' => 'Republic of Türkiye',
+      'official' => 'Republic of Turkey',
       'native' => [
         'tur' => [
           'official' => 'Türkiye Cumhuriyeti',
@@ -35861,9 +41141,21 @@ class CountriesDataSource
       'tur' => 'Turkish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية التركية',
+        'common' => 'تركيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Turkia',
+        'common' => 'Turkia',
+      ],
       'ces' => [
         'official' => 'Turecká republika',
         'common' => 'Turecko',
+      ],
+      'cym' => [
+        'official' => 'Republic of Turkey',
+        'common' => 'Turkey',
       ],
       'deu' => [
         'official' => 'Republik Türkei',
@@ -35888,6 +41180,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Török Köztársaság',
         'common' => 'Törökország',
+      ],
+      'ind' => [
+        'official' => 'Republik Turki',
+        'common' => 'Turki',
       ],
       'ita' => [
         'official' => 'Repubblica di Turchia',
@@ -35929,9 +41225,17 @@ class CountriesDataSource
         'official' => 'República de Turquía',
         'common' => 'Turquía',
       ],
+      'srp' => [
+        'official' => 'Турска Република',
+        'common' => 'Турска',
+      ],
       'swe' => [
         'official' => 'Republiken Turkiet',
         'common' => 'Turkiet',
+      ],
+      'tur' => [
+        'official' => 'Türkiye Cumhuriyeti',
+        'common' => 'Türkiye',
       ],
       'urd' => [
         'official' => 'جمہوریہ ترکی',
@@ -36027,7 +41331,19 @@ class CountriesDataSource
       'tvl' => 'Tuvaluan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'توفالو',
+        'common' => 'توفالو',
+      ],
+      'bre' => [
+        'official' => 'Tuvalu',
+        'common' => 'Tuvalu',
+      ],
       'ces' => [
+        'official' => 'Tuvalu',
+        'common' => 'Tuvalu',
+      ],
+      'cym' => [
         'official' => 'Tuvalu',
         'common' => 'Tuvalu',
       ],
@@ -36052,6 +41368,10 @@ class CountriesDataSource
         'common' => 'Tuvalu',
       ],
       'hun' => [
+        'official' => 'Tuvalu',
+        'common' => 'Tuvalu',
+      ],
+      'ind' => [
         'official' => 'Tuvalu',
         'common' => 'Tuvalu',
       ],
@@ -36095,7 +41415,15 @@ class CountriesDataSource
         'official' => 'Tuvalu',
         'common' => 'Tuvalu',
       ],
+      'srp' => [
+        'official' => 'Тувалу',
+        'common' => 'Тувалу',
+      ],
       'swe' => [
+        'official' => 'Tuvalu',
+        'common' => 'Tuvalu',
+      ],
+      'tur' => [
         'official' => 'Tuvalu',
         'common' => 'Tuvalu',
       ],
@@ -36183,9 +41511,21 @@ class CountriesDataSource
       'zho' => 'Chinese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الصين (تايوان)',
+        'common' => 'تايوان',
+      ],
+      'bre' => [
+        'official' => 'Republik Sina (Taiwan)',
+        'common' => 'Taiwan',
+      ],
       'ces' => [
         'official' => 'Čínská republika',
         'common' => 'Tchaj-wan',
+      ],
+      'cym' => [
+        'official' => 'Republic of China (Taiwan)',
+        'common' => 'Taiwan',
       ],
       'deu' => [
         'official' => 'Republik China (Taiwan)',
@@ -36210,6 +41550,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Kínai Köztársaság',
         'common' => 'Tajvan',
+      ],
+      'ind' => [
+        'official' => 'Republik Tiongkok',
+        'common' => 'Taiwan',
       ],
       'ita' => [
         'official' => 'Repubblica cinese (Taiwan)',
@@ -36251,17 +41595,21 @@ class CountriesDataSource
         'official' => 'República de China en Taiwán',
         'common' => 'Taiwán',
       ],
+      'srp' => [
+        'official' => 'Република Кина',
+        'common' => 'Тајван',
+      ],
       'swe' => [
         'official' => 'Republiken Kina',
         'common' => 'Taiwan',
       ],
+      'tur' => [
+        'official' => 'Çin Cumhuriyeti (Tayvan)',
+        'common' => 'Tayvan',
+      ],
       'urd' => [
         'official' => 'جمہوریہ چین (تائیوان)',
         'common' => 'تائیوان',
-      ],
-      'zho' => [
-        'official' => '中華民國',
-        'common' => '台灣',
       ],
     ],
     'latlng' => [
@@ -36271,7 +41619,7 @@ class CountriesDataSource
     'landlocked' => false,
     'borders' => [
     ],
-    'area' => 36193,
+    'area' => 36197,
     'flag' => '🇹🇼',
     'demonyms' => [
       'eng' => [
@@ -36340,9 +41688,21 @@ class CountriesDataSource
       'swa' => 'Swahili',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية تنزانيا الاتحادية',
+        'common' => 'تنزانيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Unanet Tanzania',
+        'common' => 'Tanzania',
+      ],
       'ces' => [
         'official' => 'Sjednocená tanzanská republika',
         'common' => 'Tanzanie',
+      ],
+      'cym' => [
+        'official' => 'United Republic of Tanzania',
+        'common' => 'Tanzania',
       ],
       'deu' => [
         'official' => 'Vereinigte Republik Tansania',
@@ -36367,6 +41727,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Tádzsik Köztársaság',
         'common' => 'Tádzsikisztán',
+      ],
+      'ind' => [
+        'official' => 'Republik Kesatuan Tanzania',
+        'common' => 'Tanzania',
       ],
       'ita' => [
         'official' => 'Repubblica Unita di Tanzania',
@@ -36408,9 +41772,17 @@ class CountriesDataSource
         'official' => 'República Unida de Tanzania',
         'common' => 'Tanzania',
       ],
+      'srp' => [
+        'official' => 'Уједињена Република Танзанија',
+        'common' => 'Танзанија',
+      ],
       'swe' => [
         'official' => 'Förenade republiken Tanzania',
         'common' => 'Tanzania',
+      ],
+      'tur' => [
+        'official' => 'Tanzanya Birleşik Cumhuriyeti',
+        'common' => 'Tanzanya',
       ],
       'urd' => [
         'official' => 'متحدہ جمہوریہ تنزانیہ',
@@ -36436,7 +41808,7 @@ class CountriesDataSource
       6 => 'UGA',
       7 => 'ZMB',
     ],
-    'area' => 945087,
+    'area' => 947303,
     'flag' => '🇹🇿',
     'demonyms' => [
       'eng' => [
@@ -36504,8 +41876,20 @@ class CountriesDataSource
       'swa' => 'Swahili',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية أوغندا',
+        'common' => 'أوغندا',
+      ],
+      'bre' => [
+        'official' => 'Republik Ouganda',
+        'common' => 'Ouganda',
+      ],
       'ces' => [
         'official' => 'Ugandská republika',
+        'common' => 'Uganda',
+      ],
+      'cym' => [
+        'official' => 'Republic of Uganda',
         'common' => 'Uganda',
       ],
       'deu' => [
@@ -36530,6 +41914,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Ugandai Köztársaság',
+        'common' => 'Uganda',
+      ],
+      'ind' => [
+        'official' => 'Republik Uganda',
         'common' => 'Uganda',
       ],
       'ita' => [
@@ -36572,8 +41960,16 @@ class CountriesDataSource
         'official' => 'República de Uganda',
         'common' => 'Uganda',
       ],
+      'srp' => [
+        'official' => 'Република Уганда',
+        'common' => 'Уганда',
+      ],
       'swe' => [
         'official' => 'Republiken Uganda',
+        'common' => 'Uganda',
+      ],
+      'tur' => [
+        'official' => 'Uganda Cumhuriyeti',
         'common' => 'Uganda',
       ],
       'urd' => [
@@ -36660,9 +42056,21 @@ class CountriesDataSource
       'ukr' => 'Ukrainian',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'أوكرانيا',
+        'common' => 'أوكرانيا',
+      ],
+      'bre' => [
+        'official' => 'Ukraina',
+        'common' => 'Ukraina',
+      ],
       'ces' => [
         'official' => 'Ukrajina',
         'common' => 'Ukrajina',
+      ],
+      'cym' => [
+        'official' => 'Ukraine',
+        'common' => 'Ukraine',
       ],
       'deu' => [
         'official' => 'Ukraine',
@@ -36687,6 +42095,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Ukrajna',
         'common' => 'Ukrajna',
+      ],
+      'ind' => [
+        'official' => 'Ukraina',
+        'common' => 'Ukraina',
       ],
       'ita' => [
         'official' => 'Ucraina',
@@ -36728,9 +42140,17 @@ class CountriesDataSource
         'official' => 'Ucrania',
         'common' => 'Ucrania',
       ],
+      'srp' => [
+        'official' => 'Украјина',
+        'common' => 'Украјина',
+      ],
       'swe' => [
         'official' => 'Ukraina',
         'common' => 'Ukraina',
+      ],
+      'tur' => [
+        'official' => 'Ukrayna',
+        'common' => 'Ukrayna',
       ],
       'urd' => [
         'official' => 'یوکرین',
@@ -36755,7 +42175,7 @@ class CountriesDataSource
       5 => 'RUS',
       6 => 'SVK',
     ],
-    'area' => 603500,
+    'area' => 603550,
     'flag' => '🇺🇦',
     'demonyms' => [
       'eng' => [
@@ -36805,6 +42225,7 @@ class CountriesDataSource
       ],
     ],
     'capital' => [
+      0 => 'Washington DC',
     ],
     'altSpellings' => [
       0 => 'UM',
@@ -36815,9 +42236,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر الولايات المتحدة الصغيرة النائية',
+        'common' => 'جزر الولايات المتحدة الصغيرة النائية',
+      ],
+      'bre' => [
+        'official' => 'Inizi Minor A-bell Stadoù-Unanet',
+        'common' => 'Inizi Minor A-bell Stadoù-Unanet',
+      ],
       'ces' => [
         'official' => 'Menší odlehlé ostrovy Spojených států amerických',
         'common' => 'Menší odlehlé ostrovy USA',
+      ],
+      'cym' => [
+        'official' => 'United States Minor Outlying Islands',
+        'common' => 'United States Minor Outlying Islands',
       ],
       'deu' => [
         'official' => 'USA, kleinere ausgelagerte Inseln',
@@ -36842,6 +42275,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Az Amerikai Egyesült Államok lakatlan külbirtokai',
         'common' => 'Az Amerikai Egyesült Államok lakatlan külbirtokai',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Terluar Kecil Amerika Serikat',
+        'common' => 'Kepulauan Terluar Kecil Amerika Serikat',
       ],
       'ita' => [
         'official' => 'Stati Uniti Isole Minori',
@@ -36883,9 +42320,17 @@ class CountriesDataSource
         'official' => 'Estados Unidos Islas menores alejadas de',
         'common' => 'Islas Ultramarinas Menores de Estados Unidos',
       ],
+      'srp' => [
+        'official' => 'Мала спољна острва Сједињених Америчких Држава',
+        'common' => 'Мала спољна острва Сједињених Америчких Држава',
+      ],
       'swe' => [
         'official' => 'Förenta staternas mindre öar i Oceanien och Västindien',
         'common' => 'Förenta staternas mindre öar i Oceanien och Västindien',
+      ],
+      'tur' => [
+        'official' => 'Amerika Birleşik Devletleri Küçük Dış Adaları',
+        'common' => 'Amerika Birleşik Devletleri Küçük Dış Adaları',
       ],
       'urd' => [
         'official' => 'امریکی چھوٹے بیرونی جزائر',
@@ -36966,8 +42411,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية الأوروغواي الشرقية',
+        'common' => 'الأوروغواي',
+      ],
+      'bre' => [
+        'official' => 'Republik Reter Uruguay',
+        'common' => 'Uruguay',
+      ],
       'ces' => [
         'official' => 'Uruguayská východní republika',
+        'common' => 'Uruguay',
+      ],
+      'cym' => [
+        'official' => 'Oriental Republic of Uruguay',
         'common' => 'Uruguay',
       ],
       'deu' => [
@@ -36993,6 +42450,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Uruguayi Keleti Köztársaság',
         'common' => 'Uruguay',
+      ],
+      'ind' => [
+        'official' => 'Republik Oriental Uruguai',
+        'common' => 'Uruguai',
       ],
       'ita' => [
         'official' => 'Repubblica Orientale dell\'Uruguay',
@@ -37034,8 +42495,16 @@ class CountriesDataSource
         'official' => 'República Oriental del Uruguay',
         'common' => 'Uruguay',
       ],
+      'srp' => [
+        'official' => 'Источна Република Уругвај',
+        'common' => 'Уругвај',
+      ],
       'swe' => [
         'official' => 'Republiken Uruguay',
+        'common' => 'Uruguay',
+      ],
+      'tur' => [
+        'official' => 'Uruguay Doğu Cumhuriyeti',
         'common' => 'Uruguay',
       ],
       'urd' => [
@@ -37120,372 +42589,309 @@ class CountriesDataSource
         15 => '218',
         16 => '219',
         17 => '220',
-        18 => '223',
-        19 => '224',
-        20 => '225',
-        21 => '227',
-        22 => '228',
-        23 => '229',
-        24 => '231',
-        25 => '234',
-        26 => '239',
-        27 => '240',
-        28 => '248',
-        29 => '251',
-        30 => '252',
-        31 => '253',
-        32 => '254',
-        33 => '256',
-        34 => '260',
-        35 => '262',
-        36 => '267',
-        37 => '269',
-        38 => '270',
-        39 => '272',
-        40 => '274',
-        41 => '276',
-        42 => '279',
-        43 => '281',
-        44 => '283',
-        45 => '301',
-        46 => '302',
-        47 => '303',
-        48 => '304',
-        49 => '305',
-        50 => '307',
-        51 => '308',
-        52 => '309',
-        53 => '310',
-        54 => '312',
-        55 => '313',
-        56 => '314',
-        57 => '315',
-        58 => '316',
-        59 => '317',
-        60 => '318',
-        61 => '319',
-        62 => '320',
-        63 => '321',
-        64 => '323',
-        65 => '325',
-        66 => '326',
-        67 => '327',
-        68 => '330',
-        69 => '331',
-        70 => '332',
-        71 => '334',
-        72 => '336',
-        73 => '337',
-        74 => '339',
-        75 => '341',
-        76 => '346',
-        77 => '347',
-        78 => '351',
-        79 => '352',
-        80 => '360',
-        81 => '361',
-        82 => '364',
-        83 => '380',
-        84 => '385',
-        85 => '386',
-        86 => '401',
-        87 => '402',
-        88 => '404',
-        89 => '405',
-        90 => '406',
-        91 => '407',
-        92 => '408',
-        93 => '409',
-        94 => '410',
-        95 => '412',
-        96 => '413',
-        97 => '414',
-        98 => '415',
-        99 => '417',
-        100 => '419',
-        101 => '423',
-        102 => '424',
-        103 => '425',
-        104 => '430',
-        105 => '432',
-        106 => '434',
-        107 => '435',
-        108 => '440',
-        109 => '442',
-        110 => '443',
-        111 => '445',
-        112 => '447',
-        113 => '448',
-        114 => '458',
-        115 => '463',
-        116 => '464',
-        117 => '469',
-        118 => '470',
-        119 => '475',
-        120 => '478',
-        121 => '479',
-        122 => '480',
-        123 => '484',
-        124 => '500',
-        125 => '501',
-        126 => '502',
-        127 => '503',
-        128 => '504',
-        129 => '505',
-        130 => '507',
-        131 => '508',
-        132 => '509',
-        133 => '510',
-        134 => '512',
-        135 => '513',
-        136 => '515',
-        137 => '516',
-        138 => '517',
-        139 => '518',
-        140 => '520',
-        141 => '521',
-        142 => '522',
-        143 => '523',
-        144 => '524',
-        145 => '525',
-        146 => '526',
-        147 => '527',
-        148 => '528',
-        149 => '529',
-        150 => '530',
-        151 => '531',
-        152 => '532',
-        153 => '533',
-        154 => '534',
-        155 => '535',
-        156 => '538',
-        157 => '539',
-        158 => '540',
-        159 => '541',
-        160 => '542',
-        161 => '543',
-        162 => '544',
-        163 => '545',
-        164 => '546',
-        165 => '547',
-        166 => '549',
-        167 => '550',
-        168 => '551',
-        169 => '552',
-        170 => '553',
-        171 => '554',
-        172 => '556',
-        173 => '557',
-        174 => '558',
-        175 => '559',
-        176 => '561',
-        177 => '562',
-        178 => '563',
-        179 => '564',
-        180 => '566',
-        181 => '567',
-        182 => '569',
-        183 => '570',
-        184 => '571',
-        185 => '572',
-        186 => '573',
-        187 => '574',
-        188 => '575',
-        189 => '577',
-        190 => '578',
-        191 => '580',
-        192 => '582',
-        193 => '585',
-        194 => '586',
-        195 => '588',
-        196 => '589',
-        197 => '601',
-        198 => '602',
-        199 => '603',
-        200 => '605',
-        201 => '606',
-        202 => '607',
-        203 => '608',
-        204 => '609',
-        205 => '610',
-        206 => '612',
-        207 => '614',
-        208 => '615',
-        209 => '616',
-        210 => '617',
-        211 => '618',
-        212 => '619',
-        213 => '620',
-        214 => '623',
-        215 => '626',
-        216 => '628',
-        217 => '629',
-        218 => '630',
-        219 => '631',
-        220 => '636',
-        221 => '640',
-        222 => '641',
-        223 => '646',
-        224 => '650',
-        225 => '651',
-        226 => '656',
-        227 => '657',
-        228 => '659',
-        229 => '660',
-        230 => '661',
-        231 => '662',
-        232 => '667',
-        233 => '669',
-        234 => '678',
-        235 => '679',
-        236 => '680',
-        237 => '681',
-        238 => '682',
-        239 => '689',
-        240 => '700',
-        241 => '701',
-        242 => '702',
-        243 => '703',
-        244 => '704',
-        245 => '706',
-        246 => '707',
-        247 => '708',
-        248 => '710',
-        249 => '712',
-        250 => '713',
-        251 => '714',
-        252 => '715',
-        253 => '716',
-        254 => '717',
-        255 => '718',
-        256 => '719',
-        257 => '720',
-        258 => '724',
-        259 => '725',
-        260 => '726',
-        261 => '727',
-        262 => '730',
-        263 => '731',
-        264 => '732',
-        265 => '734',
-        266 => '737',
-        267 => '740',
-        268 => '743',
-        269 => '747',
-        270 => '754',
-        271 => '757',
-        272 => '760',
-        273 => '762',
-        274 => '763',
-        275 => '765',
-        276 => '769',
-        277 => '770',
-        278 => '771',
-        279 => '772',
-        280 => '773',
-        281 => '774',
-        282 => '775',
-        283 => '779',
-        284 => '781',
-        285 => '785',
-        286 => '786',
-        287 => '801',
-        288 => '802',
-        289 => '803',
-        290 => '804',
-        291 => '805',
-        292 => '806',
-        293 => '808',
-        294 => '810',
-        295 => '812',
-        296 => '813',
-        297 => '814',
-        298 => '815',
-        299 => '816',
-        300 => '817',
-        301 => '818',
-        302 => '820',
-        303 => '826',
-        304 => '828',
-        305 => '830',
-        306 => '831',
-        307 => '832',
-        308 => '838',
-        309 => '839',
-        310 => '840',
-        311 => '843',
-        312 => '845',
-        313 => '847',
-        314 => '848',
-        315 => '850',
-        316 => '854',
-        317 => '856',
-        318 => '857',
-        319 => '858',
-        320 => '859',
-        321 => '860',
-        322 => '862',
-        323 => '863',
-        324 => '864',
-        325 => '865',
-        326 => '870',
-        327 => '872',
-        328 => '878',
-        329 => '901',
-        330 => '903',
-        331 => '904',
-        332 => '906',
-        333 => '907',
-        334 => '908',
-        335 => '909',
-        336 => '910',
-        337 => '912',
-        338 => '913',
-        339 => '914',
-        340 => '915',
-        341 => '916',
-        342 => '917',
-        343 => '918',
-        344 => '919',
-        345 => '920',
-        346 => '925',
-        347 => '928',
-        348 => '929',
-        349 => '930',
-        350 => '931',
-        351 => '934',
-        352 => '936',
-        353 => '937',
-        354 => '938',
-        355 => '940',
-        356 => '941',
-        357 => '943',
-        358 => '945',
-        359 => '947',
-        360 => '948',
-        361 => '949',
-        362 => '951',
-        363 => '952',
-        364 => '954',
-        365 => '956',
-        366 => '959',
-        367 => '970',
-        368 => '971',
-        369 => '972',
-        370 => '973',
-        371 => '975',
-        372 => '978',
-        373 => '979',
-        374 => '980',
-        375 => '983',
-        376 => '984',
-        377 => '985',
-        378 => '986',
-        379 => '989',
+        18 => '224',
+        19 => '225',
+        20 => '227',
+        21 => '228',
+        22 => '229',
+        23 => '231',
+        24 => '234',
+        25 => '239',
+        26 => '240',
+        27 => '248',
+        28 => '251',
+        29 => '252',
+        30 => '253',
+        31 => '254',
+        32 => '256',
+        33 => '260',
+        34 => '262',
+        35 => '267',
+        36 => '269',
+        37 => '270',
+        38 => '272',
+        39 => '274',
+        40 => '276',
+        41 => '281',
+        42 => '283',
+        43 => '301',
+        44 => '302',
+        45 => '303',
+        46 => '304',
+        47 => '305',
+        48 => '307',
+        49 => '308',
+        50 => '309',
+        51 => '310',
+        52 => '312',
+        53 => '313',
+        54 => '314',
+        55 => '315',
+        56 => '316',
+        57 => '317',
+        58 => '318',
+        59 => '319',
+        60 => '320',
+        61 => '321',
+        62 => '323',
+        63 => '325',
+        64 => '327',
+        65 => '330',
+        66 => '331',
+        67 => '334',
+        68 => '336',
+        69 => '337',
+        70 => '339',
+        71 => '346',
+        72 => '347',
+        73 => '351',
+        74 => '352',
+        75 => '360',
+        76 => '361',
+        77 => '364',
+        78 => '380',
+        79 => '385',
+        80 => '386',
+        81 => '401',
+        82 => '402',
+        83 => '404',
+        84 => '405',
+        85 => '406',
+        86 => '407',
+        87 => '408',
+        88 => '409',
+        89 => '410',
+        90 => '412',
+        91 => '413',
+        92 => '414',
+        93 => '415',
+        94 => '417',
+        95 => '419',
+        96 => '423',
+        97 => '424',
+        98 => '425',
+        99 => '430',
+        100 => '432',
+        101 => '434',
+        102 => '435',
+        103 => '440',
+        104 => '442',
+        105 => '443',
+        106 => '447',
+        107 => '458',
+        108 => '463',
+        109 => '464',
+        110 => '469',
+        111 => '470',
+        112 => '475',
+        113 => '478',
+        114 => '479',
+        115 => '480',
+        116 => '484',
+        117 => '501',
+        118 => '502',
+        119 => '503',
+        120 => '504',
+        121 => '505',
+        122 => '507',
+        123 => '508',
+        124 => '509',
+        125 => '510',
+        126 => '512',
+        127 => '513',
+        128 => '515',
+        129 => '516',
+        130 => '517',
+        131 => '518',
+        132 => '520',
+        133 => '530',
+        134 => '531',
+        135 => '534',
+        136 => '539',
+        137 => '540',
+        138 => '541',
+        139 => '551',
+        140 => '559',
+        141 => '561',
+        142 => '562',
+        143 => '563',
+        144 => '564',
+        145 => '567',
+        146 => '570',
+        147 => '571',
+        148 => '573',
+        149 => '574',
+        150 => '575',
+        151 => '580',
+        152 => '585',
+        153 => '586',
+        154 => '601',
+        155 => '602',
+        156 => '603',
+        157 => '605',
+        158 => '606',
+        159 => '607',
+        160 => '608',
+        161 => '609',
+        162 => '610',
+        163 => '612',
+        164 => '614',
+        165 => '615',
+        166 => '616',
+        167 => '617',
+        168 => '618',
+        169 => '619',
+        170 => '620',
+        171 => '623',
+        172 => '626',
+        173 => '628',
+        174 => '629',
+        175 => '630',
+        176 => '631',
+        177 => '636',
+        178 => '641',
+        179 => '646',
+        180 => '650',
+        181 => '651',
+        182 => '657',
+        183 => '660',
+        184 => '661',
+        185 => '662',
+        186 => '667',
+        187 => '669',
+        188 => '678',
+        189 => '681',
+        190 => '682',
+        191 => '701',
+        192 => '702',
+        193 => '703',
+        194 => '704',
+        195 => '706',
+        196 => '707',
+        197 => '708',
+        198 => '712',
+        199 => '713',
+        200 => '714',
+        201 => '715',
+        202 => '716',
+        203 => '717',
+        204 => '718',
+        205 => '719',
+        206 => '720',
+        207 => '724',
+        208 => '725',
+        209 => '727',
+        210 => '730',
+        211 => '731',
+        212 => '732',
+        213 => '734',
+        214 => '737',
+        215 => '740',
+        216 => '743',
+        217 => '747',
+        218 => '754',
+        219 => '757',
+        220 => '760',
+        221 => '762',
+        222 => '763',
+        223 => '765',
+        224 => '769',
+        225 => '770',
+        226 => '772',
+        227 => '773',
+        228 => '774',
+        229 => '775',
+        230 => '779',
+        231 => '781',
+        232 => '785',
+        233 => '786',
+        234 => '801',
+        235 => '802',
+        236 => '803',
+        237 => '804',
+        238 => '805',
+        239 => '806',
+        240 => '808',
+        241 => '810',
+        242 => '812',
+        243 => '813',
+        244 => '814',
+        245 => '815',
+        246 => '816',
+        247 => '817',
+        248 => '818',
+        249 => '828',
+        250 => '830',
+        251 => '831',
+        252 => '832',
+        253 => '843',
+        254 => '845',
+        255 => '847',
+        256 => '848',
+        257 => '850',
+        258 => '854',
+        259 => '856',
+        260 => '857',
+        261 => '858',
+        262 => '859',
+        263 => '860',
+        264 => '862',
+        265 => '863',
+        266 => '864',
+        267 => '865',
+        268 => '870',
+        269 => '872',
+        270 => '878',
+        271 => '901',
+        272 => '903',
+        273 => '904',
+        274 => '906',
+        275 => '907',
+        276 => '908',
+        277 => '909',
+        278 => '910',
+        279 => '912',
+        280 => '913',
+        281 => '914',
+        282 => '915',
+        283 => '916',
+        284 => '917',
+        285 => '918',
+        286 => '919',
+        287 => '920',
+        288 => '925',
+        289 => '928',
+        290 => '929',
+        291 => '930',
+        292 => '931',
+        293 => '934',
+        294 => '936',
+        295 => '937',
+        296 => '938',
+        297 => '940',
+        298 => '941',
+        299 => '947',
+        300 => '949',
+        301 => '951',
+        302 => '952',
+        303 => '954',
+        304 => '956',
+        305 => '959',
+        306 => '970',
+        307 => '971',
+        308 => '972',
+        309 => '973',
+        310 => '975',
+        311 => '978',
+        312 => '979',
+        313 => '980',
+        314 => '984',
+        315 => '985',
+        316 => '989',
       ],
     ],
     'capital' => [
-      0 => 'Washington D.C.',
+      0 => 'Washington, D.C.',
     ],
     'altSpellings' => [
       0 => 'US',
@@ -37498,9 +42904,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الولايات المتحدة الامريكية',
+        'common' => 'الولايات المتحدة',
+      ],
+      'bre' => [
+        'official' => 'Stadoù-Unanet Amerika',
+        'common' => 'Stadoù-Unanet',
+      ],
       'ces' => [
         'official' => 'Spojené státy americké',
         'common' => 'Spojené státy',
+      ],
+      'cym' => [
+        'official' => 'United States of America',
+        'common' => 'United States',
       ],
       'deu' => [
         'official' => 'Vereinigte Staaten von Amerika',
@@ -37525,6 +42943,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Amerikai Egyesült Államok',
         'common' => 'Amerikai Egyesült Államok',
+      ],
+      'ind' => [
+        'official' => 'Amerika Serikat',
+        'common' => 'Amerika Serikat',
       ],
       'ita' => [
         'official' => 'Stati Uniti d\'America',
@@ -37566,9 +42988,17 @@ class CountriesDataSource
         'official' => 'Estados Unidos de América',
         'common' => 'Estados Unidos',
       ],
+      'srp' => [
+        'official' => 'Сједињене Америчке Државе',
+        'common' => 'Сједињене Америчке Државе',
+      ],
       'swe' => [
         'official' => 'Amerikas förenta stater',
         'common' => 'USA',
+      ],
+      'tur' => [
+        'official' => 'Amerika Birleşik Devletleri',
+        'common' => 'Amerika Birleşik Devletleri',
       ],
       'urd' => [
         'official' => 'ریاستہائے متحدہ امریکا',
@@ -37588,7 +43018,7 @@ class CountriesDataSource
       0 => 'CAN',
       1 => 'MEX',
     ],
-    'area' => 9372610,
+    'area' => 9525067,
     'flag' => '🇺🇸',
     'demonyms' => [
       'eng' => [
@@ -37619,368 +43049,305 @@ class CountriesDataSource
       15 => '+1218',
       16 => '+1219',
       17 => '+1220',
-      18 => '+1223',
-      19 => '+1224',
-      20 => '+1225',
-      21 => '+1227',
-      22 => '+1228',
-      23 => '+1229',
-      24 => '+1231',
-      25 => '+1234',
-      26 => '+1239',
-      27 => '+1240',
-      28 => '+1248',
-      29 => '+1251',
-      30 => '+1252',
-      31 => '+1253',
-      32 => '+1254',
-      33 => '+1256',
-      34 => '+1260',
-      35 => '+1262',
-      36 => '+1267',
-      37 => '+1269',
-      38 => '+1270',
-      39 => '+1272',
-      40 => '+1274',
-      41 => '+1276',
-      42 => '+1279',
-      43 => '+1281',
-      44 => '+1283',
-      45 => '+1301',
-      46 => '+1302',
-      47 => '+1303',
-      48 => '+1304',
-      49 => '+1305',
-      50 => '+1307',
-      51 => '+1308',
-      52 => '+1309',
-      53 => '+1310',
-      54 => '+1312',
-      55 => '+1313',
-      56 => '+1314',
-      57 => '+1315',
-      58 => '+1316',
-      59 => '+1317',
-      60 => '+1318',
-      61 => '+1319',
-      62 => '+1320',
-      63 => '+1321',
-      64 => '+1323',
-      65 => '+1325',
-      66 => '+1326',
-      67 => '+1327',
-      68 => '+1330',
-      69 => '+1331',
-      70 => '+1332',
-      71 => '+1334',
-      72 => '+1336',
-      73 => '+1337',
-      74 => '+1339',
-      75 => '+1341',
-      76 => '+1346',
-      77 => '+1347',
-      78 => '+1351',
-      79 => '+1352',
-      80 => '+1360',
-      81 => '+1361',
-      82 => '+1364',
-      83 => '+1380',
-      84 => '+1385',
-      85 => '+1386',
-      86 => '+1401',
-      87 => '+1402',
-      88 => '+1404',
-      89 => '+1405',
-      90 => '+1406',
-      91 => '+1407',
-      92 => '+1408',
-      93 => '+1409',
-      94 => '+1410',
-      95 => '+1412',
-      96 => '+1413',
-      97 => '+1414',
-      98 => '+1415',
-      99 => '+1417',
-      100 => '+1419',
-      101 => '+1423',
-      102 => '+1424',
-      103 => '+1425',
-      104 => '+1430',
-      105 => '+1432',
-      106 => '+1434',
-      107 => '+1435',
-      108 => '+1440',
-      109 => '+1442',
-      110 => '+1443',
-      111 => '+1445',
-      112 => '+1447',
-      113 => '+1448',
-      114 => '+1458',
-      115 => '+1463',
-      116 => '+1464',
-      117 => '+1469',
-      118 => '+1470',
-      119 => '+1475',
-      120 => '+1478',
-      121 => '+1479',
-      122 => '+1480',
-      123 => '+1484',
-      124 => '+1500',
-      125 => '+1501',
-      126 => '+1502',
-      127 => '+1503',
-      128 => '+1504',
-      129 => '+1505',
-      130 => '+1507',
-      131 => '+1508',
-      132 => '+1509',
-      133 => '+1510',
-      134 => '+1512',
-      135 => '+1513',
-      136 => '+1515',
-      137 => '+1516',
-      138 => '+1517',
-      139 => '+1518',
-      140 => '+1520',
-      141 => '+1521',
-      142 => '+1522',
-      143 => '+1523',
-      144 => '+1524',
-      145 => '+1525',
-      146 => '+1526',
-      147 => '+1527',
-      148 => '+1528',
-      149 => '+1529',
-      150 => '+1530',
-      151 => '+1531',
-      152 => '+1532',
-      153 => '+1533',
-      154 => '+1534',
-      155 => '+1535',
-      156 => '+1538',
-      157 => '+1539',
-      158 => '+1540',
-      159 => '+1541',
-      160 => '+1542',
-      161 => '+1543',
-      162 => '+1544',
-      163 => '+1545',
-      164 => '+1546',
-      165 => '+1547',
-      166 => '+1549',
-      167 => '+1550',
-      168 => '+1551',
-      169 => '+1552',
-      170 => '+1553',
-      171 => '+1554',
-      172 => '+1556',
-      173 => '+1557',
-      174 => '+1558',
-      175 => '+1559',
-      176 => '+1561',
-      177 => '+1562',
-      178 => '+1563',
-      179 => '+1564',
-      180 => '+1566',
-      181 => '+1567',
-      182 => '+1569',
-      183 => '+1570',
-      184 => '+1571',
-      185 => '+1572',
-      186 => '+1573',
-      187 => '+1574',
-      188 => '+1575',
-      189 => '+1577',
-      190 => '+1578',
-      191 => '+1580',
-      192 => '+1582',
-      193 => '+1585',
-      194 => '+1586',
-      195 => '+1588',
-      196 => '+1589',
-      197 => '+1601',
-      198 => '+1602',
-      199 => '+1603',
-      200 => '+1605',
-      201 => '+1606',
-      202 => '+1607',
-      203 => '+1608',
-      204 => '+1609',
-      205 => '+1610',
-      206 => '+1612',
-      207 => '+1614',
-      208 => '+1615',
-      209 => '+1616',
-      210 => '+1617',
-      211 => '+1618',
-      212 => '+1619',
-      213 => '+1620',
-      214 => '+1623',
-      215 => '+1626',
-      216 => '+1628',
-      217 => '+1629',
-      218 => '+1630',
-      219 => '+1631',
-      220 => '+1636',
-      221 => '+1640',
-      222 => '+1641',
-      223 => '+1646',
-      224 => '+1650',
-      225 => '+1651',
-      226 => '+1656',
-      227 => '+1657',
-      228 => '+1659',
-      229 => '+1660',
-      230 => '+1661',
-      231 => '+1662',
-      232 => '+1667',
-      233 => '+1669',
-      234 => '+1678',
-      235 => '+1679',
-      236 => '+1680',
-      237 => '+1681',
-      238 => '+1682',
-      239 => '+1689',
-      240 => '+1700',
-      241 => '+1701',
-      242 => '+1702',
-      243 => '+1703',
-      244 => '+1704',
-      245 => '+1706',
-      246 => '+1707',
-      247 => '+1708',
-      248 => '+1710',
-      249 => '+1712',
-      250 => '+1713',
-      251 => '+1714',
-      252 => '+1715',
-      253 => '+1716',
-      254 => '+1717',
-      255 => '+1718',
-      256 => '+1719',
-      257 => '+1720',
-      258 => '+1724',
-      259 => '+1725',
-      260 => '+1726',
-      261 => '+1727',
-      262 => '+1730',
-      263 => '+1731',
-      264 => '+1732',
-      265 => '+1734',
-      266 => '+1737',
-      267 => '+1740',
-      268 => '+1743',
-      269 => '+1747',
-      270 => '+1754',
-      271 => '+1757',
-      272 => '+1760',
-      273 => '+1762',
-      274 => '+1763',
-      275 => '+1765',
-      276 => '+1769',
-      277 => '+1770',
-      278 => '+1771',
-      279 => '+1772',
-      280 => '+1773',
-      281 => '+1774',
-      282 => '+1775',
-      283 => '+1779',
-      284 => '+1781',
-      285 => '+1785',
-      286 => '+1786',
-      287 => '+1801',
-      288 => '+1802',
-      289 => '+1803',
-      290 => '+1804',
-      291 => '+1805',
-      292 => '+1806',
-      293 => '+1808',
-      294 => '+1810',
-      295 => '+1812',
-      296 => '+1813',
-      297 => '+1814',
-      298 => '+1815',
-      299 => '+1816',
-      300 => '+1817',
-      301 => '+1818',
-      302 => '+1820',
-      303 => '+1826',
-      304 => '+1828',
-      305 => '+1830',
-      306 => '+1831',
-      307 => '+1832',
-      308 => '+1838',
-      309 => '+1839',
-      310 => '+1840',
-      311 => '+1843',
-      312 => '+1845',
-      313 => '+1847',
-      314 => '+1848',
-      315 => '+1850',
-      316 => '+1854',
-      317 => '+1856',
-      318 => '+1857',
-      319 => '+1858',
-      320 => '+1859',
-      321 => '+1860',
-      322 => '+1862',
-      323 => '+1863',
-      324 => '+1864',
-      325 => '+1865',
-      326 => '+1870',
-      327 => '+1872',
-      328 => '+1878',
-      329 => '+1901',
-      330 => '+1903',
-      331 => '+1904',
-      332 => '+1906',
-      333 => '+1907',
-      334 => '+1908',
-      335 => '+1909',
-      336 => '+1910',
-      337 => '+1912',
-      338 => '+1913',
-      339 => '+1914',
-      340 => '+1915',
-      341 => '+1916',
-      342 => '+1917',
-      343 => '+1918',
-      344 => '+1919',
-      345 => '+1920',
-      346 => '+1925',
-      347 => '+1928',
-      348 => '+1929',
-      349 => '+1930',
-      350 => '+1931',
-      351 => '+1934',
-      352 => '+1936',
-      353 => '+1937',
-      354 => '+1938',
-      355 => '+1940',
-      356 => '+1941',
-      357 => '+1943',
-      358 => '+1945',
-      359 => '+1947',
-      360 => '+1948',
-      361 => '+1949',
-      362 => '+1951',
-      363 => '+1952',
-      364 => '+1954',
-      365 => '+1956',
-      366 => '+1959',
-      367 => '+1970',
-      368 => '+1971',
-      369 => '+1972',
-      370 => '+1973',
-      371 => '+1975',
-      372 => '+1978',
-      373 => '+1979',
-      374 => '+1980',
-      375 => '+1983',
-      376 => '+1984',
-      377 => '+1985',
-      378 => '+1986',
-      379 => '+1989',
+      18 => '+1224',
+      19 => '+1225',
+      20 => '+1227',
+      21 => '+1228',
+      22 => '+1229',
+      23 => '+1231',
+      24 => '+1234',
+      25 => '+1239',
+      26 => '+1240',
+      27 => '+1248',
+      28 => '+1251',
+      29 => '+1252',
+      30 => '+1253',
+      31 => '+1254',
+      32 => '+1256',
+      33 => '+1260',
+      34 => '+1262',
+      35 => '+1267',
+      36 => '+1269',
+      37 => '+1270',
+      38 => '+1272',
+      39 => '+1274',
+      40 => '+1276',
+      41 => '+1281',
+      42 => '+1283',
+      43 => '+1301',
+      44 => '+1302',
+      45 => '+1303',
+      46 => '+1304',
+      47 => '+1305',
+      48 => '+1307',
+      49 => '+1308',
+      50 => '+1309',
+      51 => '+1310',
+      52 => '+1312',
+      53 => '+1313',
+      54 => '+1314',
+      55 => '+1315',
+      56 => '+1316',
+      57 => '+1317',
+      58 => '+1318',
+      59 => '+1319',
+      60 => '+1320',
+      61 => '+1321',
+      62 => '+1323',
+      63 => '+1325',
+      64 => '+1327',
+      65 => '+1330',
+      66 => '+1331',
+      67 => '+1334',
+      68 => '+1336',
+      69 => '+1337',
+      70 => '+1339',
+      71 => '+1346',
+      72 => '+1347',
+      73 => '+1351',
+      74 => '+1352',
+      75 => '+1360',
+      76 => '+1361',
+      77 => '+1364',
+      78 => '+1380',
+      79 => '+1385',
+      80 => '+1386',
+      81 => '+1401',
+      82 => '+1402',
+      83 => '+1404',
+      84 => '+1405',
+      85 => '+1406',
+      86 => '+1407',
+      87 => '+1408',
+      88 => '+1409',
+      89 => '+1410',
+      90 => '+1412',
+      91 => '+1413',
+      92 => '+1414',
+      93 => '+1415',
+      94 => '+1417',
+      95 => '+1419',
+      96 => '+1423',
+      97 => '+1424',
+      98 => '+1425',
+      99 => '+1430',
+      100 => '+1432',
+      101 => '+1434',
+      102 => '+1435',
+      103 => '+1440',
+      104 => '+1442',
+      105 => '+1443',
+      106 => '+1447',
+      107 => '+1458',
+      108 => '+1463',
+      109 => '+1464',
+      110 => '+1469',
+      111 => '+1470',
+      112 => '+1475',
+      113 => '+1478',
+      114 => '+1479',
+      115 => '+1480',
+      116 => '+1484',
+      117 => '+1501',
+      118 => '+1502',
+      119 => '+1503',
+      120 => '+1504',
+      121 => '+1505',
+      122 => '+1507',
+      123 => '+1508',
+      124 => '+1509',
+      125 => '+1510',
+      126 => '+1512',
+      127 => '+1513',
+      128 => '+1515',
+      129 => '+1516',
+      130 => '+1517',
+      131 => '+1518',
+      132 => '+1520',
+      133 => '+1530',
+      134 => '+1531',
+      135 => '+1534',
+      136 => '+1539',
+      137 => '+1540',
+      138 => '+1541',
+      139 => '+1551',
+      140 => '+1559',
+      141 => '+1561',
+      142 => '+1562',
+      143 => '+1563',
+      144 => '+1564',
+      145 => '+1567',
+      146 => '+1570',
+      147 => '+1571',
+      148 => '+1573',
+      149 => '+1574',
+      150 => '+1575',
+      151 => '+1580',
+      152 => '+1585',
+      153 => '+1586',
+      154 => '+1601',
+      155 => '+1602',
+      156 => '+1603',
+      157 => '+1605',
+      158 => '+1606',
+      159 => '+1607',
+      160 => '+1608',
+      161 => '+1609',
+      162 => '+1610',
+      163 => '+1612',
+      164 => '+1614',
+      165 => '+1615',
+      166 => '+1616',
+      167 => '+1617',
+      168 => '+1618',
+      169 => '+1619',
+      170 => '+1620',
+      171 => '+1623',
+      172 => '+1626',
+      173 => '+1628',
+      174 => '+1629',
+      175 => '+1630',
+      176 => '+1631',
+      177 => '+1636',
+      178 => '+1641',
+      179 => '+1646',
+      180 => '+1650',
+      181 => '+1651',
+      182 => '+1657',
+      183 => '+1660',
+      184 => '+1661',
+      185 => '+1662',
+      186 => '+1667',
+      187 => '+1669',
+      188 => '+1678',
+      189 => '+1681',
+      190 => '+1682',
+      191 => '+1701',
+      192 => '+1702',
+      193 => '+1703',
+      194 => '+1704',
+      195 => '+1706',
+      196 => '+1707',
+      197 => '+1708',
+      198 => '+1712',
+      199 => '+1713',
+      200 => '+1714',
+      201 => '+1715',
+      202 => '+1716',
+      203 => '+1717',
+      204 => '+1718',
+      205 => '+1719',
+      206 => '+1720',
+      207 => '+1724',
+      208 => '+1725',
+      209 => '+1727',
+      210 => '+1730',
+      211 => '+1731',
+      212 => '+1732',
+      213 => '+1734',
+      214 => '+1737',
+      215 => '+1740',
+      216 => '+1743',
+      217 => '+1747',
+      218 => '+1754',
+      219 => '+1757',
+      220 => '+1760',
+      221 => '+1762',
+      222 => '+1763',
+      223 => '+1765',
+      224 => '+1769',
+      225 => '+1770',
+      226 => '+1772',
+      227 => '+1773',
+      228 => '+1774',
+      229 => '+1775',
+      230 => '+1779',
+      231 => '+1781',
+      232 => '+1785',
+      233 => '+1786',
+      234 => '+1801',
+      235 => '+1802',
+      236 => '+1803',
+      237 => '+1804',
+      238 => '+1805',
+      239 => '+1806',
+      240 => '+1808',
+      241 => '+1810',
+      242 => '+1812',
+      243 => '+1813',
+      244 => '+1814',
+      245 => '+1815',
+      246 => '+1816',
+      247 => '+1817',
+      248 => '+1818',
+      249 => '+1828',
+      250 => '+1830',
+      251 => '+1831',
+      252 => '+1832',
+      253 => '+1843',
+      254 => '+1845',
+      255 => '+1847',
+      256 => '+1848',
+      257 => '+1850',
+      258 => '+1854',
+      259 => '+1856',
+      260 => '+1857',
+      261 => '+1858',
+      262 => '+1859',
+      263 => '+1860',
+      264 => '+1862',
+      265 => '+1863',
+      266 => '+1864',
+      267 => '+1865',
+      268 => '+1870',
+      269 => '+1872',
+      270 => '+1878',
+      271 => '+1901',
+      272 => '+1903',
+      273 => '+1904',
+      274 => '+1906',
+      275 => '+1907',
+      276 => '+1908',
+      277 => '+1909',
+      278 => '+1910',
+      279 => '+1912',
+      280 => '+1913',
+      281 => '+1914',
+      282 => '+1915',
+      283 => '+1916',
+      284 => '+1917',
+      285 => '+1918',
+      286 => '+1919',
+      287 => '+1920',
+      288 => '+1925',
+      289 => '+1928',
+      290 => '+1929',
+      291 => '+1930',
+      292 => '+1931',
+      293 => '+1934',
+      294 => '+1936',
+      295 => '+1937',
+      296 => '+1938',
+      297 => '+1940',
+      298 => '+1941',
+      299 => '+1947',
+      300 => '+1949',
+      301 => '+1951',
+      302 => '+1952',
+      303 => '+1954',
+      304 => '+1956',
+      305 => '+1959',
+      306 => '+1970',
+      307 => '+1971',
+      308 => '+1972',
+      309 => '+1973',
+      310 => '+1975',
+      311 => '+1978',
+      312 => '+1979',
+      313 => '+1980',
+      314 => '+1984',
+      315 => '+1985',
+      316 => '+1989',
     ],
   ],
   236 => [
@@ -38036,9 +43403,21 @@ class CountriesDataSource
       'uzb' => 'Uzbek',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية أوزباكستان',
+        'common' => 'أوزباكستان',
+      ],
+      'bre' => [
+        'official' => 'Republik Ouzbekistan',
+        'common' => 'Ouzbekistan',
+      ],
       'ces' => [
         'official' => 'Republika Uzbekistán',
         'common' => 'Uzbekistán',
+      ],
+      'cym' => [
+        'official' => 'Republic of Uzbekistan',
+        'common' => 'Uzbekistan',
       ],
       'deu' => [
         'official' => 'Republik Usbekistan',
@@ -38063,6 +43442,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Üzbég Köztársaság',
         'common' => 'Üzbegisztán',
+      ],
+      'ind' => [
+        'official' => 'Republik Uzbekistan',
+        'common' => 'Uzbekistan',
       ],
       'ita' => [
         'official' => 'Repubblica di Uzbekistan',
@@ -38104,9 +43487,17 @@ class CountriesDataSource
         'official' => 'República de Uzbekistán',
         'common' => 'Uzbekistán',
       ],
+      'srp' => [
+        'official' => 'Република Узбекистан',
+        'common' => 'Узбекистан',
+      ],
       'swe' => [
         'official' => 'Republiken Uzbekistan',
         'common' => 'Uzbekistan',
+      ],
+      'tur' => [
+        'official' => 'Özbekistan Cumhuriyeti',
+        'common' => 'Özbekistan',
       ],
       'urd' => [
         'official' => 'جمہوریہ ازبکستان',
@@ -38169,10 +43560,10 @@ class CountriesDataSource
     'cioc' => '',
     'independent' => true,
     'status' => 'officially-assigned',
-    'unMember' => true,
+    'unMember' => false,
     'currencies' => [
       'EUR' => [
-        'name' => 'Euro',
+        'name' => 'euro',
         'symbol' => '€',
       ],
     ],
@@ -38199,9 +43590,21 @@ class CountriesDataSource
       'lat' => 'Latin',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة مدينة الفاتيكان',
+        'common' => 'مدينة الفاتيكان',
+      ],
+      'bre' => [
+        'official' => 'Riez Keoded ar Vatikan',
+        'common' => 'Vatikan',
+      ],
       'ces' => [
         'official' => 'Městský stát Vatikán',
         'common' => 'Vatikán',
+      ],
+      'cym' => [
+        'official' => 'Vatican City State',
+        'common' => 'Vatican City',
       ],
       'deu' => [
         'official' => 'Staat Vatikanstadt',
@@ -38226,6 +43629,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Vatikán Állam',
         'common' => 'Vatikán',
+      ],
+      'ind' => [
+        'official' => 'Kota Suci Vatikan',
+        'common' => 'Vatikan',
       ],
       'ita' => [
         'official' => 'Città del Vaticano',
@@ -38267,9 +43674,17 @@ class CountriesDataSource
         'official' => 'Ciudad del Vaticano',
         'common' => 'Ciudad del Vaticano',
       ],
+      'srp' => [
+        'official' => 'Град Ватикан',
+        'common' => 'Ватикан',
+      ],
       'swe' => [
         'official' => 'Vatikanstaten',
         'common' => 'Vatikanstaten',
+      ],
+      'tur' => [
+        'official' => 'Vatikan Şehir Devleti',
+        'common' => 'Vatikan',
       ],
       'urd' => [
         'official' => 'ویٹیکن سٹی',
@@ -38288,7 +43703,7 @@ class CountriesDataSource
     'borders' => [
       0 => 'ITA',
     ],
-    'area' => 0.44,
+    'area' => 0.49,
     'flag' => '🇻🇦',
     'demonyms' => [
       'eng' => [
@@ -38350,9 +43765,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'سانت فينسنت والغرينادين',
+        'common' => 'سانت فينسنت والغرينادين',
+      ],
+      'bre' => [
+        'official' => 'Sant-Visant hag ar Grenadinez',
+        'common' => 'Sant-Visant hag ar Grenadinez',
+      ],
       'ces' => [
         'official' => 'Svatý Vincenc a Grenadiny',
         'common' => 'Svatý Vincenc a Grenadiny',
+      ],
+      'cym' => [
+        'official' => 'Saint Vincent and the Grenadines',
+        'common' => 'Saint Vincent and the Grenadines',
       ],
       'deu' => [
         'official' => 'St. Vincent und die Grenadinen',
@@ -38377,6 +43804,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Saint Vincent és a Grenadine-szigetek',
         'common' => 'Saint Vincent és a Grenadine-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Santo Vinsen dan Grenadin',
+        'common' => 'Santo Vinsen dan Grenadin',
       ],
       'ita' => [
         'official' => 'Saint Vincent e Grenadine',
@@ -38418,9 +43849,17 @@ class CountriesDataSource
         'official' => 'San Vicente y las Granadinas',
         'common' => 'San Vicente y Granadinas',
       ],
+      'srp' => [
+        'official' => 'Свети Винсент и Гренадини',
+        'common' => 'Свети Винсент и Гренадини',
+      ],
       'swe' => [
         'official' => 'Saint Vincent och Grenadinerna',
         'common' => 'Saint Vincent och Grenadinerna',
+      ],
+      'tur' => [
+        'official' => 'Saint Vincent ve Grenadinler',
+        'common' => 'Saint Vincent ve Grenadinler',
       ],
       'urd' => [
         'official' => 'سینٹ وینسینٹ و گریناڈائنز',
@@ -38502,8 +43941,20 @@ class CountriesDataSource
       'spa' => 'Spanish',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية فنزويلا البوليفارية',
+        'common' => 'فنزويلا',
+      ],
+      'bre' => [
+        'official' => 'Republik Volivarian Venezuela',
+        'common' => 'Venezuela',
+      ],
       'ces' => [
         'official' => 'Bolívarská republika Venezuela',
+        'common' => 'Venezuela',
+      ],
+      'cym' => [
+        'official' => 'Bolivarian Republic of Venezuela',
         'common' => 'Venezuela',
       ],
       'deu' => [
@@ -38528,6 +43979,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Venezuelai Bolivári Köztársaság',
+        'common' => 'Venezuela',
+      ],
+      'ind' => [
+        'official' => 'Republik Bolivar Venezuela',
         'common' => 'Venezuela',
       ],
       'ita' => [
@@ -38570,8 +44025,16 @@ class CountriesDataSource
         'official' => 'República Bolivariana de Venezuela',
         'common' => 'Venezuela',
       ],
+      'srp' => [
+        'official' => 'Боливарска Република Венецуела',
+        'common' => 'Венецуела',
+      ],
       'swe' => [
         'official' => 'Bolivarianska republiken Venezuela',
+        'common' => 'Venezuela',
+      ],
+      'tur' => [
+        'official' => 'Bolivarcı Venezuela Cumhuriyeti',
         'common' => 'Venezuela',
       ],
       'urd' => [
@@ -38655,9 +44118,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر العذراء البريطانية',
+        'common' => 'جزر العذراء',
+      ],
+      'bre' => [
+        'official' => 'Inizi Gwerc\'h Breizhveurat',
+        'common' => 'Inizi Gwerc\'h Breizhveurat',
+      ],
       'ces' => [
         'official' => 'Britské Panenské ostrovy',
         'common' => 'Britské Panenské ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Virgin Islands',
+        'common' => 'British Virgin Islands',
       ],
       'deu' => [
         'official' => 'Jungferninseln',
@@ -38682,6 +44157,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Brit Virgin-szigetek',
         'common' => 'Brit Virgin-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Virgin Britania Raya',
+        'common' => 'Kepulauan Virgin Britania Raya',
       ],
       'ita' => [
         'official' => 'Isole Vergini',
@@ -38723,9 +44202,17 @@ class CountriesDataSource
         'official' => 'Islas Vírgenes',
         'common' => 'Islas Vírgenes del Reino Unido',
       ],
+      'srp' => [
+        'official' => 'Британска Девичанска Острва',
+        'common' => 'Британска Девичанска Острва',
+      ],
       'swe' => [
         'official' => 'Brittiska Jungfruöarna',
         'common' => 'Brittiska Jungfruöarna',
+      ],
+      'tur' => [
+        'official' => 'Virjin Adaları',
+        'common' => 'Virjin Adaları',
       ],
       'urd' => [
         'official' => 'برطانوی جزائر ورجن',
@@ -38805,9 +44292,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جزر العذراء الامريكية',
+        'common' => 'جزر العذراء الامريكية',
+      ],
+      'bre' => [
+        'official' => 'Inizi Gwerc\'h ar Stadoù-Unanet',
+        'common' => 'Inizi Gwerc\'h ar Stadoù-Unanet',
+      ],
       'ces' => [
         'official' => 'Americké Panenské ostrovy',
         'common' => 'Americké Panenské ostrovy',
+      ],
+      'cym' => [
+        'official' => 'Virgin Islands of the United States',
+        'common' => 'United States Virgin Islands',
       ],
       'deu' => [
         'official' => 'Amerikanische Jungferninseln',
@@ -38832,6 +44331,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Amerikai Virgin-szigetek',
         'common' => 'Amerikai Virgin-szigetek',
+      ],
+      'ind' => [
+        'official' => 'Kepulauan Virgin Amerika Serikat',
+        'common' => 'Kepulauan Virgin Amerika Serikat',
       ],
       'ita' => [
         'official' => 'Isole Vergini degli Stati Uniti',
@@ -38873,9 +44376,17 @@ class CountriesDataSource
         'official' => 'Islas Vírgenes de los Estados Unidos',
         'common' => 'Islas Vírgenes de los Estados Unidos',
       ],
+      'srp' => [
+        'official' => 'Америчка Девичанска Острва',
+        'common' => 'Америчка Девичанска Острва',
+      ],
       'swe' => [
         'official' => 'Amerikanska Jungfruöarna',
         'common' => 'Amerikanska Jungfruöarna',
+      ],
+      'tur' => [
+        'official' => 'Amerika Birleşik Devletleri Virjin Adaları',
+        'common' => 'ABD Virjin Adaları',
       ],
       'urd' => [
         'official' => 'امریکی جزائر ورجن',
@@ -38957,8 +44468,20 @@ class CountriesDataSource
       'vie' => 'Vietnamese',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية فيتنام الاشتراكية',
+        'common' => 'فيتنام',
+      ],
+      'bre' => [
+        'official' => 'Republik Sokialour Viêt Nam',
+        'common' => 'Viêt Nam',
+      ],
       'ces' => [
         'official' => 'Vietnamská socialistická republika',
+        'common' => 'Vietnam',
+      ],
+      'cym' => [
+        'official' => 'Socialist Republic of Vietnam',
         'common' => 'Vietnam',
       ],
       'deu' => [
@@ -38984,6 +44507,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Vietnámi Szocialista Köztársaság',
         'common' => 'Vietnám',
+      ],
+      'ind' => [
+        'official' => 'Republik Sosialis Vietnam',
+        'common' => 'Vietnam',
       ],
       'ita' => [
         'official' => 'Repubblica socialista del Vietnam',
@@ -39025,8 +44552,16 @@ class CountriesDataSource
         'official' => 'República Socialista de Vietnam',
         'common' => 'Vietnam',
       ],
+      'srp' => [
+        'official' => 'Социјалистичка Република Вијетнам',
+        'common' => 'Вијетнам',
+      ],
       'swe' => [
         'official' => 'Socialistiska republiken Vietnam',
+        'common' => 'Vietnam',
+      ],
+      'tur' => [
+        'official' => 'Vietnam Sosyalist Cumhuriyeti',
         'common' => 'Vietnam',
       ],
       'urd' => [
@@ -39122,8 +44657,20 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية فانواتو',
+        'common' => 'فانواتو',
+      ],
+      'bre' => [
+        'official' => 'Republik Vanuatu',
+        'common' => 'Vanuatu',
+      ],
       'ces' => [
         'official' => 'Republika Vanuatu',
+        'common' => 'Vanuatu',
+      ],
+      'cym' => [
+        'official' => 'Republic of Vanuatu',
         'common' => 'Vanuatu',
       ],
       'deu' => [
@@ -39148,6 +44695,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Vanuatui Köztársaság',
+        'common' => 'Vanuatu',
+      ],
+      'ind' => [
+        'official' => 'Republik Vanuatu',
         'common' => 'Vanuatu',
       ],
       'ita' => [
@@ -39190,8 +44741,16 @@ class CountriesDataSource
         'official' => 'República de Vanuatu',
         'common' => 'Vanuatu',
       ],
+      'srp' => [
+        'official' => 'Република Вануату',
+        'common' => 'Вануату',
+      ],
       'swe' => [
         'official' => 'Republiken Vanuatu',
+        'common' => 'Vanuatu',
+      ],
+      'tur' => [
+        'official' => 'Vanuatu Cumhuriyeti',
         'common' => 'Vanuatu',
       ],
       'urd' => [
@@ -39273,9 +44832,21 @@ class CountriesDataSource
       'fra' => 'French',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'إقليم جزر واليس وفوتونا',
+        'common' => 'واليس وفوتونا',
+      ],
+      'bre' => [
+        'official' => 'Tiriad Inizi Wallis ha Futuna',
+        'common' => 'Wallis ha Futuna',
+      ],
       'ces' => [
         'official' => 'Teritorium ostrovů Wallis a Futuna',
         'common' => 'Wallis a Futuna',
+      ],
+      'cym' => [
+        'official' => 'Territory of the Wallis and Futuna Islands',
+        'common' => 'Wallis and Futuna',
       ],
       'deu' => [
         'official' => 'Gebiet der Wallis und Futuna',
@@ -39301,6 +44872,10 @@ class CountriesDataSource
         'official' => 'Wallis és Futuna',
         'common' => 'Wallis és Futuna',
       ],
+      'ind' => [
+        'official' => 'Wilayah Kepulauan Wallis dan Futuna',
+        'common' => 'Wallis dan Futuna',
+      ],
       'ita' => [
         'official' => 'Territorio delle Isole Wallis e Futuna',
         'common' => 'Wallis e Futuna',
@@ -39310,8 +44885,8 @@ class CountriesDataSource
         'common' => 'ウォリス・フツナ',
       ],
       'kor' => [
-        'official' => '왈리스 퓌튀나',
-        'common' => '왈리스 퓌튀나',
+        'official' => '왈리스 푸투나',
+        'common' => '왈리스 푸투나',
       ],
       'nld' => [
         'official' => 'Grondgebied van de Wallis en Futuna',
@@ -39341,9 +44916,17 @@ class CountriesDataSource
         'official' => 'Territorio de las Islas Wallis y Futuna',
         'common' => 'Wallis y Futuna',
       ],
+      'srp' => [
+        'official' => 'Територија државе Валис и Футуна',
+        'common' => 'Валис и Футуна',
+      ],
       'swe' => [
         'official' => 'Territoriet Wallis- och Futunaöarna',
         'common' => 'Wallis- och Futunaöarna',
+      ],
+      'tur' => [
+        'official' => 'Wallis ve Futuna Adaları Bölgesi',
+        'common' => 'Wallis ve Futuna Adaları Bölgesi',
       ],
       'urd' => [
         'official' => 'سر زمینِ والس و فتونہ جزائر',
@@ -39429,8 +45012,20 @@ class CountriesDataSource
       'smo' => 'Samoan',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'دولة ساموا المستقلة',
+        'common' => 'ساموا',
+      ],
+      'bre' => [
+        'official' => 'Stad Dizalc\'h Samoa',
+        'common' => 'Samoa',
+      ],
       'ces' => [
         'official' => 'Nezávislý stát Samoa',
+        'common' => 'Samoa',
+      ],
+      'cym' => [
+        'official' => 'Independent State of Samoa',
         'common' => 'Samoa',
       ],
       'deu' => [
@@ -39456,6 +45051,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Szamoai Független Állam',
         'common' => 'Szamoa',
+      ],
+      'ind' => [
+        'official' => 'Negara Independen Samoa',
+        'common' => 'Samoa',
       ],
       'ita' => [
         'official' => 'Stato indipendente di Samoa',
@@ -39497,9 +45096,17 @@ class CountriesDataSource
         'official' => 'Estado Independiente de Samoa',
         'common' => 'Samoa',
       ],
+      'srp' => [
+        'official' => 'Независна Држава Самоа',
+        'common' => 'Самоа',
+      ],
       'swe' => [
         'official' => 'Självständiga staten Samoa',
         'common' => 'Samoa',
+      ],
+      'tur' => [
+        'official' => 'Bağımsız Samoa Devleti',
+        'common' => 'Bağımsız Samoa Devleti',
       ],
       'urd' => [
         'official' => 'آزاد سلطنتِ ساموا',
@@ -39580,9 +45187,21 @@ class CountriesDataSource
       'ara' => 'Arabic',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'الجمهورية اليمنية',
+        'common' => 'اليمن',
+      ],
+      'bre' => [
+        'official' => 'Republik Yemen',
+        'common' => 'Yemen',
+      ],
       'ces' => [
         'official' => 'Jemenská republika',
         'common' => 'Jemen',
+      ],
+      'cym' => [
+        'official' => 'Republic of Yemen',
+        'common' => 'Yemen',
       ],
       'deu' => [
         'official' => 'Republik Jemen',
@@ -39607,6 +45226,10 @@ class CountriesDataSource
       'hun' => [
         'official' => 'Jemeni Köztársaság',
         'common' => 'Jemen',
+      ],
+      'ind' => [
+        'official' => 'Republik Yaman',
+        'common' => 'Yaman',
       ],
       'ita' => [
         'official' => 'Repubblica dello Yemen',
@@ -39648,9 +45271,17 @@ class CountriesDataSource
         'official' => 'República de Yemen',
         'common' => 'Yemen',
       ],
+      'srp' => [
+        'official' => 'Република Јемен',
+        'common' => 'Јемен',
+      ],
       'swe' => [
         'official' => 'Republiken Jemen',
         'common' => 'Jemen',
+      ],
+      'tur' => [
+        'official' => 'Yemen Cumhuriyeti',
+        'common' => 'Yemen',
       ],
       'urd' => [
         'official' => 'جمہوریہ یمن',
@@ -39786,9 +45417,21 @@ class CountriesDataSource
       'zul' => 'Zulu',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية جنوب أفريقيا',
+        'common' => 'جنوب أفريقيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Suafrika',
+        'common' => 'Suafrika',
+      ],
       'ces' => [
         'official' => 'Jihoafrická republika',
         'common' => 'Jihoafrická republika',
+      ],
+      'cym' => [
+        'official' => 'Republic of South Africa',
+        'common' => 'South Africa',
       ],
       'deu' => [
         'official' => 'Republik Südafrika',
@@ -39808,11 +45451,15 @@ class CountriesDataSource
       ],
       'hrv' => [
         'official' => 'Južnoafrička Republika',
-        'common' => 'Južnoafrička Republika',
+        'common' => 'Južna Afrika',
       ],
       'hun' => [
         'official' => 'Dél-afrikai Köztársaság',
         'common' => 'Dél-afrikai Köztársaság',
+      ],
+      'ind' => [
+        'official' => 'Republik Afrika Selatan',
+        'common' => 'Afrika Selatan',
       ],
       'ita' => [
         'official' => 'Repubblica del Sud Africa',
@@ -39824,7 +45471,7 @@ class CountriesDataSource
       ],
       'kor' => [
         'official' => '남아프리카 공화국',
-        'common' => '남아프리카',
+        'common' => '남아프리카 공화국',
       ],
       'nld' => [
         'official' => 'Republiek Zuid-Afrika',
@@ -39844,19 +45491,27 @@ class CountriesDataSource
       ],
       'rus' => [
         'official' => 'Южно-Африканская Республика',
-        'common' => 'Южно-Африканская Республика',
+        'common' => 'Южная Африка',
       ],
       'slk' => [
         'official' => 'Juhoafrická republika',
-        'common' => 'Juhoafrická republika',
+        'common' => 'Južná Afrika',
       ],
       'spa' => [
         'official' => 'República de Sudáfrica',
-        'common' => 'República de Sudáfrica',
+        'common' => 'Sudáfrica',
+      ],
+      'srp' => [
+        'official' => 'Република Јужна Африка',
+        'common' => 'Јужноафричка Република',
       ],
       'swe' => [
         'official' => 'Republiken Sydafrika',
         'common' => 'Sydafrika',
+      ],
+      'tur' => [
+        'official' => 'Güney Afrika Cumhuriyeti',
+        'common' => 'Güney Afrika',
       ],
       'urd' => [
         'official' => 'جمہوریہ جنوبی افریقا',
@@ -39942,9 +45597,21 @@ class CountriesDataSource
       'eng' => 'English',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية زامبيا',
+        'common' => 'زامبيا',
+      ],
+      'bre' => [
+        'official' => 'Republik Zambia',
+        'common' => 'Zambia',
+      ],
       'ces' => [
         'official' => 'Zambijská republika',
         'common' => 'Zambie',
+      ],
+      'cym' => [
+        'official' => 'Republic of Zambia',
+        'common' => 'Zambia',
       ],
       'deu' => [
         'official' => 'Republik Sambia',
@@ -39968,6 +45635,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Zambiai Köztársaság',
+        'common' => 'Zambia',
+      ],
+      'ind' => [
+        'official' => 'Republik Zambia',
         'common' => 'Zambia',
       ],
       'ita' => [
@@ -40010,9 +45681,17 @@ class CountriesDataSource
         'official' => 'República de Zambia',
         'common' => 'Zambia',
       ],
+      'srp' => [
+        'official' => 'Република Замбија',
+        'common' => 'Замбија',
+      ],
       'swe' => [
         'official' => 'Republiken Zambia',
         'common' => 'Zambia',
+      ],
+      'tur' => [
+        'official' => 'Zambiya Cumhuriyeti',
+        'common' => 'Zambiya',
       ],
       'urd' => [
         'official' => 'جمہوریہ زیمبیا',
@@ -40132,41 +45811,9 @@ class CountriesDataSource
     'status' => 'officially-assigned',
     'unMember' => true,
     'currencies' => [
-      'BWP' => [
-        'name' => 'Botswana pula',
-        'symbol' => 'P',
-      ],
-      'CNY' => [
-        'name' => 'Chinese yuan',
-        'symbol' => '¥',
-      ],
-      'EUR' => [
-        'name' => 'Euro',
-        'symbol' => '€',
-      ],
-      'GBP' => [
-        'name' => 'British pound',
-        'symbol' => '£',
-      ],
-      'INR' => [
-        'name' => 'Indian rupee',
-        'symbol' => '₹',
-      ],
-      'JPY' => [
-        'name' => 'Japanese yen',
-        'symbol' => '¥',
-      ],
-      'USD' => [
-        'name' => 'United States dollar',
+      'ZWL' => [
+        'name' => 'Zimbabwean dollar',
         'symbol' => '$',
-      ],
-      'ZAR' => [
-        'name' => 'South African rand',
-        'symbol' => 'Rs',
-      ],
-      'ZWG' => [
-        'name' => 'Zimbabwe Gold',
-        'symbol' => 'ZiG',
       ],
     ],
     'idd' => [
@@ -40183,7 +45830,7 @@ class CountriesDataSource
       1 => 'Republic of Zimbabwe',
     ],
     'region' => 'Africa',
-    'subregion' => 'Eastern Africa',
+    'subregion' => 'Southern Africa',
     'languages' => [
       'bwg' => 'Chibarwe',
       'eng' => 'English',
@@ -40202,8 +45849,20 @@ class CountriesDataSource
       'zib' => 'Zimbabwean Sign Language',
     ],
     'translations' => [
+      'ara' => [
+        'official' => 'جمهورية زيمبابوي',
+        'common' => 'زيمبابوي',
+      ],
+      'bre' => [
+        'official' => 'Republik Zimbabwe',
+        'common' => 'Zimbabwe',
+      ],
       'ces' => [
         'official' => 'Zimbabwská republika',
+        'common' => 'Zimbabwe',
+      ],
+      'cym' => [
+        'official' => 'Republic of Zimbabwe',
         'common' => 'Zimbabwe',
       ],
       'deu' => [
@@ -40228,6 +45887,10 @@ class CountriesDataSource
       ],
       'hun' => [
         'official' => 'Zimbabwei Köztársaság',
+        'common' => 'Zimbabwe',
+      ],
+      'ind' => [
+        'official' => 'Republik Zimbabwe',
         'common' => 'Zimbabwe',
       ],
       'ita' => [
@@ -40270,9 +45933,17 @@ class CountriesDataSource
         'official' => 'República de Zimbabue',
         'common' => 'Zimbabue',
       ],
+      'srp' => [
+        'official' => 'Република Зимбабве',
+        'common' => 'Зимбабве',
+      ],
       'swe' => [
         'official' => 'Republiken Zimbabwe',
         'common' => 'Zimbabwe',
+      ],
+      'tur' => [
+        'official' => 'Zimbabve Cumhuriyeti',
+        'common' => 'Zimbabve',
       ],
       'urd' => [
         'official' => 'جمہوریہ زمبابوے',
