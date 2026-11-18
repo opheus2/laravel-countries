@@ -26,15 +26,7 @@ class CountryCast implements CastsAttributes
             return null;
         }
 
-        if ($this->isoCodeVersion === 'alpha3') {
-            return Countries::getByAlpha3Code($value);
-        }
-
-        if ($this->isoCodeVersion === 'numeric') {
-            return Countries::getByNumericCode($value);
-        }
-
-        return Countries::getByAlpha2Code($value);
+        return Countries::getByCode($value);
     }
 
     public function set($model, string $key, $value, array $attributes)

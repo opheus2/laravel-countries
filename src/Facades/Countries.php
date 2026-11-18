@@ -29,11 +29,6 @@ use Orpheus\LaravelCountries\RegionsTrait;
  * @method static array|\Illuminate\Support\Collection getAll(array $countries = [], bool $asCollection = false)
  * @method static array getListForDropdown(string $key = 'cca3', bool $official = false, string $localization = null)
  * @method static array getRawData()
- *
- * Deprecated methods (v3.0.0) — use getByCode() instead:
- * @method static \Orpheus\LaravelCountries\Country|null getByAlpha2Code(string $alpha2Code)
- * @method static \Orpheus\LaravelCountries\Country|null getByAlpha3Code(string $alpha3Code)
- * @method static \Orpheus\LaravelCountries\Country|null getByNumericCode(int $numericCode)
  */
 class Countries extends Facade
 {

@@ -8278,7 +8278,7 @@ class CountriesDataSource
       ],
       'slk' => [
         'official' => 'Republika Pobrežie Slonoviny',
-        'common' => 'Pobržie Slonoviny',
+        'common' => 'Pobrežie Slonoviny',
       ],
       'spa' => [
         'official' => 'República de Côte d\'Ivoire',
@@ -16172,7 +16172,7 @@ class CountriesDataSource
       ],
     ],
     'capital' => [
-      0 => 'Malabo',
+      0 => 'Ciudad de la Paz',
     ],
     'altSpellings' => [
       0 => 'GQ',

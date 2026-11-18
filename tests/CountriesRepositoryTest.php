@@ -337,27 +337,4 @@ class CountriesRepositoryTest extends LaravelCountriesTestCase
 
         $this->assertEquals(count($all), count($independent) + count($nonIndependent));
     }
-
-    // --- Deprecated methods still work ---
-
-    public function test_deprecated_getByAlpha2Code_still_works()
-    {
-        $country = @$this->countries->getByAlpha2Code('CA');
-        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
-        $this->assertEquals('Canada', $country->getCommonName());
-    }
-
-    public function test_deprecated_getByAlpha3Code_still_works()
-    {
-        $country = @$this->countries->getByAlpha3Code('CAN');
-        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
-        $this->assertEquals('Canada', $country->getCommonName());
-    }
-
-    public function test_deprecated_getByNumericCode_still_works()
-    {
-        $country = @$this->countries->getByNumericCode(124);
-        $this->assertInstanceOf(\Orpheus\LaravelCountries\Country::class, $country);
-        $this->assertEquals('Canada', $country->getCommonName());
-    }
 }

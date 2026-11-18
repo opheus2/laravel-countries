@@ -7,12 +7,18 @@
 
 A Laravel package that provides comprehensive data for every country — codes, names, currencies, languages, capitals, regions, demonyms, translations, and more. Laravel 11+ supported.
 
-## What's New in v3.0.0
+## What's New in v4.0.0
+
+`getByAlpha2Code()`, `getByAlpha3Code()`, and `getByNumericCode()` have been removed after being deprecated in v3.0.0. Use `getByCode()` for all country-code lookups.
+
+This is a breaking API change, so it requires a major release under [Semantic Versioning](https://semver.org/). See the upgrade guide below before updating.
+
+### Previously in v3.0.0
 
 - **Updated data source** — Country data is now compiled from the [REST Countries v3.1](https://gitlab.com/restcountries/restcountries) dataset.
 - **New search methods** — Search by name, language, capital, demonym, translation, and independence status.
 - **Unified code lookup** — New `getByCode()` method auto-detects cca2, cca3, ccn3, or cioc codes.
-- **Deprecations** — `getByAlpha2Code()`, `getByAlpha3Code()`, and `getByNumericCode()` are deprecated in favor of `getByCode()`. They still work but will trigger `E_USER_DEPRECATED` notices.
+- **Deprecations** — `getByAlpha2Code()`, `getByAlpha3Code()`, and `getByNumericCode()` were deprecated in favor of `getByCode()` and have now been removed in v4.0.0.
 - **PHPUnit 12 compatibility** — Test suite updated.
 
 ## Install
@@ -21,25 +27,31 @@ A Laravel package that provides comprehensive data for every country — codes, 
 composer require opheus2/laravel-countries
 ```
 
-## Upgrading from v2.x
+## Upgrading from v2.x or v3.x to v4.0.0
 
-Replace deprecated method calls:
+Replace all calls to the removed methods, whether using the Countries facade or CountriesRepository directly:
 
 ```php
 use Orpheus\LaravelCountries\Facades\Countries;
 
-// Before (deprecated)
+// Before (v2.x / v3.x; removed in v4.0.0)
 $country = Countries::getByAlpha2Code('CA');
 $country = Countries::getByAlpha3Code('CAN');
 $country = Countries::getByNumericCode(124);
 
-// After
+// After (v4.0.0)
 $country = Countries::getByCode('CA');
 $country = Countries::getByCode('CAN');
 $country = Countries::getByCode(124);
 ```
 
-The deprecated methods still function but will emit `E_USER_DEPRECATED` warnings and will be removed in a future major release.
+Update your Composer constraint to allow the new major version:
+
+```bash
+composer require opheus2/laravel-countries:^4.0
+```
+
+The country-object accessors `getAlpha2Code()`, `getAlpha3Code()`, and `getNumericCode()` remain supported.
 
 ## Usage
 
@@ -328,9 +340,11 @@ composer compile-data-source
 | `getListForDropdown($key, $official, $locale)` | `array` | Key-value pairs for dropdowns |
 | `getRawData()` | `array` | Raw country data array |
 
-### Deprecated Methods (v3.0.0)
+### Removed Methods (v4.0.0)
 
-| Deprecated Method | Replacement |
+These methods were deprecated in v3.0.0 and are no longer available:
+
+| Removed Method | Replacement |
 |-------------------|-------------|
 | `getByAlpha2Code($code)` | `getByCode($code)` |
 | `getByAlpha3Code($code)` | `getByCode($code)` |

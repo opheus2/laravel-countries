@@ -58,48 +58,6 @@ class CountriesRepository
     }
 
     /**
-     * Get the country from it's 2-letters country code from ISO3166.
-     *
-     * @deprecated 3.0.0 Use getByCode() instead.
-     * @param  string $code The country's code.
-     * @return Country|null The matching country.
-     */
-    public function getByAlpha2Code($code)
-    {
-        @trigger_error('getByAlpha2Code() is deprecated since v3.0.0, use getByCode() instead.', E_USER_DEPRECATED);
-
-        return $this->searchItem('cca2', mb_strtoupper($code));
-    }
-
-    /**
-     * Get the country from it's 3-letters country code from ISO3166.
-     *
-     * @deprecated 3.0.0 Use getByCode() instead.
-     * @param  string $code The country's code.
-     * @return Country|null The matching country.
-     */
-    public function getByAlpha3Code($code)
-    {
-        @trigger_error('getByAlpha3Code() is deprecated since v3.0.0, use getByCode() instead.', E_USER_DEPRECATED);
-
-        return $this->searchItem('cca3', mb_strtoupper($code));
-    }
-
-    /**
-     * Get the country from it's 3-digits country code from ISO3166.
-     *
-     * @deprecated 3.0.0 Use getByCode() instead.
-     * @param  int $code The country's code.
-     * @return Country|null The matching country.
-     */
-    public function getByNumericCode($code)
-    {
-        @trigger_error('getByNumericCode() is deprecated since v3.0.0, use getByCode() instead.', E_USER_DEPRECATED);
-
-        return $this->searchItem('ccn3', $code);
-    }
-
-    /**
      * Get all the countries in a region.
      *
      * @param  string $region The region name
